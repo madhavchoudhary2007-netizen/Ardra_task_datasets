@@ -1,0 +1,233 @@
+{
+  "seed": 42,
+  "multiplier": 8,
+  "target_ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "phash_threshold": 5,
+  "category_ambiguity": {
+    "categories": {
+      "0": {
+        "id": 0,
+        "name": "Tripod",
+        "supercategory": "none"
+      },
+      "1": {
+        "id": 1,
+        "name": "Tripod",
+        "supercategory": "Tripod"
+      }
+    },
+    "used_category_id": 1,
+    "unused_category_id": 0
+  },
+  "segmentation": {
+    "total_source_images": 200,
+    "class_counts": {
+      "partial": 138,
+      "clean": 47,
+      "excluded_non_white_background": 12,
+      "failed": 3
+    },
+    "usable_for_compositing": 183
+  },
+  "watermark": {
+    "heuristic_threshold": 0.15,
+    "heuristic_candidate_count": 32,
+    "manually_confirmed_excluded": [
+      "Tripod_109_jpg.rf.DGrxTF7BuibOUagyt4aY.jpg",
+      "Tripod_69_jpg.rf.zYemAxDTmlS2d4BkZgab.jpg"
+    ]
+  },
+  "size_provenance": {
+    "method": "Monte Carlo over real (altitude, pitch, tripod-height), exact projection via dronescan.synth.generator._camera_pose_for_pitch/_project_points (imported, not reimplemented), object placed at the camera boresight-centre ground distance (a representative, not closest/farthest, in-frame placement)",
+    "real_altitude_range_m": [
+      2.44,
+      3.05
+    ],
+    "real_pitch_deg_range": [
+      30.0,
+      60.0
+    ],
+    "tripod_height_range_m_ASSUMPTION": [
+      1.0,
+      1.6
+    ],
+    "derivation_frame_w_px": 384,
+    "n_samples": 200000,
+    "n_invalid_dropped": 0,
+    "derived_target_size_px_range": [
+      60.282311338946215,
+      213.5037306783608
+    ],
+    "median_px": 113.12640526901592,
+    "percentiles_px": {
+      "p5": 79.797127724351,
+      "p25": 96.46566763599375,
+      "p50": 113.12640526901592,
+      "p75": 133.82002419403995,
+      "p95": 165.25116065694888,
+      "p99": 186.05589925749427
+    },
+    "height_sensitivity_px_at_mid_altitude_pitch": {
+      "1.0m": 85.52338530066815,
+      "1.1m": 96.21867881548975,
+      "1.2m": 107.41258741258743,
+      "1.3m": 119.14081145584728,
+      "1.4m": 131.4425427872861,
+      "1.5m": 144.36090225563913,
+      "1.6m": 157.94344473007718
+    },
+    "architect_sanity_estimate_px": [
+      150,
+      250
+    ],
+    "reconciliation_note": "Architect's rough estimate was ~150-250px; this derivation's median (113.1px) is BELOW that range for a frame-centred placement, but the upper tail (p95=165.3px, max=213.5px) reaches into it -- consistent with a tripod placed nearer the bottom/closest part of the frame rather than dead-centre (see docs/tripod-realscale-report.md section 2 for the secondary within-frame-position analysis and the full reconciliation; this derivation is reported as-is, not forced to match).",
+    "invalid_prior_derivation_source": "docs/altitude-detectability-sweep.json",
+    "note": "lo/hi are the min/max of the full Monte Carlo sample (not a percentile trim) -- AerialAugmentConfig.target_size_px_range samples uniformly within [lo, hi] per generated variant via the FROZEN scale_to_target_size()/augment pipeline, exactly as the prior (now-invalid-source) architecture did; only the SOURCE of the range changed, not how it is consumed."
+  },
+  "near_duplicate_detection": {
+    "num_clusters": 0,
+    "clusters": [],
+    "unreadable": []
+  },
+  "exact_duplicate_detection": {
+    "num_clusters": 0,
+    "clusters": []
+  },
+  "grouping": {
+    "num_groups": 187,
+    "num_usable_sources": 187,
+    "num_usable_sources_composite": 183,
+    "num_usable_sources_natural_scene": 4
+  },
+  "generation_stats": {
+    "attempted": 1464,
+    "dropped_scale": 0,
+    "dropped_geometric": 0,
+    "dropped_bg": 0,
+    "dropped_composite": 0,
+    "generated": 1464
+  },
+  "natural_scene": {
+    "total_excluded_non_white_background": 12,
+    "kept": [
+      "CAMBIAR (7)_jpg.rf.gZ1qg0CMHSwEbAiRvudA.jpg",
+      "Tripod_135_jpg.rf.2s9BNqsg4bGHPQUA6e7C.jpg",
+      "Tripod_49_jpg.rf.0xlEJTe98CBvIChxSp1Z.jpg",
+      "Tripod_6_jpg.rf.BNvXp48AFg5Gb8cuS2Oy.jpg"
+    ],
+    "dropped": [
+      "CAMBIAR (2)_jpg.rf.VXzbJgz8bYKzSxZqmWu2.jpg",
+      "CAMBIAR (3)_jpg.rf.h6COdFbz0W7kaKxbvtbV.jpg",
+      "Tripod_11_jpg.rf.gkQPTYWcVrYOmxBB3ABD.jpg",
+      "Tripod_137_jpg.rf.gkS37yemETE82MzjYTu2.jpg",
+      "Tripod_197_jpg.rf.VhSyitjAn3f30q2sTYPB.jpg",
+      "Tripod_48_jpg.rf.gAYUSVWr3B7L7nDtTEig.jpg",
+      "Tripod_67_jpg.rf.yfCGBCi50xOKys8f8Tju.jpg",
+      "Tripod_99_jpg.rf.fxEuNSbP5pU2zE4VX3A8.jpg"
+    ],
+    "kept_reasons": {
+      "Tripod_6_jpg.rf.BNvXp48AFg5Gb8cuS2Oy.jpg": "Real photo. Carbon-fibre tripod+camera standing on a wave-splashed coastal rock, real sky/horizon and distant headland visible. Genuine outdoor real terrain, plausible ground-contact object. KEEP.",
+      "CAMBIAR (7)_jpg.rf.gZ1qg0CMHSwEbAiRvudA.jpg": "Real photo. Tripod standing in a frost-covered winter field of dry grass/scrub, blue sky with a contrail visible. Genuine outdoor real terrain (this is the 'frosted winter field' image the prior TRIPOD-COMPOSITE-PIPELINE report described under the filename Tripod_197 -- re-opening both files during this task shows that description actually matches THIS file, not Tripod_197 (see Tripod_197's own entry in NATURAL_SCENE_DROP below); corrected here, not silently). Carries a repeating 'Adobe Stock' watermark diagonal text across the frame -- a real, stated limitation (does not obscure the object's silhouette) -- but the terrain itself is genuine. KEEP.",
+      "Tripod_49_jpg.rf.0xlEJTe98CBvIChxSp1Z.jpg": "Real photo. Flexible-leg tripod standing on a concrete/paved slab at the edge of a body of water (river or lake), gravel visible. Genuine outdoor real terrain, plausible mission-relevant ground (a drone could plausibly overfly a paved waterside area). KEEP.",
+      "Tripod_135_jpg.rf.2s9BNqsg4bGHPQUA6e7C.jpg": "Real photo. Camera+tripod standing on open grass in a park/field, trees and natural sky in the background, natural directional lighting already baked in (a real cast shadow is visible at the object's own feet). The strongest match to mission terrain of all 12 -- open grass field is exactly the kind of ground this dataset needs more of. KEEP."
+    },
+    "dropped_reasons": {
+      "Tripod_67_jpg.rf.yfCGBCi50xOKys8f8Tju.jpg": "Real photo, but INDOOR: a surveying tripod standing on a tiled corridor/hallway floor in front of a painted interior wall. No sky, no outdoor ground. Not mission terrain -- oblique-warping this in place would misleadingly imply the object is outdoors. DROP.",
+      "Tripod_48_jpg.rf.gAYUSVWr3B7L7nDtTEig.jpg": "Real photo, but a STUDIO shot: camera+tripod in front of a whitewashed wood-plank backdrop (the exact 'indoor wood floor' case the task brief warned could be actively misleading). Not mission terrain. DROP.",
+      "Tripod_11_jpg.rf.gkQPTYWcVrYOmxBB3ABD.jpg": "Real photo, but (a) a studio product shot on a plain beige/tan backdrop, not real terrain, and (b) on opening it, the object is NOT an instrument tripod at all -- it is a decorative three-legged metal ring stand (visually a plant-pot/cauldron holder), a poor proxy for `short_tripod` even before the background question. DROP on both grounds.",
+      "Tripod_137_jpg.rf.gkS37yemETE82MzjYTu2.jpg": "On opening: this is actually a plain WHITE-background product photo of a small red flexible tripod, corrupted by a stock-image green diagonal banner and warning-triangle icon graphic overlaid across part of the frame -- the border-mean-BGR white-background test (measured over a 12px border strip) failed only because that graphic happens to touch the border sampling region, not because this is a natural outdoor scene. It is not real terrain and was never a candidate for this augmentation path (it also was not, and is not, re-routed through the white-background segmentation pool in this task -- that would be a separate, unreviewed change outside this task's per-image assessment). DROP; reported here as a correction to the established-context framing of all 12 as 'natural-scene stock photos', which does not hold for this file.",
+      "Tripod_99_jpg.rf.fxEuNSbP5pU2zE4VX3A8.jpg": "On opening: this is a VECTOR/CGI illustration (flat vector-art camera-on-tripod graphic, 'VectorStock' watermark), not a photograph of anything real. Compositing or warping a cartoon graphic into a photographic training set would inject an obvious, unrealistic texture/edge-statistics outlier. DROP.",
+      "CAMBIAR (3)_jpg.rf.h6COdFbz0W7kaKxbvtbV.jpg": "On opening: this is a flat-shaded VECTOR/cartoon illustration of a camera-on-tripod on a solid orange-gradient background, 'Adobe Stock' watermark. Not a photograph. Same reasoning as Tripod_99. DROP.",
+      "CAMBIAR (2)_jpg.rf.VXzbJgz8bYKzSxZqmWu2.jpg": "Real photo, but a STUDIO product shot: camera+tripod against a flat solid orange/yellow studio backdrop, no real ground/terrain visible at all. Not mission terrain. DROP.",
+      "Tripod_197_jpg.rf.VhSyitjAn3f30q2sTYPB.jpg": "Real photo, but INDOOR: a flexible gorillapod-style tripod standing on a light hardwood-plank floor, no sky/outdoor ground visible. NOTE (correction to established context): the prior TRIPOD-COMPOSITE-PIPELINE report's section 3a described 'Tripod_197 ...jpg -- a tripod in a frosted winter field', but re-opening this exact file during this task shows an indoor wood floor, not a winter field -- that description actually matches 'CAMBIAR (7)_jpg...' (see NATURAL_SCENE_KEEP above). Reported explicitly rather than silently carried forward. DROP (indoor domestic floor, not mission terrain)."
+    },
+    "generation_stats": {
+      "attempted": 32,
+      "dropped": 0,
+      "generated": 32
+    },
+    "box_audit_summary": {
+      "num_checked": 32,
+      "num_in_bounds": 32,
+      "num_non_degenerate": 32,
+      "patch_std_mean": 49.26315625,
+      "patch_std_min": 39.336
+    }
+  },
+  "achieved_split_counts": {
+    "train": 1048,
+    "test": 224,
+    "val": 224
+  },
+  "achieved_split_proportions": {
+    "train": 0.7005347593582888,
+    "test": 0.1497326203208556,
+    "val": 0.1497326203208556
+  },
+  "audit_leakage": {
+    "leaked": false,
+    "num_issues": 0
+  },
+  "independent_source_id_check": {
+    "num_sources_spanning_gt1_split": 0,
+    "num_distinct_source_ids": 187,
+    "violations": {}
+  },
+  "foreshortening": {
+    "model": "factor = clip(cos(pitch_deg) / (1 - height_m*sin(pitch_deg)^2/altitude_m), FORESHORTEN_MIN_FACTOR, 1.0) -- near-field-corrected (TRIPOD-REAL-SCALE), anchored at object ground-contact row; altitude_m/height_m sampled per-instance from REAL_ALTITUDE_RANGE_M/TRIPOD_HEIGHT_RANGE_M",
+    "derived_from": "dronescan.synth.generator._camera_pose_for_pitch / _project_points (exact near-field formula, re-derived this task -- see near_field_foreshorten_factor docstring and docs/tripod-realscale-report.md section 3; supersedes the old far-field cos(pitch_deg)-only model from docs/tripod-foreshorten-report.md, which is now shown to deviate by up to ~97% at the real 2.44-3.05m altitude)",
+    "real_altitude_range_m": [
+      2.44,
+      3.05
+    ],
+    "tripod_height_range_m": [
+      1.0,
+      1.6
+    ],
+    "light_elevation_deg_range": [
+      20.0,
+      70.0
+    ],
+    "pitch_coupling": {
+      "num_checked": 1464,
+      "num_mismatches": 0
+    },
+    "box_audit_summary": {
+      "num_checked": 1464,
+      "edge_deviation_px_mean_x1y1x2y2": [
+        1.5058395515469234,
+        2.2808321467762913,
+        0.8875328260888299,
+        0.535932558082007
+      ],
+      "edge_deviation_px_median_x1y1x2y2": [
+        1.7586206896551735,
+        2.4163989290495316,
+        0.7557305336832911,
+        0.0
+      ],
+      "edge_deviation_px_max_x1y1x2y2": [
+        5.368421052631561,
+        3.5,
+        3.2203389830508513,
+        5.18803418803418
+      ],
+      "iou_mean": 0.9424022728823339,
+      "iou_median": 0.9476979006169742,
+      "iou_min": 0.8151761517615176,
+      "foreshorten_factor_mean": 0.9140412256366216,
+      "foreshorten_factor_min": 0.6972141278851474,
+      "foreshorten_factor_max": 1.0
+    }
+  },
+  "background_gsd_correction": {
+    "bg_upscale_factor": 1.97,
+    "subcanvas_px": 195,
+    "canvas_px": 384,
+    "note": "flags-droneview provides no GSD/altitude metadata (confirmed docs/dataset-audit.md: 'GSD / altitude: NOT VISIBLE'; images are also apparently synthetic renders, not real photographs). BG_UPSCALE_FACTOR is a REASONED, clearly-labeled-assumption correction (not a ground-truth measurement) -- see docs/tripod-realscale-report.md section 4 for the full derivation and residual-mismatch accounting."
+  }
+}

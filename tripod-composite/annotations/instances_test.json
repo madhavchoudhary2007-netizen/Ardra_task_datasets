@@ -1,0 +1,5872 @@
+{
+  "info": {
+    "generator": "dronescan.data.coco_export",
+    "class_set_id": "provisional-2026-07",
+    "manifest_id": "tripod-composite-short_tripod",
+    "manifest_created_at": null,
+    "num_images": 224,
+    "num_annotations": 224
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "CC BY 4.0",
+      "url": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "images/test/src009_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 2,
+      "file_name": "images/test/src009_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 3,
+      "file_name": "images/test/src009_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 4,
+      "file_name": "images/test/src009_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 5,
+      "file_name": "images/test/src009_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 6,
+      "file_name": "images/test/src009_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 7,
+      "file_name": "images/test/src009_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 8,
+      "file_name": "images/test/src009_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src009_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 9,
+      "file_name": "images/test/src010_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 10,
+      "file_name": "images/test/src010_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 11,
+      "file_name": "images/test/src010_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 12,
+      "file_name": "images/test/src010_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 13,
+      "file_name": "images/test/src010_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 14,
+      "file_name": "images/test/src010_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 15,
+      "file_name": "images/test/src010_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 16,
+      "file_name": "images/test/src010_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src010_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 17,
+      "file_name": "images/test/src012_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 18,
+      "file_name": "images/test/src012_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 19,
+      "file_name": "images/test/src012_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 20,
+      "file_name": "images/test/src012_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 21,
+      "file_name": "images/test/src012_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 22,
+      "file_name": "images/test/src012_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 23,
+      "file_name": "images/test/src012_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 24,
+      "file_name": "images/test/src012_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src012_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 25,
+      "file_name": "images/test/src018_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 26,
+      "file_name": "images/test/src018_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 27,
+      "file_name": "images/test/src018_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 28,
+      "file_name": "images/test/src018_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 29,
+      "file_name": "images/test/src018_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 30,
+      "file_name": "images/test/src018_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 31,
+      "file_name": "images/test/src018_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 32,
+      "file_name": "images/test/src018_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src018_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 33,
+      "file_name": "images/test/src026_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 34,
+      "file_name": "images/test/src026_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 35,
+      "file_name": "images/test/src026_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 36,
+      "file_name": "images/test/src026_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 37,
+      "file_name": "images/test/src026_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 38,
+      "file_name": "images/test/src026_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 39,
+      "file_name": "images/test/src026_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 40,
+      "file_name": "images/test/src026_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src026_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 41,
+      "file_name": "images/test/src034_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 42,
+      "file_name": "images/test/src034_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 43,
+      "file_name": "images/test/src034_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 44,
+      "file_name": "images/test/src034_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 45,
+      "file_name": "images/test/src034_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 46,
+      "file_name": "images/test/src034_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 47,
+      "file_name": "images/test/src034_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 48,
+      "file_name": "images/test/src034_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src034_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 49,
+      "file_name": "images/test/src036_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 50,
+      "file_name": "images/test/src036_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 51,
+      "file_name": "images/test/src036_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 52,
+      "file_name": "images/test/src036_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 53,
+      "file_name": "images/test/src036_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 54,
+      "file_name": "images/test/src036_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 55,
+      "file_name": "images/test/src036_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 56,
+      "file_name": "images/test/src036_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src036_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 57,
+      "file_name": "images/test/src055_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 58,
+      "file_name": "images/test/src055_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 59,
+      "file_name": "images/test/src055_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 60,
+      "file_name": "images/test/src055_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 61,
+      "file_name": "images/test/src055_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 62,
+      "file_name": "images/test/src055_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 63,
+      "file_name": "images/test/src055_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 64,
+      "file_name": "images/test/src055_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src055_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 65,
+      "file_name": "images/test/src056_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 66,
+      "file_name": "images/test/src056_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 67,
+      "file_name": "images/test/src056_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 68,
+      "file_name": "images/test/src056_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 69,
+      "file_name": "images/test/src056_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 70,
+      "file_name": "images/test/src056_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 71,
+      "file_name": "images/test/src056_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 72,
+      "file_name": "images/test/src056_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src056_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 73,
+      "file_name": "images/test/src057_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 74,
+      "file_name": "images/test/src057_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 75,
+      "file_name": "images/test/src057_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 76,
+      "file_name": "images/test/src057_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 77,
+      "file_name": "images/test/src057_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 78,
+      "file_name": "images/test/src057_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 79,
+      "file_name": "images/test/src057_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 80,
+      "file_name": "images/test/src057_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src057_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 81,
+      "file_name": "images/test/src063_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 82,
+      "file_name": "images/test/src063_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 83,
+      "file_name": "images/test/src063_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 84,
+      "file_name": "images/test/src063_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 85,
+      "file_name": "images/test/src063_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 86,
+      "file_name": "images/test/src063_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 87,
+      "file_name": "images/test/src063_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 88,
+      "file_name": "images/test/src063_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src063_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 89,
+      "file_name": "images/test/src066_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 90,
+      "file_name": "images/test/src066_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 91,
+      "file_name": "images/test/src066_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 92,
+      "file_name": "images/test/src066_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 93,
+      "file_name": "images/test/src066_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 94,
+      "file_name": "images/test/src066_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 95,
+      "file_name": "images/test/src066_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 96,
+      "file_name": "images/test/src066_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src066_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 97,
+      "file_name": "images/test/src071_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 98,
+      "file_name": "images/test/src071_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 99,
+      "file_name": "images/test/src071_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 100,
+      "file_name": "images/test/src071_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 101,
+      "file_name": "images/test/src071_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 102,
+      "file_name": "images/test/src071_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 103,
+      "file_name": "images/test/src071_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 104,
+      "file_name": "images/test/src071_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src071_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 105,
+      "file_name": "images/test/src077_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 106,
+      "file_name": "images/test/src077_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 107,
+      "file_name": "images/test/src077_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 108,
+      "file_name": "images/test/src077_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 109,
+      "file_name": "images/test/src077_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 110,
+      "file_name": "images/test/src077_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 111,
+      "file_name": "images/test/src077_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 112,
+      "file_name": "images/test/src077_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src077_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 113,
+      "file_name": "images/test/src079_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 114,
+      "file_name": "images/test/src079_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 115,
+      "file_name": "images/test/src079_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 116,
+      "file_name": "images/test/src079_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 117,
+      "file_name": "images/test/src079_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 118,
+      "file_name": "images/test/src079_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 119,
+      "file_name": "images/test/src079_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 120,
+      "file_name": "images/test/src079_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src079_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 121,
+      "file_name": "images/test/src081_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 122,
+      "file_name": "images/test/src081_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 123,
+      "file_name": "images/test/src081_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 124,
+      "file_name": "images/test/src081_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 125,
+      "file_name": "images/test/src081_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 126,
+      "file_name": "images/test/src081_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 127,
+      "file_name": "images/test/src081_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 128,
+      "file_name": "images/test/src081_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src081_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 129,
+      "file_name": "images/test/src097_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 130,
+      "file_name": "images/test/src097_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 131,
+      "file_name": "images/test/src097_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 132,
+      "file_name": "images/test/src097_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 133,
+      "file_name": "images/test/src097_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 134,
+      "file_name": "images/test/src097_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 135,
+      "file_name": "images/test/src097_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 136,
+      "file_name": "images/test/src097_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src097_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 137,
+      "file_name": "images/test/src098_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 138,
+      "file_name": "images/test/src098_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 139,
+      "file_name": "images/test/src098_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 140,
+      "file_name": "images/test/src098_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 141,
+      "file_name": "images/test/src098_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 142,
+      "file_name": "images/test/src098_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 143,
+      "file_name": "images/test/src098_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 144,
+      "file_name": "images/test/src098_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src098_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 145,
+      "file_name": "images/test/src101_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 146,
+      "file_name": "images/test/src101_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 147,
+      "file_name": "images/test/src101_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 148,
+      "file_name": "images/test/src101_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 149,
+      "file_name": "images/test/src101_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 150,
+      "file_name": "images/test/src101_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 151,
+      "file_name": "images/test/src101_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 152,
+      "file_name": "images/test/src101_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src101_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 153,
+      "file_name": "images/test/src109_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 154,
+      "file_name": "images/test/src109_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 155,
+      "file_name": "images/test/src109_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 156,
+      "file_name": "images/test/src109_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 157,
+      "file_name": "images/test/src109_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 158,
+      "file_name": "images/test/src109_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 159,
+      "file_name": "images/test/src109_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 160,
+      "file_name": "images/test/src109_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src109_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 161,
+      "file_name": "images/test/src119_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 162,
+      "file_name": "images/test/src119_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 163,
+      "file_name": "images/test/src119_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 164,
+      "file_name": "images/test/src119_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 165,
+      "file_name": "images/test/src119_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 166,
+      "file_name": "images/test/src119_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 167,
+      "file_name": "images/test/src119_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 168,
+      "file_name": "images/test/src119_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src119_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 169,
+      "file_name": "images/test/src124_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 170,
+      "file_name": "images/test/src124_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 171,
+      "file_name": "images/test/src124_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 172,
+      "file_name": "images/test/src124_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 173,
+      "file_name": "images/test/src124_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 174,
+      "file_name": "images/test/src124_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 175,
+      "file_name": "images/test/src124_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 176,
+      "file_name": "images/test/src124_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src124_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 177,
+      "file_name": "images/test/src136_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 178,
+      "file_name": "images/test/src136_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 179,
+      "file_name": "images/test/src136_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 180,
+      "file_name": "images/test/src136_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 181,
+      "file_name": "images/test/src136_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 182,
+      "file_name": "images/test/src136_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 183,
+      "file_name": "images/test/src136_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 184,
+      "file_name": "images/test/src136_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src136_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 185,
+      "file_name": "images/test/src143_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 186,
+      "file_name": "images/test/src143_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 187,
+      "file_name": "images/test/src143_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 188,
+      "file_name": "images/test/src143_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 189,
+      "file_name": "images/test/src143_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 190,
+      "file_name": "images/test/src143_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 191,
+      "file_name": "images/test/src143_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 192,
+      "file_name": "images/test/src143_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src143_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 193,
+      "file_name": "images/test/src144_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 194,
+      "file_name": "images/test/src144_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 195,
+      "file_name": "images/test/src144_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 196,
+      "file_name": "images/test/src144_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 197,
+      "file_name": "images/test/src144_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 198,
+      "file_name": "images/test/src144_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 199,
+      "file_name": "images/test/src144_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 200,
+      "file_name": "images/test/src144_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src144_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 201,
+      "file_name": "images/test/src156_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 202,
+      "file_name": "images/test/src156_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 203,
+      "file_name": "images/test/src156_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 204,
+      "file_name": "images/test/src156_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 205,
+      "file_name": "images/test/src156_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 206,
+      "file_name": "images/test/src156_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 207,
+      "file_name": "images/test/src156_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 208,
+      "file_name": "images/test/src156_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src156_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 209,
+      "file_name": "images/test/src173_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 210,
+      "file_name": "images/test/src173_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 211,
+      "file_name": "images/test/src173_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 212,
+      "file_name": "images/test/src173_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 213,
+      "file_name": "images/test/src173_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 214,
+      "file_name": "images/test/src173_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 215,
+      "file_name": "images/test/src173_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 216,
+      "file_name": "images/test/src173_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src173_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 217,
+      "file_name": "images/test/src175_v00.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v00",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 218,
+      "file_name": "images/test/src175_v01.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v01",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 219,
+      "file_name": "images/test/src175_v02.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v02",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 220,
+      "file_name": "images/test/src175_v03.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v03",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 221,
+      "file_name": "images/test/src175_v04.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v04",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 222,
+      "file_name": "images/test/src175_v05.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v05",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 223,
+      "file_name": "images/test/src175_v06.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v06",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    },
+    {
+      "id": 224,
+      "file_name": "images/test/src175_v07.jpg",
+      "width": 384,
+      "height": 384,
+      "dronescan_image_id": "src175_v07",
+      "annotated_classes": [
+        "short_tripod"
+      ],
+      "license": 1
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 4,
+      "bbox": [
+        277.38613861386136,
+        0.0,
+        68.61386138613864,
+        144.61611374407585
+      ],
+      "area": 9922.66998263808,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 4,
+      "bbox": [
+        246.05,
+        138.0,
+        38.94999999999999,
+        80.0
+      ],
+      "area": 3115.999999999999,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 4,
+      "bbox": [
+        234.0,
+        0.0,
+        30.666666666666686,
+        63.32631578947368
+      ],
+      "area": 1942.0070175438607,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 4,
+      "bbox": [
+        1.4054054054054055,
+        1.4111675126903553,
+        76.5945945945946,
+        136.1776649746193
+      ],
+      "area": 10430.473041569488,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 4,
+      "bbox": [
+        295.0,
+        225.0,
+        44.5263157894737,
+        90.75675675675677
+      ],
+      "area": 4041.064011379803,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 4,
+      "bbox": [
+        1.3577981651376148,
+        1.3655913978494623,
+        72.64220183486239,
+        124.26881720430107
+      ],
+      "area": 9027.160501134458,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 4,
+      "bbox": [
+        1.4827586206896552,
+        1.481012658227848,
+        83.0344827586207,
+        114.03797468354429
+      ],
+      "area": 9469.084242688783,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 4,
+      "bbox": [
+        95.88888888888889,
+        170.8993288590604,
+        101.11111111111111,
+        213.1006711409396
+      ],
+      "area": 21546.845637583894,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 4,
+      "bbox": [
+        118.0,
+        273.0,
+        133.01098901098902,
+        108.0
+      ],
+      "area": 14365.186813186814,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 4,
+      "bbox": [
+        44.6096256684492,
+        110.60377358490567,
+        241.3903743315508,
+        270.7924528301886
+      ],
+      "area": 65366.691554838035,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 4,
+      "bbox": [
+        199.55555555555554,
+        34.559633027522935,
+        82.44444444444446,
+        81.88073394495413
+      ],
+      "area": 6750.611620795108,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 4,
+      "bbox": [
+        10.063829787234042,
+        147.05333333333334,
+        92.87234042553192,
+        72.89333333333332
+      ],
+      "area": 6769.774468085105,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 4,
+      "bbox": [
+        129.51470588235293,
+        25.50877192982456,
+        100.72794117647061,
+        82.98245614035088
+      ],
+      "area": 8358.651960784315,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 4,
+      "bbox": [
+        208.75968992248062,
+        222.7563025210084,
+        172.48062015503876,
+        158.48739495798324
+      ],
+      "area": 27336.004169109514,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 4,
+      "bbox": [
+        251.6,
+        38.603305785123965,
+        104.79999999999998,
+        93.79338842975208
+      ],
+      "area": 9829.547107438017,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        182.43283582089552,
+        179.57333333333335,
+        158.13432835820893
+      ],
+      "area": 28396.70845771144,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 4,
+      "bbox": [
+        50.0,
+        73.01005025125627,
+        163.0,
+        197.98994974874373
+      ],
+      "area": 32272.361809045226,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 4,
+      "bbox": [
+        183.73170731707316,
+        64.73684210526316,
+        69.26829268292684,
+        97.26315789473684
+      ],
+      "area": 6737.252888318358,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 4,
+      "bbox": [
+        12.53543307086614,
+        182.53416149068323,
+        155.92913385826773,
+        198.93167701863354
+      ],
+      "area": 31019.244094488193,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 4,
+      "bbox": [
+        18.01923076923077,
+        109.01526717557252,
+        100.96153846153845,
+        127.96946564885496
+      ],
+      "area": 12919.994128009394,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 4,
+      "bbox": [
+        116.83636363636364,
+        178.82993197278913,
+        153.16363636363636,
+        205.17006802721087
+      ],
+      "area": 31424.59369202226,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 4,
+      "bbox": [
+        259.1565217391304,
+        125.14864864864865,
+        121.84347826086957,
+        156.85135135135135
+      ],
+      "area": 19111.314218566393,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 4,
+      "bbox": [
+        115.72941176470589,
+        241.73584905660377,
+        110.54117647058824,
+        139.52830188679243
+      ],
+      "area": 15423.622641509433,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 4,
+      "bbox": [
+        103.0,
+        143.2875,
+        132.71186440677968,
+        180.7125
+      ],
+      "area": 23982.692796610176,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 4,
+      "bbox": [
+        49.39449541284404,
+        1.3983739837398375,
+        74.60550458715596,
+        84.60162601626016
+      ],
+      "area": 6311.74699783695,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 4,
+      "bbox": [
+        92.53125,
+        245.53731343283582,
+        77.203125,
+        82.46268656716418
+      ],
+      "area": 6366.377098880597,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 4,
+      "bbox": [
+        261.5,
+        7.5,
+        105.0,
+        111.0
+      ],
+      "area": 11655.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 4,
+      "bbox": [
+        39.64028776978417,
+        31.0,
+        112.35971223021582,
+        127.0
+      ],
+      "area": 14269.683453237409,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 4,
+      "bbox": [
+        108.0,
+        2.0,
+        84.55462184873949,
+        99.0
+      ],
+      "area": 8370.90756302521,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 30,
+      "image_id": 30,
+      "category_id": 4,
+      "bbox": [
+        93.58333333333333,
+        238.0,
+        90.41666666666667,
+        110.0
+      ],
+      "area": 9945.833333333334,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 31,
+      "image_id": 31,
+      "category_id": 4,
+      "bbox": [
+        165.14814814814815,
+        123.14666666666666,
+        171.85185185185185,
+        158.85333333333335
+      ],
+      "area": 27299.239506172842,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 32,
+      "image_id": 32,
+      "category_id": 4,
+      "bbox": [
+        100.0,
+        170.36764705882354,
+        191.6341463414634,
+        158.63235294117646
+      ],
+      "area": 30399.375538020082,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 33,
+      "image_id": 33,
+      "category_id": 4,
+      "bbox": [
+        171.0,
+        292.9375,
+        45.09090909090909,
+        91.0625
+      ],
+      "area": 4106.090909090909,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 34,
+      "image_id": 34,
+      "category_id": 4,
+      "bbox": [
+        242.0,
+        1.25,
+        33.75,
+        68.75
+      ],
+      "area": 2320.3125,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 35,
+      "image_id": 35,
+      "category_id": 4,
+      "bbox": [
+        320.0,
+        209.4909090909091,
+        59.51999999999998,
+        132.0181818181818
+      ],
+      "area": 7857.722181818179,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 36,
+      "image_id": 36,
+      "category_id": 4,
+      "bbox": [
+        132.76470588235293,
+        74.76699029126213,
+        42.35294117647061,
+        88.34951456310681
+      ],
+      "area": 3741.861793260996,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 37,
+      "image_id": 37,
+      "category_id": 4,
+      "bbox": [
+        84.91549295774648,
+        84.91666666666667,
+        66.08450704225352,
+        134.16666666666669
+      ],
+      "area": 8866.338028169015,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 38,
+      "image_id": 38,
+      "category_id": 4,
+      "bbox": [
+        140.25742574257427,
+        126.25698324022346,
+        109.48514851485146,
+        197.48603351955308
+      ],
+      "area": 21621.787709497203,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 39,
+      "image_id": 39,
+      "category_id": 4,
+      "bbox": [
+        334.0,
+        282.0,
+        47.05882352941177,
+        99.08571428571429
+      ],
+      "area": 4662.857142857143,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 40,
+      "image_id": 40,
+      "category_id": 4,
+      "bbox": [
+        346.44444444444446,
+        17.452830188679243,
+        37.55555555555554,
+        74.82075471698113
+      ],
+      "area": 2809.935010482179,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 41,
+      "image_id": 41,
+      "category_id": 4,
+      "bbox": [
+        200.0,
+        264.77272727272725,
+        46.0,
+        119.22727272727275
+      ],
+      "area": 5484.454545454546,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 42,
+      "image_id": 42,
+      "category_id": 4,
+      "bbox": [
+        315.0,
+        1.2156862745098038,
+        23.78048780487802,
+        60.784313725490186
+      ],
+      "area": 1445.480631276899,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 43,
+      "image_id": 43,
+      "category_id": 4,
+      "bbox": [
+        219.0,
+        236.5979381443299,
+        59.702127659574444,
+        122.10309278350516
+      ],
+      "area": 7289.814432989689,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 44,
+      "image_id": 44,
+      "category_id": 4,
+      "bbox": [
+        209.7674418604651,
+        77.77570093457943,
+        34.465116279069775,
+        92.33644859813084
+      ],
+      "area": 3182.3864377309287,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 45,
+      "image_id": 45,
+      "category_id": 4,
+      "bbox": [
+        32.0,
+        142.99386503067484,
+        111.0,
+        238.01226993865032
+      ],
+      "area": 26419.361963190186,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 46,
+      "image_id": 46,
+      "category_id": 4,
+      "bbox": [
+        89.5,
+        1.4878048780487805,
+        51.0,
+        119.02439024390245
+      ],
+      "area": 6070.243902439025,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 47,
+      "image_id": 47,
+      "category_id": 4,
+      "bbox": [
+        254.82978723404256,
+        91.83333333333333,
+        39.34042553191489,
+        85.24999999999999
+      ],
+      "area": 3353.7712765957435,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 48,
+      "image_id": 48,
+      "category_id": 4,
+      "bbox": [
+        175.0,
+        214.9913043478261,
+        72.0,
+        167.51304347826084
+      ],
+      "area": 12060.939130434781,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 49,
+      "image_id": 49,
+      "category_id": 4,
+      "bbox": [
+        48.0,
+        18.639344262295083,
+        103.37209302325581,
+        146.72131147540983
+      ],
+      "area": 15166.889058330156,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 50,
+      "image_id": 50,
+      "category_id": 4,
+      "bbox": [
+        1.9240506329113924,
+        103.92233009708738,
+        72.15189873417722,
+        95.15533980582524
+      ],
+      "area": 6865.638441686126,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 51,
+      "image_id": 51,
+      "category_id": 4,
+      "bbox": [
+        314.26153846153846,
+        1.267605633802817,
+        38.47692307692307,
+        42.46478873239437
+      ],
+      "area": 1633.9144095341276,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 52,
+      "image_id": 52,
+      "category_id": 4,
+      "bbox": [
+        247.85135135135135,
+        52.853403141361255,
+        133.2972972972973,
+        173.29319371727752
+      ],
+      "area": 23099.514362530073,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 53,
+      "image_id": 53,
+      "category_id": 4,
+      "bbox": [
+        20.424242424242426,
+        158.4277456647399,
+        155.15151515151516,
+        205.14450867052025
+      ],
+      "area": 31828.481345244356,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 54,
+      "image_id": 54,
+      "category_id": 4,
+      "bbox": [
+        124.0,
+        117.98039215686275,
+        66.02898550724638,
+        97.03921568627452
+      ],
+      "area": 6407.400966183575,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 55,
+      "image_id": 55,
+      "category_id": 4,
+      "bbox": [
+        271.6825396825397,
+        69.6829268292683,
+        49.634920634920604,
+        65.6341463414634
+      ],
+      "area": 3257.7456445993007,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 56,
+      "image_id": 56,
+      "category_id": 4,
+      "bbox": [
+        270.6666666666667,
+        226.66666666666666,
+        110.66666666666663,
+        154.66666666666666
+      ],
+      "area": 17116.444444444438,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 57,
+      "image_id": 57,
+      "category_id": 4,
+      "bbox": [
+        152.1304347826087,
+        146.12121212121212,
+        93.73913043478262,
+        100.75757575757575
+      ],
+      "area": 9444.927536231884,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 58,
+      "image_id": 58,
+      "category_id": 4,
+      "bbox": [
+        113.57142857142857,
+        33.56896551724138,
+        73.85714285714288,
+        87.86206896551724
+      ],
+      "area": 6489.241379310346,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 59,
+      "image_id": 59,
+      "category_id": 4,
+      "bbox": [
+        99.875,
+        74.87919463087249,
+        116.25,
+        136.24161073825502
+      ],
+      "area": 15838.087248322146,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 60,
+      "image_id": 60,
+      "category_id": 4,
+      "bbox": [
+        41.26865671641791,
+        138.27329192546583,
+        147.46268656716416,
+        178.45341614906832
+      ],
+      "area": 26315.22017242977,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 61,
+      "image_id": 61,
+      "category_id": 4,
+      "bbox": [
+        244.0,
+        62.7557251908397,
+        111.24806201550388,
+        113.2442748091603
+      ],
+      "area": 12598.206106870228,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 62,
+      "image_id": 62,
+      "category_id": 4,
+      "bbox": [
+        185.1304347826087,
+        121.13333333333334,
+        142.73913043478262,
+        155.73333333333335
+      ],
+      "area": 22229.24057971015,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 63,
+      "image_id": 63,
+      "category_id": 4,
+      "bbox": [
+        262.64864864864865,
+        61.651162790697676,
+        57.70270270270271,
+        67.69767441860466
+      ],
+      "area": 3906.3387806411074,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 64,
+      "image_id": 64,
+      "category_id": 4,
+      "bbox": [
+        71.6842105263158,
+        19.678391959798994,
+        142.31578947368422,
+        163.643216080402
+      ],
+      "area": 23289.013488495108,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 65,
+      "image_id": 65,
+      "category_id": 4,
+      "bbox": [
+        267.0,
+        201.53333333333333,
+        114.45652173913044,
+        165.93333333333337
+      ],
+      "area": 18992.152173913048,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 66,
+      "image_id": 66,
+      "category_id": 4,
+      "bbox": [
+        208.4390243902439,
+        196.44444444444446,
+        95.1219512195122,
+        138.1111111111111
+      ],
+      "area": 13137.398373983739,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 67,
+      "image_id": 67,
+      "category_id": 4,
+      "bbox": [
+        324.31182795698925,
+        1.3146853146853146,
+        59.68817204301075,
+        91.37062937062936
+      ],
+      "area": 5453.7458455522965,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 68,
+      "image_id": 68,
+      "category_id": 4,
+      "bbox": [
+        228.92857142857142,
+        76.92592592592592,
+        104.14285714285714,
+        152.14814814814815
+      ],
+      "area": 15845.142857142857,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 69,
+      "image_id": 69,
+      "category_id": 4,
+      "bbox": [
+        10.0,
+        215.42105263157896,
+        65.57142857142857,
+        88.36842105263156
+      ],
+      "area": 5794.443609022555,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 70,
+      "image_id": 70,
+      "category_id": 4,
+      "bbox": [
+        100.56944444444444,
+        1.568075117370892,
+        111.43055555555556,
+        163.86384976525824
+      ],
+      "area": 18259.439814814818,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 71,
+      "image_id": 71,
+      "category_id": 4,
+      "bbox": [
+        121.98076923076923,
+        90.98717948717949,
+        99.03846153846155,
+        151.02564102564105
+      ],
+      "area": 14957.347140039452,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 72,
+      "image_id": 72,
+      "category_id": 4,
+      "bbox": [
+        263.4848484848485,
+        198.48387096774192,
+        118.030303030303,
+        149.03225806451613
+      ],
+      "area": 17590.322580645156,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 73,
+      "image_id": 73,
+      "category_id": 4,
+      "bbox": [
+        313.0,
+        1.2413793103448276,
+        50.0,
+        105.51724137931035
+      ],
+      "area": 5275.862068965517,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 74,
+      "image_id": 74,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        163.8961038961039,
+        127.0,
+        220.1038961038961
+      ],
+      "area": 27953.194805194802,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 75,
+      "image_id": 75,
+      "category_id": 4,
+      "bbox": [
+        161.0,
+        127.10852713178295,
+        78.0,
+        133.89147286821705
+      ],
+      "area": 10443.53488372093,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 76,
+      "image_id": 76,
+      "category_id": 4,
+      "bbox": [
+        247.0,
+        132.1891891891892,
+        99.0,
+        159.8108108108108
+      ],
+      "area": 15821.27027027027,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 77,
+      "image_id": 77,
+      "category_id": 4,
+      "bbox": [
+        192.0,
+        1.4895833333333333,
+        74.0,
+        140.76562499999997
+      ],
+      "area": 10416.656249999998,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 78,
+      "image_id": 78,
+      "category_id": 4,
+      "bbox": [
+        107.0,
+        164.15625,
+        66.0,
+        144.53125
+      ],
+      "area": 9539.0625,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 79,
+      "image_id": 79,
+      "category_id": 4,
+      "bbox": [
+        84.0,
+        11.397849462365592,
+        29.0,
+        63.60215053763441
+      ],
+      "area": 1844.4623655913979,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 80,
+      "image_id": 80,
+      "category_id": 4,
+      "bbox": [
+        238.0,
+        180.4148148148148,
+        90.0,
+        160.5851851851852
+      ],
+      "area": 14452.666666666668,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 81,
+      "image_id": 81,
+      "category_id": 4,
+      "bbox": [
+        38.0,
+        243.69811320754718,
+        77.0,
+        138.95283018867923
+      ],
+      "area": 10699.3679245283,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 82,
+      "image_id": 82,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        157.0,
+        72.0,
+        148.71212121212125
+      ],
+      "area": 10707.27272727273,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 83,
+      "image_id": 83,
+      "category_id": 4,
+      "bbox": [
+        36.0,
+        127.23529411764706,
+        93.0,
+        187.76470588235293
+      ],
+      "area": 17462.11764705882,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 84,
+      "image_id": 84,
+      "category_id": 4,
+      "bbox": [
+        263.0,
+        152.33333333333334,
+        121.0,
+        177.33333333333334
+      ],
+      "area": 21457.333333333336,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 85,
+      "image_id": 85,
+      "category_id": 4,
+      "bbox": [
+        241.0,
+        1.4322580645161291,
+        57.0,
+        108.13548387096775
+      ],
+      "area": 6163.7225806451615,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 86,
+      "image_id": 86,
+      "category_id": 4,
+      "bbox": [
+        12.0,
+        241.6021505376344,
+        81.0,
+        115.79569892473117
+      ],
+      "area": 9379.451612903225,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 87,
+      "image_id": 87,
+      "category_id": 4,
+      "bbox": [
+        237.0,
+        54.74468085106383,
+        71.0,
+        119.51063829787233
+      ],
+      "area": 8485.255319148935,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 88,
+      "image_id": 88,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        139.77528089887642,
+        121.0,
+        241.44943820224717
+      ],
+      "area": 29215.382022471906,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 89,
+      "image_id": 89,
+      "category_id": 4,
+      "bbox": [
+        13.0,
+        196.5109489051095,
+        142.47826086956522,
+        169.4890510948905
+      ],
+      "area": 24148.505236432877,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 90,
+      "image_id": 90,
+      "category_id": 4,
+      "bbox": [
+        223.672131147541,
+        216.6771653543307,
+        160.327868852459,
+        167.3228346456693
+      ],
+      "area": 26826.51348909255,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 91,
+      "image_id": 91,
+      "category_id": 4,
+      "bbox": [
+        138.0,
+        22.504273504273506,
+        82.48648648648648,
+        86.4957264957265
+      ],
+      "area": 7134.728574728575,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 92,
+      "image_id": 92,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        12.484848484848484,
+        83.50877192982456,
+        96.51515151515152
+      ],
+      "area": 8059.861775651249,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 93,
+      "image_id": 93,
+      "category_id": 4,
+      "bbox": [
+        184.67307692307693,
+        235.67256637168143,
+        136.32692307692307,
+        148.32743362831857
+      ],
+      "area": 20221.0226344452,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 94,
+      "image_id": 94,
+      "category_id": 4,
+      "bbox": [
+        2.6052631578947367,
+        238.0,
+        96.39473684210526,
+        118.0
+      ],
+      "area": 11374.57894736842,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 95,
+      "image_id": 95,
+      "category_id": 4,
+      "bbox": [
+        2.7480916030534353,
+        224.74576271186442,
+        177.25190839694656,
+        159.25423728813558
+      ],
+      "area": 28228.1174796222,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 96,
+      "image_id": 96,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        220.39344262295083,
+        71.61290322580645,
+        70.60655737704917
+      ],
+      "area": 5056.340560549973,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 97,
+      "image_id": 97,
+      "category_id": 4,
+      "bbox": [
+        2.3454545454545452,
+        179.3362831858407,
+        126.65454545454546,
+        127.32743362831863
+      ],
+      "area": 16126.5982300885,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 98,
+      "image_id": 98,
+      "category_id": 4,
+      "bbox": [
+        158.5909090909091,
+        149.59016393442624,
+        222.81818181818178,
+        231.81967213114757
+      ],
+      "area": 51653.63785394933,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 99,
+      "image_id": 99,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        215.55172413793105,
+        126.44554455445545,
+        142.8965517241379
+      ],
+      "area": 18068.632297712527,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 100,
+      "image_id": 100,
+      "category_id": 4,
+      "bbox": [
+        79.86896551724138,
+        162.87179487179486,
+        202.26206896551727,
+        218.25641025641028
+      ],
+      "area": 44144.99310344829,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 101,
+      "image_id": 101,
+      "category_id": 4,
+      "bbox": [
+        173.64596273291926,
+        134.0,
+        210.35403726708074,
+        247.35449735449737
+      ],
+      "area": 52032.017154687965,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 102,
+      "image_id": 102,
+      "category_id": 4,
+      "bbox": [
+        198.4258064516129,
+        163.41717791411043,
+        185.5741935483871,
+        192.16564417177915
+      ],
+      "area": 35660.98444488423,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 103,
+      "image_id": 103,
+      "category_id": 4,
+      "bbox": [
+        7.584070796460177,
+        222.57391304347826,
+        140.83185840707966,
+        142.85217391304346
+      ],
+      "area": 20118.137129665254,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 104,
+      "image_id": 104,
+      "category_id": 4,
+      "bbox": [
+        8.428571428571429,
+        159.43023255813952,
+        166.35714285714286,
+        206.56976744186048
+      ],
+      "area": 34364.35631229236,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 105,
+      "image_id": 105,
+      "category_id": 4,
+      "bbox": [
+        183.0,
+        41.74418604651163,
+        89.26666666666665,
+        148.25581395348837
+      ],
+      "area": 13234.302325581393,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 106,
+      "image_id": 106,
+      "category_id": 4,
+      "bbox": [
+        288.40677966101697,
+        205.42105263157896,
+        68.59322033898303,
+        112.57894736842104
+      ],
+      "area": 7722.152542372878,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 107,
+      "image_id": 107,
+      "category_id": 4,
+      "bbox": [
+        283.1914893617021,
+        138.2,
+        99.71276595744683,
+        151.8
+      ],
+      "area": 15136.39787234043,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 108,
+      "image_id": 108,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        7.430894308943089,
+        56.55,
+        86.5691056910569
+      ],
+      "area": 4895.482926829268,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 109,
+      "image_id": 109,
+      "category_id": 4,
+      "bbox": [
+        29.31132075471698,
+        175.62111801242236,
+        135.06603773584908,
+        208.37888198757764
+      ],
+      "area": 28144.909937888206,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 110,
+      "image_id": 110,
+      "category_id": 4,
+      "bbox": [
+        320.0,
+        90.72,
+        27.29411764705884,
+        41.28
+      ],
+      "area": 1126.701176470589,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 111,
+      "image_id": 111,
+      "category_id": 4,
+      "bbox": [
+        185.0,
+        82.0,
+        26.30303030303031,
+        51.0
+      ],
+      "area": 1341.454545454546,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 112,
+      "image_id": 112,
+      "category_id": 4,
+      "bbox": [
+        309.0,
+        188.30588235294118,
+        58.69811320754718,
+        95.69411764705882
+      ],
+      "area": 5617.064150943397,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 113,
+      "image_id": 113,
+      "category_id": 4,
+      "bbox": [
+        167.0,
+        164.24157303370785,
+        109.0,
+        219.75842696629215
+      ],
+      "area": 23953.668539325845,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 114,
+      "image_id": 114,
+      "category_id": 4,
+      "bbox": [
+        203.0,
+        84.72602739726027,
+        39.0,
+        61.27397260273973
+      ],
+      "area": 2389.6849315068494,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 115,
+      "image_id": 115,
+      "category_id": 4,
+      "bbox": [
+        184.0,
+        133.14814814814815,
+        74.0,
+        142.85185185185185
+      ],
+      "area": 10571.037037037036,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 116,
+      "image_id": 116,
+      "category_id": 4,
+      "bbox": [
+        96.0,
+        176.57668711656441,
+        122.0,
+        207.42331288343559
+      ],
+      "area": 25305.644171779142,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 117,
+      "image_id": 117,
+      "category_id": 4,
+      "bbox": [
+        245.0,
+        102.01369863013699,
+        114.0,
+        144.986301369863
+      ],
+      "area": 16528.438356164384,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 118,
+      "image_id": 118,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        193.3370786516854,
+        56.0,
+        101.6629213483146
+      ],
+      "area": 5693.123595505617,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 119,
+      "image_id": 119,
+      "category_id": 4,
+      "bbox": [
+        96.0,
+        40.625,
+        52.0,
+        102.375
+      ],
+      "area": 5323.5,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 120,
+      "image_id": 120,
+      "category_id": 4,
+      "bbox": [
+        205.0,
+        140.3012048192771,
+        118.0,
+        188.6987951807229
+      ],
+      "area": 22266.4578313253,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 121,
+      "image_id": 121,
+      "category_id": 4,
+      "bbox": [
+        173.46938775510205,
+        180.45945945945945,
+        116.0612244897959,
+        177.08108108108107
+      ],
+      "area": 20552.2471042471,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 122,
+      "image_id": 122,
+      "category_id": 4,
+      "bbox": [
+        68.63636363636364,
+        224.6341463414634,
+        110.72727272727273,
+        156.7317073170732
+      ],
+      "area": 17354.47450110865,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 123,
+      "image_id": 123,
+      "category_id": 4,
+      "bbox": [
+        306.90361445783134,
+        99.9090909090909,
+        75.19277108433732,
+        101.18181818181819
+      ],
+      "area": 7608.141292442495,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 124,
+      "image_id": 124,
+      "category_id": 4,
+      "bbox": [
+        20.884615384615383,
+        114.89333333333333,
+        45.230769230769226,
+        67.21333333333335
+      ],
+      "area": 3040.1107692307696,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 125,
+      "image_id": 125,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        188.51655629139074,
+        126.47058823529412,
+        184.9668874172185
+      ],
+      "area": 23392.871055707044,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 126,
+      "image_id": 126,
+      "category_id": 4,
+      "bbox": [
+        124.76363636363637,
+        221.7731092436975,
+        149.23636363636365,
+        162.2268907563025
+      ],
+      "area": 24210.1512605042,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 127,
+      "image_id": 127,
+      "category_id": 4,
+      "bbox": [
+        115.3076923076923,
+        1.3037974683544304,
+        82.38461538461537,
+        100.39240506329114
+      ],
+      "area": 8270.789678675754,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 128,
+      "image_id": 128,
+      "category_id": 4,
+      "bbox": [
+        234.50877192982455,
+        4.0,
+        84.49122807017545,
+        121.49079754601226
+      ],
+      "area": 10264.906683887633,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 129,
+      "image_id": 129,
+      "category_id": 4,
+      "bbox": [
+        321.0,
+        140.0,
+        43.0,
+        62.0
+      ],
+      "area": 2666.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 130,
+      "image_id": 130,
+      "category_id": 4,
+      "bbox": [
+        89.44736842105263,
+        222.46753246753246,
+        88.10526315789471,
+        92.53246753246754
+      ],
+      "area": 8152.5974025974,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 131,
+      "image_id": 131,
+      "category_id": 4,
+      "bbox": [
+        4.0,
+        113.0,
+        76.0,
+        113.0
+      ],
+      "area": 8588.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 132,
+      "image_id": 132,
+      "category_id": 4,
+      "bbox": [
+        49.71111111111111,
+        27.40983606557377,
+        29.866666666666674,
+        41.59016393442623
+      ],
+      "area": 1242.1595628415303,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 133,
+      "image_id": 133,
+      "category_id": 4,
+      "bbox": [
+        196.86046511627907,
+        60.862857142857145,
+        116.27906976744183,
+        159.27428571428572
+      ],
+      "area": 18520.265780730893,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 134,
+      "image_id": 134,
+      "category_id": 4,
+      "bbox": [
+        128.62857142857143,
+        240.64077669902912,
+        86.74285714285713,
+        133.35922330097088
+      ],
+      "area": 11567.960055478501,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 135,
+      "image_id": 135,
+      "category_id": 4,
+      "bbox": [
+        262.7865168539326,
+        241.78846153846155,
+        118.42696629213481,
+        142.21153846153845
+      ],
+      "area": 16841.681071737246,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 136,
+      "image_id": 136,
+      "category_id": 4,
+      "bbox": [
+        235.3230769230769,
+        140.3276836158192,
+        146.3538461538462,
+        203.6723163841808
+      ],
+      "area": 29808.226857887887,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 137,
+      "image_id": 137,
+      "category_id": 4,
+      "bbox": [
+        307.0,
+        271.0,
+        74.03846153846155,
+        113.0
+      ],
+      "area": 8366.346153846154,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 138,
+      "image_id": 138,
+      "category_id": 4,
+      "bbox": [
+        227.70833333333334,
+        78.71052631578948,
+        39.29166666666666,
+        63.28947368421052
+      ],
+      "area": 2486.748903508771,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 139,
+      "image_id": 139,
+      "category_id": 4,
+      "bbox": [
+        33.0,
+        262.72527472527474,
+        107.28395061728395,
+        121.27472527472526
+      ],
+      "area": 13010.831637498302,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 140,
+      "image_id": 140,
+      "category_id": 4,
+      "bbox": [
+        232.13888888888889,
+        116.13664596273291,
+        151.86111111111111,
+        167.72670807453414
+      ],
+      "area": 25471.164251207727,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 141,
+      "image_id": 141,
+      "category_id": 4,
+      "bbox": [
+        2.298507462686567,
+        188.3095238095238,
+        74.70149253731343,
+        94.6904761904762
+      ],
+      "area": 7073.519900497513,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 142,
+      "image_id": 142,
+      "category_id": 4,
+      "bbox": [
+        12.0,
+        89.0,
+        121.96721311475409,
+        174.0
+      ],
+      "area": 21222.29508196721,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 143,
+      "image_id": 143,
+      "category_id": 4,
+      "bbox": [
+        225.0,
+        157.24590163934425,
+        135.7560975609756,
+        134.75409836065575
+      ],
+      "area": 18293.690523790483,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 144,
+      "image_id": 144,
+      "category_id": 4,
+      "bbox": [
+        29.0,
+        214.4418604651163,
+        76.56923076923076,
+        100.11627906976742
+      ],
+      "area": 7665.826475849728,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 145,
+      "image_id": 145,
+      "category_id": 4,
+      "bbox": [
+        299.0,
+        89.83505154639175,
+        57.0,
+        87.16494845360825
+      ],
+      "area": 4968.40206185567,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 146,
+      "image_id": 146,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        186.75862068965517,
+        124.0,
+        197.24137931034483
+      ],
+      "area": 24457.931034482757,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 147,
+      "image_id": 147,
+      "category_id": 4,
+      "bbox": [
+        274.0,
+        292.76190476190476,
+        68.0,
+        84.23809523809524
+      ],
+      "area": 5728.190476190476,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 148,
+      "image_id": 148,
+      "category_id": 4,
+      "bbox": [
+        169.0,
+        172.33333333333334,
+        94.0,
+        137.66666666666666
+      ],
+      "area": 12940.666666666666,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 149,
+      "image_id": 149,
+      "category_id": 4,
+      "bbox": [
+        23.178217821782177,
+        151.34567901234567,
+        117.82178217821783,
+        185.30864197530866
+      ],
+      "area": 21833.39445055617,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 150,
+      "image_id": 150,
+      "category_id": 4,
+      "bbox": [
+        279.02150537634407,
+        101.01960784313725,
+        93.97849462365593,
+        152.94117647058823
+      ],
+      "area": 14373.18153067679,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 151,
+      "image_id": 151,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        124.71502590673575,
+        172.0,
+        256.56994818652845
+      ],
+      "area": 44130.03108808289,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 152,
+      "image_id": 152,
+      "category_id": 4,
+      "bbox": [
+        144.0,
+        1.2769230769230768,
+        57.0,
+        81.72307692307692
+      ],
+      "area": 4658.215384615384,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 153,
+      "image_id": 153,
+      "category_id": 4,
+      "bbox": [
+        13.620253164556962,
+        54.62352941176471,
+        62.379746835443036,
+        67.37647058823529
+      ],
+      "area": 4202.927177959791,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 154,
+      "image_id": 154,
+      "category_id": 4,
+      "bbox": [
+        54.65714285714286,
+        255.64285714285714,
+        90.34285714285714,
+        108.35714285714286
+      ],
+      "area": 9789.293877551021,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 155,
+      "image_id": 155,
+      "category_id": 4,
+      "bbox": [
+        12.0,
+        1.255813953488372,
+        80.74809160305344,
+        79.74418604651163
+      ],
+      "area": 6439.1908396946565,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 156,
+      "image_id": 156,
+      "category_id": 4,
+      "bbox": [
+        201.16374269005848,
+        103.15789473684211,
+        180.67251461988303,
+        200.6842105263158
+      ],
+      "area": 36258.12096029548,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 157,
+      "image_id": 157,
+      "category_id": 4,
+      "bbox": [
+        128.13533834586465,
+        118.12903225806451,
+        139.86466165413535,
+        162.8709677419355
+      ],
+      "area": 22779.8927965074,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 158,
+      "image_id": 158,
+      "category_id": 4,
+      "bbox": [
+        277.39354838709676,
+        1.404494382022472,
+        105.21290322580649,
+        122.19101123595506
+      ],
+      "area": 12856.071040231973,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 159,
+      "image_id": 159,
+      "category_id": 4,
+      "bbox": [
+        35.529411764705884,
+        44.50769230769231,
+        37.470588235294116,
+        47.49230769230769
+      ],
+      "area": 1779.5647058823529,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 160,
+      "image_id": 160,
+      "category_id": 4,
+      "bbox": [
+        2.981132075471698,
+        89.98492462311557,
+        234.01886792452828,
+        294.0150753768844
+      ],
+      "area": 68805.07509244334,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 161,
+      "image_id": 161,
+      "category_id": 4,
+      "bbox": [
+        159.2716049382716,
+        155.265625,
+        89.7283950617284,
+        142.734375
+      ],
+      "area": 12807.32638888889,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 162,
+      "image_id": 162,
+      "category_id": 4,
+      "bbox": [
+        16.074074074074073,
+        140.06521739130434,
+        53.925925925925924,
+        92.93478260869566
+      ],
+      "area": 5011.594202898551,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 163,
+      "image_id": 163,
+      "category_id": 4,
+      "bbox": [
+        113.0,
+        198.45378151260505,
+        86.52777777777777,
+        143.54621848739495
+      ],
+      "area": 12420.735294117645,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 164,
+      "image_id": 164,
+      "category_id": 4,
+      "bbox": [
+        126.0,
+        217.0,
+        61.53846153846155,
+        111.0
+      ],
+      "area": 6830.769230769231,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 165,
+      "image_id": 165,
+      "category_id": 4,
+      "bbox": [
+        108.0,
+        111.0,
+        169.0,
+        273.0
+      ],
+      "area": 46137.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 166,
+      "image_id": 166,
+      "category_id": 4,
+      "bbox": [
+        1.6862745098039216,
+        33.68674698795181,
+        84.31372549019608,
+        138.3132530120482
+      ],
+      "area": 11661.705646113867,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 167,
+      "image_id": 167,
+      "category_id": 4,
+      "bbox": [
+        291.0,
+        72.7719298245614,
+        69.0,
+        99.2280701754386
+      ],
+      "area": 6846.736842105263,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 168,
+      "image_id": 168,
+      "category_id": 4,
+      "bbox": [
+        146.0,
+        163.20618556701032,
+        82.0,
+        104.79381443298968
+      ],
+      "area": 8593.092783505153,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 169,
+      "image_id": 169,
+      "category_id": 4,
+      "bbox": [
+        12.292682926829269,
+        155.3,
+        185.7073170731707,
+        158.7
+      ],
+      "area": 29471.75121951219,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 170,
+      "image_id": 170,
+      "category_id": 4,
+      "bbox": [
+        130.0,
+        294.6875,
+        70.34545454545457,
+        40.3125
+      ],
+      "area": 2835.8011363636374,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 171,
+      "image_id": 171,
+      "category_id": 4,
+      "bbox": [
+        139.66666666666666,
+        279.6530612244898,
+        94.66666666666666,
+        62.34693877551018
+      ],
+      "area": 5902.176870748297,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 172,
+      "image_id": 172,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        47.81818181818182,
+        102.36220472440945,
+        89.18181818181819
+      ],
+      "area": 9128.847530422334,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 173,
+      "image_id": 173,
+      "category_id": 4,
+      "bbox": [
+        171.2396694214876,
+        1.2371134020618557,
+        72.52066115702479,
+        57.52577319587629
+      ],
+      "area": 4171.807105734004,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 174,
+      "image_id": 174,
+      "category_id": 4,
+      "bbox": [
+        26.617021276595743,
+        47.61904761904762,
+        110.7659574468085,
+        83.38095238095238
+      ],
+      "area": 9235.771023302937,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 175,
+      "image_id": 175,
+      "category_id": 4,
+      "bbox": [
+        191.0,
+        0.0,
+        93.61313868613138,
+        81.0
+      ],
+      "area": 7582.664233576642,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 176,
+      "image_id": 176,
+      "category_id": 4,
+      "bbox": [
+        102.0,
+        234.89523809523808,
+        190.11940298507466,
+        149.10476190476192
+      ],
+      "area": 28347.70831556504,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 177,
+      "image_id": 177,
+      "category_id": 4,
+      "bbox": [
+        320.0877192982456,
+        172.08955223880596,
+        60.91228070175441,
+        71.91044776119404
+      ],
+      "area": 4380.229379418698,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 178,
+      "image_id": 178,
+      "category_id": 4,
+      "bbox": [
+        156.4268292682927,
+        152.21311475409837,
+        196.5731707317073,
+        220.78688524590163
+      ],
+      "area": 43400.77808876449,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 179,
+      "image_id": 179,
+      "category_id": 4,
+      "bbox": [
+        278.0,
+        197.35294117647058,
+        106.0,
+        97.64705882352942
+      ],
+      "area": 10350.588235294119,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 180,
+      "image_id": 180,
+      "category_id": 4,
+      "bbox": [
+        132.69714285714286,
+        133.69148936170214,
+        233.30285714285714,
+        250.30851063829786
+      ],
+      "area": 58397.69069908814,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 181,
+      "image_id": 181,
+      "category_id": 4,
+      "bbox": [
+        108.0,
+        95.9568345323741,
+        153.0,
+        134.0431654676259
+      ],
+      "area": 20508.604316546764,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 182,
+      "image_id": 182,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        261.0,
+        112.0,
+        123.0
+      ],
+      "area": 13776.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 183,
+      "image_id": 183,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        158.0,
+        190.0,
+        214.0
+      ],
+      "area": 40660.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 184,
+      "image_id": 184,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        177.0,
+        190.0,
+        207.0
+      ],
+      "area": 39330.0,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 185,
+      "image_id": 185,
+      "category_id": 4,
+      "bbox": [
+        65.9622641509434,
+        112.96190476190476,
+        50.0377358490566,
+        100.05714285714286
+      ],
+      "area": 5006.6328840970355,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 186,
+      "image_id": 186,
+      "category_id": 4,
+      "bbox": [
+        265.23364485981307,
+        1.2340425531914894,
+        64.76635514018693,
+        113.53191489361703
+      ],
+      "area": 7353.048319745479,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 187,
+      "image_id": 187,
+      "category_id": 4,
+      "bbox": [
+        152.64566929133858,
+        133.64921465968587,
+        162.70866141732287,
+        247.70157068062827
+      ],
+      "area": 40303.19099641342,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 188,
+      "image_id": 188,
+      "category_id": 4,
+      "bbox": [
+        226.0,
+        154.33112582781456,
+        106.68085106382978,
+        171.33774834437082
+      ],
+      "area": 18278.45681273777,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 189,
+      "image_id": 189,
+      "category_id": 4,
+      "bbox": [
+        79.0,
+        11.595744680851064,
+        90.4,
+        146.8085106382979
+      ],
+      "area": 13271.48936170213,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 190,
+      "image_id": 190,
+      "category_id": 4,
+      "bbox": [
+        125.0,
+        277.71232876712327,
+        57.27272727272725,
+        93.57534246575347
+      ],
+      "area": 5359.315068493151,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 191,
+      "image_id": 191,
+      "category_id": 4,
+      "bbox": [
+        106.6923076923077,
+        78.70270270270271,
+        40.61538461538463,
+        59.59459459459458
+      ],
+      "area": 2420.4573804573806,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 192,
+      "image_id": 192,
+      "category_id": 4,
+      "bbox": [
+        152.52173913043478,
+        202.515625,
+        110.95652173913047,
+        155.96875
+      ],
+      "area": 17305.750000000004,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 193,
+      "image_id": 193,
+      "category_id": 4,
+      "bbox": [
+        273.1730769230769,
+        140.17322834645668,
+        108.65384615384619,
+        135.82677165354332
+      ],
+      "area": 14758.101150817693,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 194,
+      "image_id": 194,
+      "category_id": 4,
+      "bbox": [
+        243.0,
+        166.34782608695653,
+        138.64999999999998,
+        159.65217391304347
+      ],
+      "area": 22135.773913043475,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 195,
+      "image_id": 195,
+      "category_id": 4,
+      "bbox": [
+        115.78991596638656,
+        140.0,
+        160.42016806722688,
+        244.0
+      ],
+      "area": 39142.52100840336,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 196,
+      "image_id": 196,
+      "category_id": 4,
+      "bbox": [
+        1.2741935483870968,
+        1.2727272727272727,
+        76.4516129032258,
+        89.72727272727273
+      ],
+      "area": 6859.794721407624,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 197,
+      "image_id": 197,
+      "category_id": 4,
+      "bbox": [
+        260.1875,
+        136.18705035971223,
+        102.8125,
+        149.81294964028777
+      ],
+      "area": 15402.643884892086,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 198,
+      "image_id": 198,
+      "category_id": 4,
+      "bbox": [
+        83.0,
+        12.0,
+        70.48421052631579,
+        106.0
+      ],
+      "area": 7471.326315789474,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 199,
+      "image_id": 199,
+      "category_id": 4,
+      "bbox": [
+        65.94488188976378,
+        124.9438202247191,
+        181.11023622047247,
+        257.5842696629214
+      ],
+      "area": 46651.14792532957,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 200,
+      "image_id": 200,
+      "category_id": 4,
+      "bbox": [
+        2.230088495575221,
+        158.23931623931625,
+        123.76991150442478,
+        128.76068376068375
+      ],
+      "area": 15936.698434309053,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 201,
+      "image_id": 201,
+      "category_id": 4,
+      "bbox": [
+        48.0,
+        83.71428571428571,
+        58.26086956521739,
+        58.28571428571429
+      ],
+      "area": 3395.776397515528,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 202,
+      "image_id": 202,
+      "category_id": 4,
+      "bbox": [
+        275.64814814814815,
+        46.65,
+        87.35185185185185,
+        97.35
+      ],
+      "area": 8503.702777777777,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 203,
+      "image_id": 203,
+      "category_id": 4,
+      "bbox": [
+        176.9,
+        103.8989898989899,
+        93.1,
+        92.1010101010101
+      ],
+      "area": 8574.60404040404,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 204,
+      "image_id": 204,
+      "category_id": 4,
+      "bbox": [
+        224.72268907563026,
+        206.72727272727272,
+        159.27731092436974,
+        177.27272727272728
+      ],
+      "area": 28235.523300229182,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 205,
+      "image_id": 205,
+      "category_id": 4,
+      "bbox": [
+        43.705882352941174,
+        240.7037037037037,
+        135.29411764705884,
+        141.94444444444446
+      ],
+      "area": 19204.248366013075,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 206,
+      "image_id": 206,
+      "category_id": 4,
+      "bbox": [
+        6.0,
+        71.7936507936508,
+        93.20754716981132,
+        111.2063492063492
+      ],
+      "area": 10365.271039233303,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 207,
+      "image_id": 207,
+      "category_id": 4,
+      "bbox": [
+        226.4375,
+        224.45070422535213,
+        75.5625,
+        83.32394366197178
+      ],
+      "area": 6296.165492957743,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 208,
+      "image_id": 208,
+      "category_id": 4,
+      "bbox": [
+        84.0,
+        174.38805970149252,
+        163.6115107913669,
+        155.2238805970149
+      ],
+      "area": 25396.41361537635,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 209,
+      "image_id": 209,
+      "category_id": 4,
+      "bbox": [
+        36.0,
+        85.75308641975309,
+        39.0,
+        69.24691358024691
+      ],
+      "area": 2700.6296296296296,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 210,
+      "image_id": 210,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        71.85,
+        27.294117647058822,
+        65.45000000000002
+      ],
+      "area": 1786.4000000000003,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 211,
+      "image_id": 211,
+      "category_id": 4,
+      "bbox": [
+        236.03571428571428,
+        116.0,
+        52.928571428571445,
+        123.0
+      ],
+      "area": 6510.214285714288,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 212,
+      "image_id": 212,
+      "category_id": 4,
+      "bbox": [
+        10.61111111111111,
+        67.625,
+        25.777777777777775,
+        50.375
+      ],
+      "area": 1298.5555555555554,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 213,
+      "image_id": 213,
+      "category_id": 4,
+      "bbox": [
+        204.44303797468353,
+        1.441860465116279,
+        55.556962025316466,
+        122.55813953488371
+      ],
+      "area": 6808.957904032971,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 214,
+      "image_id": 214,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        122.1360544217687,
+        82.0,
+        154.8639455782313
+      ],
+      "area": 12698.843537414967,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 215,
+      "image_id": 215,
+      "category_id": 4,
+      "bbox": [
+        193.42307692307693,
+        9.40952380952381,
+        35.576923076923066,
+        72.5904761904762
+      ],
+      "area": 2582.545787545787,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 216,
+      "image_id": 216,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        221.0,
+        77.28813559322033,
+        163.0
+      ],
+      "area": 12597.966101694914,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 217,
+      "image_id": 217,
+      "category_id": 4,
+      "bbox": [
+        206.51724137931035,
+        233.525,
+        70.48275862068965,
+        98.475
+      ],
+      "area": 6940.789655172413,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 218,
+      "image_id": 218,
+      "category_id": 4,
+      "bbox": [
+        282.3255813953488,
+        201.3125,
+        47.67441860465118,
+        71.6875
+      ],
+      "area": 3417.6598837209312,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 219,
+      "image_id": 219,
+      "category_id": 4,
+      "bbox": [
+        70.47058823529412,
+        206.47706422018348,
+        81.52941176470588,
+        132.52293577981652
+      ],
+      "area": 10804.516999460335,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 220,
+      "image_id": 220,
+      "category_id": 4,
+      "bbox": [
+        87.41176470588235,
+        7.403846153846153,
+        45.176470588235304,
+        71.59615384615384
+      ],
+      "area": 3234.461538461539,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 221,
+      "image_id": 221,
+      "category_id": 4,
+      "bbox": [
+        308.0,
+        167.18823529411765,
+        63.80000000000001,
+        90.81176470588235
+      ],
+      "area": 5793.790588235295,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 222,
+      "image_id": 222,
+      "category_id": 4,
+      "bbox": [
+        268.0,
+        265.70454545454544,
+        77.28813559322032,
+        116.29545454545456
+      ],
+      "area": 8988.258859784282,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 223,
+      "image_id": 223,
+      "category_id": 4,
+      "bbox": [
+        2.2016806722689077,
+        115.18994413407822,
+        126.59663865546219,
+        193.81005586592178
+      ],
+      "area": 24535.70161025304,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    },
+    {
+      "id": 224,
+      "image_id": 224,
+      "category_id": 4,
+      "bbox": [
+        2.4150943396226414,
+        216.425,
+        61.58490566037736,
+        94.57499999999999
+      ],
+      "area": 5824.392452830188,
+      "iscrowd": 0,
+      "segmentation": [],
+      "ignore": false
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "sensor_module",
+      "supercategory": "target"
+    },
+    {
+      "id": 1,
+      "name": "instrument_box",
+      "supercategory": "target"
+    },
+    {
+      "id": 2,
+      "name": "hammer",
+      "supercategory": "target"
+    },
+    {
+      "id": 3,
+      "name": "marker_flag",
+      "supercategory": "target"
+    },
+    {
+      "id": 4,
+      "name": "short_tripod",
+      "supercategory": "target"
+    }
+  ]
+}
