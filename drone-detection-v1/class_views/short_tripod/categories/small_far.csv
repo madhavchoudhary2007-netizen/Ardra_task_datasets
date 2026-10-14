@@ -1,6 +1,0 @@
-parent_canonical_image_id,augmentation_category,file_name,source_dataset,seed
-img_2f8282ea12dfc6dd,small_far,augmented/train/images/train_aug_002671.jpg,Tripod.v1i.coco.zip,2330321837400102730
-img_4e5dfd91ad4f1fe2,small_far,augmented/train/images/train_aug_004333.jpg,Tripod.v1i.coco.zip,14330975360603432617
-img_4e5dfd91ad4f1fe2,small_far,augmented/train/images/train_aug_004338.jpg,Tripod.v1i.coco.zip,3461652031892775594
-img_6ce9c98e8ce74915,small_far,augmented/train/images/train_aug_005943.jpg,Tripod.v1i.coco.zip,17848971630874552865
-img_6ce9c98e8ce74915,small_far,augmented/train/images/train_aug_005944.jpg,Tripod.v1i.coco.zip,11618171848852161221

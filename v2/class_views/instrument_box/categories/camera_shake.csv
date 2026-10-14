@@ -1,0 +1,312 @@
+parent_canonical_image_id,augmentation_category,file_name,source_dataset,seed
+img_01fc62757c7238fe,camera_shake,augmented/train/images/instrument_box/train_aug_000129.jpg,Toolbox.v1i.coco.zip,3958078490688242242
+img_04a05da9067d4ab8,camera_shake,augmented/train/images/instrument_box/train_aug_000247.jpg,Abandoned Toolbox.v2i.coco.zip,9250951636203673508
+img_04d7827ee0433c0c,camera_shake,augmented/train/images/instrument_box/train_aug_000281.jpg,Toolbox detection.v3i.coco.zip,15625490010359556665
+img_0505a5845e450fa5,camera_shake,augmented/train/images/instrument_box/train_aug_000291.jpg,Toolbox.v1i.coco.zip,17492026227305299062
+img_064edc3e4b3f6805,camera_shake,augmented/train/images/instrument_box/train_aug_000330.jpg,Toolbox detection.v3i.coco.zip,11670791497721769394
+img_07045c847ab48858,camera_shake,augmented/train/images/instrument_box/train_aug_000356.jpg,Toolbox detection.v3i.coco.zip,16278328805631357304
+img_072f134e6c137405,camera_shake,augmented/train/images/instrument_box/train_aug_000377.jpg,Toolbox.v1i.coco.zip,4843591374974284983
+img_08eb02f4c7b0a6d0,camera_shake,augmented/train/images/instrument_box/train_aug_000470.jpg,Toolbox detection.v3i.coco.zip,13317483066087342889
+img_08eb02f4c7b0a6d0,camera_shake,augmented/train/images/instrument_box/train_aug_000474.jpg,Toolbox detection.v3i.coco.zip,16324575601468093376
+img_090ca2cf226ffdd6,camera_shake,augmented/train/images/instrument_box/train_aug_000487.jpg,Toolbox.v1i.coco.zip,14889549552936240418
+img_090ca2cf226ffdd6,camera_shake,augmented/train/images/instrument_box/train_aug_000489.jpg,Toolbox.v1i.coco.zip,15495064861373917026
+img_0a092e8922541a3e,camera_shake,augmented/train/images/instrument_box/train_aug_000513.jpg,Toolbox detection.v3i.coco.zip,9227215512858156217
+img_0b70f0b56e4d4ad4,camera_shake,augmented/train/images/instrument_box/train_aug_000605.jpg,Toolbox detection.v3i.coco.zip,1434047079020520313
+img_0b9179c1eb15bb87,camera_shake,augmented/train/images/instrument_box/train_aug_000613.jpg,Toolbox detection.v3i.coco.zip,15738680341620545886
+img_0b9179c1eb15bb87,camera_shake,augmented/train/images/instrument_box/train_aug_000615.jpg,Toolbox detection.v3i.coco.zip,3523564751254024207
+img_0bb6b22bff943242,camera_shake,augmented/train/images/instrument_box/train_aug_000629.jpg,Toolbox detection.v3i.coco.zip,5363689694009737454
+img_0bdbc4098cfbcb25,camera_shake,augmented/train/images/instrument_box/train_aug_000645.jpg,Toolbox.v1i.coco.zip,579877706548399840
+img_0be50c6429466a7e,camera_shake,augmented/train/images/instrument_box/train_aug_000651.jpg,Toolbox.v1i.coco.zip,217285519933448159
+img_0c50d0a22fd727b1,camera_shake,augmented/train/images/instrument_box/train_aug_000667.jpg,Abandoned Toolbox.v2i.coco.zip,8324352433927259001
+img_0d64a9e1fa436f50,camera_shake,augmented/train/images/instrument_box/train_aug_000725.jpg,Toolbox.v1i.coco.zip,16924017264869170336
+img_0d64a9e1fa436f50,camera_shake,augmented/train/images/instrument_box/train_aug_000726.jpg,Toolbox.v1i.coco.zip,16193209147459946360
+img_0e7439131fe9c9fb,camera_shake,augmented/train/images/instrument_box/train_aug_000759.jpg,Toolbox.v1i.coco.zip,16800495348603927599
+img_0eda9327c45a5f05,camera_shake,augmented/train/images/instrument_box/train_aug_000801.jpg,Toolbox detection.v3i.coco.zip,6714029970372112703
+img_0eda9327c45a5f05,camera_shake,augmented/train/images/instrument_box/train_aug_000803.jpg,Toolbox detection.v3i.coco.zip,11304457064131007899
+img_0fee199f5ccfcd1f,camera_shake,augmented/train/images/instrument_box/train_aug_000891.jpg,Toolbox detection.v3i.coco.zip,9325560766992427191
+img_105f034f5c7bf24f,camera_shake,augmented/train/images/instrument_box/train_aug_000907.jpg,Toolbox detection.v3i.coco.zip,10721494817282653809
+img_105f034f5c7bf24f,camera_shake,augmented/train/images/instrument_box/train_aug_000912.jpg,Toolbox detection.v3i.coco.zip,6527780299676333411
+img_10ea937276ee6749,camera_shake,augmented/train/images/instrument_box/train_aug_000947.jpg,Abandoned Toolbox.v2i.coco.zip,11537405658330789139
+img_10ea937276ee6749,camera_shake,augmented/train/images/instrument_box/train_aug_000948.jpg,Abandoned Toolbox.v2i.coco.zip,14439295922039144821
+img_129cafbfcf1e6633,camera_shake,augmented/train/images/instrument_box/train_aug_001036.jpg,Toolbox.v1i.coco.zip,10565027375774930479
+img_12bc2b2e0959d43d,camera_shake,augmented/train/images/instrument_box/train_aug_001051.jpg,Toolbox detection.v3i.coco.zip,4375437313173486464
+img_12bc2b2e0959d43d,camera_shake,augmented/train/images/instrument_box/train_aug_001056.jpg,Toolbox detection.v3i.coco.zip,16578033743309260687
+img_1360e1bd4a8fb86d,camera_shake,augmented/train/images/instrument_box/train_aug_001095.jpg,Toolbox detection.v3i.coco.zip,465520333245981083
+img_1360e1bd4a8fb86d,camera_shake,augmented/train/images/instrument_box/train_aug_001096.jpg,Toolbox detection.v3i.coco.zip,4146021400092961278
+img_15492be498464100,camera_shake,augmented/train/images/instrument_box/train_aug_001162.jpg,Toolbox detection.v3i.coco.zip,11114465969215115762
+img_15492be498464100,camera_shake,augmented/train/images/instrument_box/train_aug_001163.jpg,Toolbox detection.v3i.coco.zip,9884442742449525413
+img_170c0478bc77e511,camera_shake,augmented/train/images/instrument_box/train_aug_001294.jpg,Toolbox.v1i.coco.zip,6768171142886283935
+img_180759bf5289b339,camera_shake,augmented/train/images/instrument_box/train_aug_001348.jpg,Toolbox.v1i.coco.zip,473276924099215604
+img_194dd832ce56acd1,camera_shake,augmented/train/images/instrument_box/train_aug_001416.jpg,Toolbox detection.v3i.coco.zip,1828892645623079218
+img_1995c717c3c62cff,camera_shake,augmented/train/images/instrument_box/train_aug_001424.jpg,Abandoned Toolbox.v2i.coco.zip,876550004926571571
+img_1995c717c3c62cff,camera_shake,augmented/train/images/instrument_box/train_aug_001425.jpg,Abandoned Toolbox.v2i.coco.zip,12614457107819836954
+img_1b9996570aedcd44,camera_shake,augmented/train/images/instrument_box/train_aug_001544.jpg,Toolbox.v1i.coco.zip,4900881760138240351
+img_1c593f8294341bfe,camera_shake,augmented/train/images/instrument_box/train_aug_001603.jpg,Toolbox detection.v3i.coco.zip,12154074643343062438
+img_1c593f8294341bfe,camera_shake,augmented/train/images/instrument_box/train_aug_001605.jpg,Toolbox detection.v3i.coco.zip,2205403962311582959
+img_1c593f8294341bfe,camera_shake,augmented/train/images/instrument_box/train_aug_001608.jpg,Toolbox detection.v3i.coco.zip,12525839292316016670
+img_1c76ed76ab040621,camera_shake,augmented/train/images/instrument_box/train_aug_001614.jpg,Abandoned Toolbox.v2i.coco.zip,3260603483101758539
+img_1d8ac95664f6966c,camera_shake,augmented/train/images/instrument_box/train_aug_001656.jpg,Toolbox detection.v3i.coco.zip,9355557613128546339
+img_1e4c1f4bdbc215c2,camera_shake,augmented/train/images/instrument_box/train_aug_001709.jpg,Toolbox detection.v3i.coco.zip,12976181650064299909
+img_1ed0928ea50600b3,camera_shake,augmented/train/images/instrument_box/train_aug_001730.jpg,Toolbox.v1i.coco.zip,786161116384317483
+img_1eff06f308ff2116,camera_shake,augmented/train/images/instrument_box/train_aug_001750.jpg,Toolbox detection.v3i.coco.zip,8621150434868866935
+img_1f1c95ac1b89321a,camera_shake,augmented/train/images/instrument_box/train_aug_001767.jpg,Abandoned Toolbox.v2i.coco.zip,1893294997185342804
+img_1f1f07c88be3eca5,camera_shake,augmented/train/images/instrument_box/train_aug_001776.jpg,Toolbox detection.v3i.coco.zip,4088620109169892757
+img_1ff27b61cdd3133e,camera_shake,augmented/train/images/instrument_box/train_aug_001825.jpg,Toolbox.v1i.coco.zip,13664974046321309891
+img_1ff27b61cdd3133e,camera_shake,augmented/train/images/instrument_box/train_aug_001827.jpg,Toolbox.v1i.coco.zip,16923313581258227888
+img_1ff27b61cdd3133e,camera_shake,augmented/train/images/instrument_box/train_aug_001828.jpg,Toolbox.v1i.coco.zip,8480390151948675225
+img_21d02e1a2832fa9d,camera_shake,augmented/train/images/instrument_box/train_aug_001932.jpg,Abandoned Toolbox.v2i.coco.zip,5120804041712616866
+img_21e7f656f03ed787,camera_shake,augmented/train/images/instrument_box/train_aug_001936.jpg,Toolbox.v1i.coco.zip,9136273425542957205
+img_23059db27a6ab2b1,camera_shake,augmented/train/images/instrument_box/train_aug_002014.jpg,Toolbox.v1i.coco.zip,6158115871281972692
+img_2331efd747275ec7,camera_shake,augmented/train/images/instrument_box/train_aug_002036.jpg,Abandoned Toolbox.v2i.coco.zip,1155103773494107967
+img_262ae4d05fbef4ca,camera_shake,augmented/train/images/instrument_box/train_aug_002174.jpg,Toolbox detection.v3i.coco.zip,5911192193528945560
+img_27eb65bd805db9b2,camera_shake,augmented/train/images/instrument_box/train_aug_002244.jpg,Toolbox detection.v3i.coco.zip,14280765845923788791
+img_27faa390d72c7a3e,camera_shake,augmented/train/images/instrument_box/train_aug_002255.jpg,Toolbox detection.v3i.coco.zip,7869476738589635924
+img_2a486ef0ccefb50d,camera_shake,augmented/train/images/instrument_box/train_aug_002387.jpg,Abandoned Toolbox.v2i.coco.zip,3595916596630189162
+img_2a486ef0ccefb50d,camera_shake,augmented/train/images/instrument_box/train_aug_002388.jpg,Abandoned Toolbox.v2i.coco.zip,12133933140413403257
+img_2b1d6126bff8610d,camera_shake,augmented/train/images/instrument_box/train_aug_002437.jpg,Toolbox.v1i.coco.zip,1000220186207465156
+img_2d4448e44102065d,camera_shake,augmented/train/images/instrument_box/train_aug_002543.jpg,Toolbox.v1i.coco.zip,18427907478936356926
+img_2d4448e44102065d,camera_shake,augmented/train/images/instrument_box/train_aug_002544.jpg,Toolbox.v1i.coco.zip,15182564942940049076
+img_2d6ff328c3c38079,camera_shake,augmented/train/images/instrument_box/train_aug_002555.jpg,Toolbox detection.v3i.coco.zip,2379827852502866956
+img_2d79a71d2f567b76,camera_shake,augmented/train/images/instrument_box/train_aug_002559.jpg,Toolbox detection.v3i.coco.zip,15341902062269057345
+img_2f1e004e0065b53f,camera_shake,augmented/train/images/instrument_box/train_aug_002635.jpg,Abandoned Toolbox.v2i.coco.zip,2138152356278301840
+img_3049135d1b928f73,camera_shake,augmented/train/images/instrument_box/train_aug_002711.jpg,Toolbox detection.v3i.coco.zip,8591054431794759173
+img_3168e6857d8e5714,camera_shake,augmented/train/images/instrument_box/train_aug_002749.jpg,Toolbox detection.v3i.coco.zip,12455344502517501569
+img_3168e6857d8e5714,camera_shake,augmented/train/images/instrument_box/train_aug_002750.jpg,Toolbox detection.v3i.coco.zip,4952872213827784293
+img_3168e6857d8e5714,camera_shake,augmented/train/images/instrument_box/train_aug_002754.jpg,Toolbox detection.v3i.coco.zip,9264401326089234384
+img_34166ca0b2f91881,camera_shake,augmented/train/images/instrument_box/train_aug_002894.jpg,Toolbox detection.v3i.coco.zip,12667378452753331117
+img_34166ca0b2f91881,camera_shake,augmented/train/images/instrument_box/train_aug_002895.jpg,Toolbox detection.v3i.coco.zip,9714644496965966704
+img_34b51011761cc9af,camera_shake,augmented/train/images/instrument_box/train_aug_002941.jpg,Abandoned Toolbox.v2i.coco.zip,11044167957377091161
+img_3505026ea4d6f4a3,camera_shake,augmented/train/images/instrument_box/train_aug_002954.jpg,Toolbox detection.v3i.coco.zip,3936936270142584860
+img_3505026ea4d6f4a3,camera_shake,augmented/train/images/instrument_box/train_aug_002955.jpg,Toolbox detection.v3i.coco.zip,573883656204806403
+img_3505026ea4d6f4a3,camera_shake,augmented/train/images/instrument_box/train_aug_002956.jpg,Toolbox detection.v3i.coco.zip,15676122483958823042
+img_37dd94b462872b3a,camera_shake,augmented/train/images/instrument_box/train_aug_003074.jpg,Toolbox detection.v3i.coco.zip,18059688377081542063
+img_39f0103ad5c31fa1,camera_shake,augmented/train/images/instrument_box/train_aug_003181.jpg,Toolbox detection.v3i.coco.zip,1680508470130752865
+img_3a665386255594b9,camera_shake,augmented/train/images/instrument_box/train_aug_003205.jpg,Toolbox.v1i.coco.zip,4837279182184368815
+img_3a665386255594b9,camera_shake,augmented/train/images/instrument_box/train_aug_003206.jpg,Toolbox.v1i.coco.zip,4005604668036759869
+img_3ba48b21930b56c9,camera_shake,augmented/train/images/instrument_box/train_aug_003284.jpg,Toolbox.v1i.coco.zip,6985271098482122719
+img_3ba48b21930b56c9,camera_shake,augmented/train/images/instrument_box/train_aug_003285.jpg,Toolbox.v1i.coco.zip,7598890083707789475
+img_3ba48b21930b56c9,camera_shake,augmented/train/images/instrument_box/train_aug_003287.jpg,Toolbox.v1i.coco.zip,11784460373584082141
+img_3d1f74b22cee0607,camera_shake,augmented/train/images/instrument_box/train_aug_003357.jpg,Toolbox detection.v3i.coco.zip,6756586039532854066
+img_3d1f74b22cee0607,camera_shake,augmented/train/images/instrument_box/train_aug_003358.jpg,Toolbox detection.v3i.coco.zip,3951448758505601135
+img_3d1f74b22cee0607,camera_shake,augmented/train/images/instrument_box/train_aug_003359.jpg,Toolbox detection.v3i.coco.zip,16721623557889511419
+img_3dad13afaae05b14,camera_shake,augmented/train/images/instrument_box/train_aug_003420.jpg,Abandoned Toolbox.v2i.coco.zip,17814329933814620432
+img_3de1554e74b2ffca,camera_shake,augmented/train/images/instrument_box/train_aug_003433.jpg,Toolbox.v1i.coco.zip,5052660824049912385
+img_3e7f601073cc7f51,camera_shake,augmented/train/images/instrument_box/train_aug_003473.jpg,Toolbox detection.v3i.coco.zip,5305934210640196201
+img_3f042f77e5327556,camera_shake,augmented/train/images/instrument_box/train_aug_003505.jpg,Toolbox.v1i.coco.zip,2599935512550315052
+img_3f042f77e5327556,camera_shake,augmented/train/images/instrument_box/train_aug_003507.jpg,Toolbox.v1i.coco.zip,12919203259540977375
+img_3f042f77e5327556,camera_shake,augmented/train/images/instrument_box/train_aug_003508.jpg,Toolbox.v1i.coco.zip,11764144198397949741
+img_3f042f77e5327556,camera_shake,augmented/train/images/instrument_box/train_aug_003510.jpg,Toolbox.v1i.coco.zip,7759610846522852969
+img_4154bb14154beac8,camera_shake,augmented/train/images/instrument_box/train_aug_003615.jpg,Toolbox detection.v3i.coco.zip,3074723924076981904
+img_4154bb14154beac8,camera_shake,augmented/train/images/instrument_box/train_aug_003618.jpg,Toolbox detection.v3i.coco.zip,4159483143957538836
+img_4216a2af5fce05b9,camera_shake,augmented/train/images/instrument_box/train_aug_003683.jpg,Toolbox.v1i.coco.zip,7805900881208614636
+img_44e67bfbe13114b3,camera_shake,augmented/train/images/instrument_box/train_aug_003796.jpg,Abandoned Toolbox.v2i.coco.zip,7515156036550991211
+img_44e67bfbe13114b3,camera_shake,augmented/train/images/instrument_box/train_aug_003797.jpg,Abandoned Toolbox.v2i.coco.zip,4511435308070926906
+img_44ea4553b3d283b5,camera_shake,augmented/train/images/instrument_box/train_aug_003811.jpg,Toolbox detection.v3i.coco.zip,1191191127222212662
+img_44ea4553b3d283b5,camera_shake,augmented/train/images/instrument_box/train_aug_003812.jpg,Toolbox detection.v3i.coco.zip,17189804068271773978
+img_46e959d535ffc895,camera_shake,augmented/train/images/instrument_box/train_aug_003911.jpg,Toolbox detection.v3i.coco.zip,5778420192919764692
+img_4707108627dc48e0,camera_shake,augmented/train/images/instrument_box/train_aug_003920.jpg,Toolbox.v1i.coco.zip,11864878988196688087
+img_488ced4852094a2c,camera_shake,augmented/train/images/instrument_box/train_aug_004037.jpg,Abandoned Toolbox.v2i.coco.zip,18168706148048030585
+img_488ced4852094a2c,camera_shake,augmented/train/images/instrument_box/train_aug_004038.jpg,Abandoned Toolbox.v2i.coco.zip,1312970037445017953
+img_48a1a868755f319f,camera_shake,augmented/train/images/instrument_box/train_aug_004039.jpg,Toolbox.v1i.coco.zip,15360515400320473195
+img_4939d26c70755729,camera_shake,augmented/train/images/instrument_box/train_aug_004070.jpg,Toolbox.v1i.coco.zip,8808397830665098451
+img_49a3d29c0bb6a46f,camera_shake,augmented/train/images/instrument_box/train_aug_004082.jpg,Abandoned Toolbox.v2i.coco.zip,12850785366998467595
+img_4a8b5a397efc579e,camera_shake,augmented/train/images/instrument_box/train_aug_004136.jpg,Toolbox detection.v3i.coco.zip,12999470975409625420
+img_4a8b5a397efc579e,camera_shake,augmented/train/images/instrument_box/train_aug_004139.jpg,Toolbox detection.v3i.coco.zip,11053350130772493354
+img_4bc772b029919fca,camera_shake,augmented/train/images/instrument_box/train_aug_004198.jpg,Toolbox detection.v3i.coco.zip,3489007045772183557
+img_4bc772b029919fca,camera_shake,augmented/train/images/instrument_box/train_aug_004199.jpg,Toolbox detection.v3i.coco.zip,17742376355571044388
+img_4c5788bf97a5417d,camera_shake,augmented/train/images/instrument_box/train_aug_004231.jpg,Abandoned Toolbox.v2i.coco.zip,2592770137250574256
+img_4c5788bf97a5417d,camera_shake,augmented/train/images/instrument_box/train_aug_004236.jpg,Abandoned Toolbox.v2i.coco.zip,17660152490802857395
+img_4d563e301eccd28d,camera_shake,augmented/train/images/instrument_box/train_aug_004277.jpg,Abandoned Toolbox.v2i.coco.zip,12606274995615220287
+img_4efd87c931261299,camera_shake,augmented/train/images/instrument_box/train_aug_004354.jpg,Toolbox.v1i.coco.zip,13685396728563474496
+img_4f7e065e64f1a929,camera_shake,augmented/train/images/instrument_box/train_aug_004402.jpg,Toolbox.v1i.coco.zip,15169559355084848107
+img_4f8d877d6df1cc92,camera_shake,augmented/train/images/instrument_box/train_aug_004406.jpg,Toolbox detection.v3i.coco.zip,14673465714772703345
+img_4f8d877d6df1cc92,camera_shake,augmented/train/images/instrument_box/train_aug_004410.jpg,Toolbox detection.v3i.coco.zip,1202793182898205106
+img_50d031416cdb2693,camera_shake,augmented/train/images/instrument_box/train_aug_004478.jpg,Toolbox detection.v3i.coco.zip,6820692493518877252
+img_50e9fe0c0ef0d2c6,camera_shake,augmented/train/images/instrument_box/train_aug_004483.jpg,Toolbox.v1i.coco.zip,15007822458317226181
+img_51494c1593e913f3,camera_shake,augmented/train/images/instrument_box/train_aug_004516.jpg,Toolbox.v1i.coco.zip,16752005135434872278
+img_519b4f544d7575fa,camera_shake,augmented/train/images/instrument_box/train_aug_004543.jpg,Toolbox.v1i.coco.zip,4904383566581845996
+img_57e205e88b8b7b20,camera_shake,augmented/train/images/instrument_box/train_aug_004874.jpg,Toolbox.v1i.coco.zip,18308880948348264944
+img_57e205e88b8b7b20,camera_shake,augmented/train/images/instrument_box/train_aug_004875.jpg,Toolbox.v1i.coco.zip,1703124386305535088
+img_57e205e88b8b7b20,camera_shake,augmented/train/images/instrument_box/train_aug_004876.jpg,Toolbox.v1i.coco.zip,6575649682858966713
+img_590ce9b48c42110c,camera_shake,augmented/train/images/instrument_box/train_aug_004937.jpg,Toolbox detection.v3i.coco.zip,9173202659741959716
+img_5949a1a63eb2a1ab,camera_shake,augmented/train/images/instrument_box/train_aug_004951.jpg,Toolbox detection.v3i.coco.zip,13064361034983621153
+img_59d37b91815f4257,camera_shake,augmented/train/images/instrument_box/train_aug_005014.jpg,Toolbox.v1i.coco.zip,6653311969290917446
+img_5f75b2f354c69edc,camera_shake,augmented/train/images/instrument_box/train_aug_005284.jpg,Toolbox.v1i.coco.zip,3955982039192824203
+img_625e02ebb3e5c6f3,camera_shake,augmented/train/images/instrument_box/train_aug_005396.jpg,Toolbox detection.v3i.coco.zip,15002554518588960804
+img_6299e8119856ea27,camera_shake,augmented/train/images/instrument_box/train_aug_005426.jpg,Toolbox.v1i.coco.zip,3035728437131144084
+img_644f7ee81153f896,camera_shake,augmented/train/images/instrument_box/train_aug_005510.jpg,Toolbox detection.v3i.coco.zip,1268209642347188074
+img_644f7ee81153f896,camera_shake,augmented/train/images/instrument_box/train_aug_005514.jpg,Toolbox detection.v3i.coco.zip,493267611415052507
+img_64c395f3736924b9,camera_shake,augmented/train/images/instrument_box/train_aug_005526.jpg,Toolbox detection.v3i.coco.zip,171284970920822529
+img_653833c58c863909,camera_shake,augmented/train/images/instrument_box/train_aug_005562.jpg,Toolbox.v1i.coco.zip,1861617512367324832
+img_664f76b5fcaa044f,camera_shake,augmented/train/images/instrument_box/train_aug_005603.jpg,Toolbox.v1i.coco.zip,17074462364496457602
+img_6aa7050a4b7152ea,camera_shake,augmented/train/images/instrument_box/train_aug_005862.jpg,Toolbox.v1i.coco.zip,4812558020691574570
+img_6ad521bb6d83c294,camera_shake,augmented/train/images/instrument_box/train_aug_005866.jpg,Abandoned Toolbox.v2i.coco.zip,14289465539285132705
+img_6ad521bb6d83c294,camera_shake,augmented/train/images/instrument_box/train_aug_005868.jpg,Abandoned Toolbox.v2i.coco.zip,12460759231410665602
+img_6bca802830696be2,camera_shake,augmented/train/images/instrument_box/train_aug_005904.jpg,Abandoned Toolbox.v2i.coco.zip,1822270186302097924
+img_6efd50f76787fe95,camera_shake,augmented/train/images/instrument_box/train_aug_006057.jpg,Toolbox detection.v3i.coco.zip,8499560629507025218
+img_6f5491271d9db552,camera_shake,augmented/train/images/instrument_box/train_aug_006074.jpg,Toolbox.v1i.coco.zip,1499129991646926001
+img_6f5491271d9db552,camera_shake,augmented/train/images/instrument_box/train_aug_006075.jpg,Toolbox.v1i.coco.zip,16986817065579344946
+img_6fa7de93a07d901c,camera_shake,augmented/train/images/instrument_box/train_aug_006085.jpg,Abandoned Toolbox.v2i.coco.zip,9743208570796226452
+img_6fa7de93a07d901c,camera_shake,augmented/train/images/instrument_box/train_aug_006086.jpg,Abandoned Toolbox.v2i.coco.zip,18084112472418075882
+img_6fa7de93a07d901c,camera_shake,augmented/train/images/instrument_box/train_aug_006087.jpg,Abandoned Toolbox.v2i.coco.zip,4307398205664423249
+img_6fddba79a2e1944a,camera_shake,augmented/train/images/instrument_box/train_aug_006116.jpg,Abandoned Toolbox.v2i.coco.zip,3441575735615641012
+img_7220644b5c751cfc,camera_shake,augmented/train/images/instrument_box/train_aug_006209.jpg,Toolbox detection.v3i.coco.zip,2598029295591735091
+img_743d884b66e62964,camera_shake,augmented/train/images/instrument_box/train_aug_006348.jpg,Toolbox detection.v3i.coco.zip,15382208949265799389
+img_744df440975f9372,camera_shake,augmented/train/images/instrument_box/train_aug_006354.jpg,Abandoned Toolbox.v2i.coco.zip,7865457958992566012
+img_74946b9d406f8e36,camera_shake,augmented/train/images/instrument_box/train_aug_006371.jpg,Toolbox.v1i.coco.zip,3431464670218213409
+img_74a18282ab7a430c,camera_shake,augmented/train/images/instrument_box/train_aug_006373.jpg,Abandoned Toolbox.v2i.coco.zip,3169458560343322127
+img_74a18282ab7a430c,camera_shake,augmented/train/images/instrument_box/train_aug_006375.jpg,Abandoned Toolbox.v2i.coco.zip,8024442692603218359
+img_74b3da0498591e17,camera_shake,augmented/train/images/instrument_box/train_aug_006387.jpg,Toolbox.v1i.coco.zip,9005646067591916657
+img_78457284f7cee52f,camera_shake,augmented/train/images/instrument_box/train_aug_006563.jpg,Abandoned Toolbox.v2i.coco.zip,10341091021148575298
+img_7a271158782f0cf6,camera_shake,augmented/train/images/instrument_box/train_aug_006691.jpg,Toolbox detection.v3i.coco.zip,6111694476529251776
+img_7ab01558cd2855c8,camera_shake,augmented/train/images/instrument_box/train_aug_006739.jpg,Toolbox.v1i.coco.zip,4959839756490092434
+img_7ca87435a9d0117b,camera_shake,augmented/train/images/instrument_box/train_aug_006830.jpg,Toolbox detection.v3i.coco.zip,6420044392810065672
+img_812aa3a7444dd6a9,camera_shake,augmented/train/images/instrument_box/train_aug_007095.jpg,Toolbox detection.v3i.coco.zip,3402715358313881470
+img_81c5ef5ffeb73d48,camera_shake,augmented/train/images/instrument_box/train_aug_007146.jpg,Toolbox detection.v3i.coco.zip,805879797199100317
+img_82aa75069c905e59,camera_shake,augmented/train/images/instrument_box/train_aug_007196.jpg,Toolbox.v1i.coco.zip,9828742220901580113
+img_84413e22c5f042cb,camera_shake,augmented/train/images/instrument_box/train_aug_007274.jpg,Toolbox detection.v3i.coco.zip,15168257933967462213
+img_847b3d215c6b06cc,camera_shake,augmented/train/images/instrument_box/train_aug_007294.jpg,Toolbox detection.v3i.coco.zip,2534138278829054364
+img_86604d14833110f0,camera_shake,augmented/train/images/instrument_box/train_aug_007418.jpg,Toolbox detection.v3i.coco.zip,5252453713114129036
+img_87b38042cdb6eb5d,camera_shake,augmented/train/images/instrument_box/train_aug_007487.jpg,Toolbox detection.v3i.coco.zip,16399834023069436554
+img_8a40d7e1f5b99dd5,camera_shake,augmented/train/images/instrument_box/train_aug_007628.jpg,Toolbox.v1i.coco.zip,17963378422384022758
+img_8a40d7e1f5b99dd5,camera_shake,augmented/train/images/instrument_box/train_aug_007629.jpg,Toolbox.v1i.coco.zip,1909015749875477619
+img_8a7a54f75f166bc0,camera_shake,augmented/train/images/instrument_box/train_aug_007649.jpg,Abandoned Toolbox.v2i.coco.zip,453573713142429556
+img_8dbf8f5b68152faf,camera_shake,augmented/train/images/instrument_box/train_aug_007832.jpg,Toolbox detection.v3i.coco.zip,8887719787128136809
+img_8dbf8f5b68152faf,camera_shake,augmented/train/images/instrument_box/train_aug_007834.jpg,Toolbox detection.v3i.coco.zip,819781023633698449
+img_8dbf8f5b68152faf,camera_shake,augmented/train/images/instrument_box/train_aug_007836.jpg,Toolbox detection.v3i.coco.zip,5341526464274973484
+img_90f59f90273aad40,camera_shake,augmented/train/images/instrument_box/train_aug_008013.jpg,Abandoned Toolbox.v2i.coco.zip,4765987269151042589
+img_914a8f85ac09aa5b,camera_shake,augmented/train/images/instrument_box/train_aug_008021.jpg,Abandoned Toolbox.v2i.coco.zip,6429888881200881728
+img_91db85a8a5a3362c,camera_shake,augmented/train/images/instrument_box/train_aug_008050.jpg,Toolbox.v1i.coco.zip,11890936554738383583
+img_91f11f743fbdeb9f,camera_shake,augmented/train/images/instrument_box/train_aug_008065.jpg,Toolbox.v1i.coco.zip,17259223922644401504
+img_91f11f743fbdeb9f,camera_shake,augmented/train/images/instrument_box/train_aug_008067.jpg,Toolbox.v1i.coco.zip,6877329817317777391
+img_9222269a5f50ea14,camera_shake,augmented/train/images/instrument_box/train_aug_008092.jpg,Toolbox.v1i.coco.zip,6924309763372401206
+img_94963f638f89ccdf,camera_shake,augmented/train/images/instrument_box/train_aug_008229.jpg,Toolbox.v1i.coco.zip,13572195536214067537
+img_96c30cc446627530,camera_shake,augmented/train/images/instrument_box/train_aug_008311.jpg,Toolbox detection.v3i.coco.zip,15436458533641129128
+img_96c30cc446627530,camera_shake,augmented/train/images/instrument_box/train_aug_008314.jpg,Toolbox detection.v3i.coco.zip,9188376729734782415
+img_9730094e62170012,camera_shake,augmented/train/images/instrument_box/train_aug_008340.jpg,Abandoned Toolbox.v2i.coco.zip,9739528288385297596
+img_9859d13d4eb5623f,camera_shake,augmented/train/images/instrument_box/train_aug_008397.jpg,Toolbox.v1i.coco.zip,7773276102509025845
+img_9859d13d4eb5623f,camera_shake,augmented/train/images/instrument_box/train_aug_008398.jpg,Toolbox.v1i.coco.zip,1219517872325407804
+img_98830386f39a7424,camera_shake,augmented/train/images/instrument_box/train_aug_008407.jpg,Toolbox detection.v3i.coco.zip,3641845685301386569
+img_99780553e79f5130,camera_shake,augmented/train/images/instrument_box/train_aug_008444.jpg,Toolbox.v1i.coco.zip,7108346456213333306
+img_9af3a9293dba3825,camera_shake,augmented/train/images/instrument_box/train_aug_008546.jpg,Abandoned Toolbox.v2i.coco.zip,944968613699814675
+img_9af3a9293dba3825,camera_shake,augmented/train/images/instrument_box/train_aug_008549.jpg,Abandoned Toolbox.v2i.coco.zip,16870240207177422638
+img_9b53ee01e23c8cb6,camera_shake,augmented/train/images/instrument_box/train_aug_008562.jpg,Toolbox.v1i.coco.zip,4964905049977835358
+img_9bfa7dee668f0207,camera_shake,augmented/train/images/instrument_box/train_aug_008605.jpg,Abandoned Toolbox.v2i.coco.zip,6427619103688039771
+img_9c58b4ea7d252f55,camera_shake,augmented/train/images/instrument_box/train_aug_008633.jpg,Toolbox.v1i.coco.zip,15216473341663248596
+img_9cc2fa946ec11356,camera_shake,augmented/train/images/instrument_box/train_aug_008643.jpg,Toolbox.v1i.coco.zip,17680916343190293531
+img_9d1cbbdaa06d1a21,camera_shake,augmented/train/images/instrument_box/train_aug_008660.jpg,Toolbox.v1i.coco.zip,7093188412992050528
+img_9de6652776cfc8a4,camera_shake,augmented/train/images/instrument_box/train_aug_008690.jpg,Toolbox.v1i.coco.zip,3130588623837218243
+img_9f2ced31638f2f94,camera_shake,augmented/train/images/instrument_box/train_aug_008736.jpg,Abandoned Toolbox.v2i.coco.zip,8991060711934360411
+img_a0e106620d9ff63a,camera_shake,augmented/train/images/instrument_box/train_aug_008817.jpg,Toolbox.v1i.coco.zip,15369136260951073423
+img_a2167e6a9c49d2ec,camera_shake,augmented/train/images/instrument_box/train_aug_008912.jpg,Toolbox.v1i.coco.zip,18366201219554361041
+img_a2167e6a9c49d2ec,camera_shake,augmented/train/images/instrument_box/train_aug_008913.jpg,Toolbox.v1i.coco.zip,15972909453420665701
+img_a9ff4eab454c9d74,camera_shake,augmented/train/images/instrument_box/train_aug_009286.jpg,Abandoned Toolbox.v2i.coco.zip,894870910680329291
+img_a9ff4eab454c9d74,camera_shake,augmented/train/images/instrument_box/train_aug_009288.jpg,Abandoned Toolbox.v2i.coco.zip,16551231022768547951
+img_afe6ca99a02227a4,camera_shake,augmented/train/images/instrument_box/train_aug_009598.jpg,Toolbox.v1i.coco.zip,5258756675740605570
+img_b0502fa5add2b1c0,camera_shake,augmented/train/images/instrument_box/train_aug_009632.jpg,Toolbox detection.v3i.coco.zip,18128229320370291566
+img_b0502fa5add2b1c0,camera_shake,augmented/train/images/instrument_box/train_aug_009635.jpg,Toolbox detection.v3i.coco.zip,11767361685238521316
+img_b0502fa5add2b1c0,camera_shake,augmented/train/images/instrument_box/train_aug_009636.jpg,Toolbox detection.v3i.coco.zip,12314044694558622401
+img_b0a97469b0aa8ba5,camera_shake,augmented/train/images/instrument_box/train_aug_009649.jpg,Toolbox detection.v3i.coco.zip,17009589994629988886
+img_b13a141f8694a840,camera_shake,augmented/train/images/instrument_box/train_aug_009679.jpg,Toolbox detection.v3i.coco.zip,17218514639125720204
+img_b13a141f8694a840,camera_shake,augmented/train/images/instrument_box/train_aug_009681.jpg,Toolbox detection.v3i.coco.zip,1506303678242540295
+img_b157f31df91d2b73,camera_shake,augmented/train/images/instrument_box/train_aug_009696.jpg,Toolbox detection.v3i.coco.zip,17846592601245674799
+img_b32e774c10494d19,camera_shake,augmented/train/images/instrument_box/train_aug_009822.jpg,Toolbox detection.v3i.coco.zip,4120366709721463969
+img_b37f61fbfa546c1d,camera_shake,augmented/train/images/instrument_box/train_aug_009838.jpg,Abandoned Toolbox.v2i.coco.zip,17471606821492465345
+img_b3fa9eb5bce6d68c,camera_shake,augmented/train/images/instrument_box/train_aug_009878.jpg,Toolbox detection.v3i.coco.zip,12038407015736286155
+img_b3ff23224307d5ce,camera_shake,augmented/train/images/instrument_box/train_aug_009888.jpg,Toolbox.v1i.coco.zip,9969451482283023192
+img_b4998b64995fbe00,camera_shake,augmented/train/images/instrument_box/train_aug_009926.jpg,Toolbox.v1i.coco.zip,16856764164468558243
+img_b4998b64995fbe00,camera_shake,augmented/train/images/instrument_box/train_aug_009928.jpg,Toolbox.v1i.coco.zip,3170437066607363429
+img_b4998b64995fbe00,camera_shake,augmented/train/images/instrument_box/train_aug_009930.jpg,Toolbox.v1i.coco.zip,15007339002819792309
+img_b62945fc7ab7be9f,camera_shake,augmented/train/images/instrument_box/train_aug_009975.jpg,Toolbox detection.v3i.coco.zip,13831021954111928231
+img_b62945fc7ab7be9f,camera_shake,augmented/train/images/instrument_box/train_aug_009977.jpg,Toolbox detection.v3i.coco.zip,3969780489175920304
+img_b62945fc7ab7be9f,camera_shake,augmented/train/images/instrument_box/train_aug_009978.jpg,Toolbox detection.v3i.coco.zip,8619583937082088616
+img_b7cef0f2c4c7077a,camera_shake,augmented/train/images/instrument_box/train_aug_010093.jpg,Toolbox detection.v3i.coco.zip,4369707677456999593
+img_b7cef0f2c4c7077a,camera_shake,augmented/train/images/instrument_box/train_aug_010094.jpg,Toolbox detection.v3i.coco.zip,10160231488918696671
+img_b8dfb0845ee4b980,camera_shake,augmented/train/images/instrument_box/train_aug_010149.jpg,Toolbox detection.v3i.coco.zip,2666760068587696713
+img_b92196e1696957d8,camera_shake,augmented/train/images/instrument_box/train_aug_010168.jpg,Toolbox detection.v3i.coco.zip,10864056215101134792
+img_ba9c415c637afd1d,camera_shake,augmented/train/images/instrument_box/train_aug_010269.jpg,Toolbox.v1i.coco.zip,14059398289064723195
+img_bb06effcb14baa96,camera_shake,augmented/train/images/instrument_box/train_aug_010295.jpg,Toolbox.v1i.coco.zip,1986895079815339154
+img_bbc00e891563a1e3,camera_shake,augmented/train/images/instrument_box/train_aug_010342.jpg,Toolbox.v1i.coco.zip,7761151995117460772
+img_bf864e71eb6f1170,camera_shake,augmented/train/images/instrument_box/train_aug_010537.jpg,Toolbox detection.v3i.coco.zip,10716643306666400783
+img_bfd062a427b2ae62,camera_shake,augmented/train/images/instrument_box/train_aug_010571.jpg,Toolbox.v1i.coco.zip,11613139128429387570
+img_c11b0e6a019308c4,camera_shake,augmented/train/images/instrument_box/train_aug_010622.jpg,Abandoned Toolbox.v2i.coco.zip,8902381610307145310
+img_c2d25526aae39740,camera_shake,augmented/train/images/instrument_box/train_aug_010717.jpg,Abandoned Toolbox.v2i.coco.zip,16719470211379284201
+img_c2d25526aae39740,camera_shake,augmented/train/images/instrument_box/train_aug_010722.jpg,Abandoned Toolbox.v2i.coco.zip,16201852440661052834
+img_c48da4b3e979a5c9,camera_shake,augmented/train/images/instrument_box/train_aug_010808.jpg,Toolbox.v1i.coco.zip,2446817663279894797
+img_c5df4cd790a30e0d,camera_shake,augmented/train/images/instrument_box/train_aug_010889.jpg,Abandoned Toolbox.v2i.coco.zip,425761502441685411
+img_c618bdf535eb7a1a,camera_shake,augmented/train/images/instrument_box/train_aug_010917.jpg,Toolbox.v1i.coco.zip,642126201689797618
+img_c6a7218170b76bf2,camera_shake,augmented/train/images/instrument_box/train_aug_010953.jpg,Toolbox detection.v3i.coco.zip,3638579180577107036
+img_c8775af762afa000,camera_shake,augmented/train/images/instrument_box/train_aug_011058.jpg,Toolbox detection.v3i.coco.zip,4834323746119848957
+img_cb2a286fe2080c10,camera_shake,augmented/train/images/instrument_box/train_aug_011183.jpg,Abandoned Toolbox.v2i.coco.zip,4380041269619159627
+img_cb69806c4289ed7b,camera_shake,augmented/train/images/instrument_box/train_aug_011196.jpg,Abandoned Toolbox.v2i.coco.zip,5325941916283361903
+img_cb974bc9d6d15757,camera_shake,augmented/train/images/instrument_box/train_aug_011211.jpg,Toolbox.v1i.coco.zip,15846140139275010307
+img_cbc61f63e118ae0d,camera_shake,augmented/train/images/instrument_box/train_aug_011236.jpg,Toolbox detection.v3i.coco.zip,15947678976545660824
+img_cd654d983a5f32d0,camera_shake,augmented/train/images/instrument_box/train_aug_011310.jpg,Toolbox.v1i.coco.zip,17206578022877578380
+img_cecb6b232f85f596,camera_shake,augmented/train/images/instrument_box/train_aug_011360.jpg,Toolbox detection.v3i.coco.zip,13892886516665332079
+img_cecb6b232f85f596,camera_shake,augmented/train/images/instrument_box/train_aug_011362.jpg,Toolbox detection.v3i.coco.zip,17152100200039359917
+img_d0427f1900a6dc3c,camera_shake,augmented/train/images/instrument_box/train_aug_011451.jpg,Toolbox.v1i.coco.zip,12468204464323643064
+img_d0427f1900a6dc3c,camera_shake,augmented/train/images/instrument_box/train_aug_011453.jpg,Toolbox.v1i.coco.zip,15685232821260486926
+img_d0610cae228e0b26,camera_shake,augmented/train/images/instrument_box/train_aug_011462.jpg,Toolbox.v1i.coco.zip,4896991981853046594
+img_d14e5bf46a77ac34,camera_shake,augmented/train/images/instrument_box/train_aug_011525.jpg,Toolbox detection.v3i.coco.zip,1929439818304631885
+img_d2ae8e4b7cc8e8cf,camera_shake,augmented/train/images/instrument_box/train_aug_011586.jpg,Toolbox detection.v3i.coco.zip,14058916208674306680
+img_d57870ef038b4310,camera_shake,augmented/train/images/instrument_box/train_aug_011745.jpg,Toolbox.v1i.coco.zip,8352462623235260815
+img_d57870ef038b4310,camera_shake,augmented/train/images/instrument_box/train_aug_011748.jpg,Toolbox.v1i.coco.zip,7973383369339781385
+img_d64526cee0d6ffa6,camera_shake,augmented/train/images/instrument_box/train_aug_011780.jpg,Toolbox.v1i.coco.zip,10468047531252416164
+img_d64526cee0d6ffa6,camera_shake,augmented/train/images/instrument_box/train_aug_011781.jpg,Toolbox.v1i.coco.zip,15977302488382064493
+img_d6fa3f17ccd679fc,camera_shake,augmented/train/images/instrument_box/train_aug_011818.jpg,Toolbox.v1i.coco.zip,1726608857997497001
+img_d7095ffee95f967a,camera_shake,augmented/train/images/instrument_box/train_aug_011821.jpg,Abandoned Toolbox.v2i.coco.zip,1301539010803895002
+img_d7095ffee95f967a,camera_shake,augmented/train/images/instrument_box/train_aug_011823.jpg,Abandoned Toolbox.v2i.coco.zip,2479782118587081863
+img_d7095ffee95f967a,camera_shake,augmented/train/images/instrument_box/train_aug_011825.jpg,Abandoned Toolbox.v2i.coco.zip,9059315241707592618
+img_d71406309c33e34d,camera_shake,augmented/train/images/instrument_box/train_aug_011836.jpg,Abandoned Toolbox.v2i.coco.zip,4042745137954116692
+img_d71406309c33e34d,camera_shake,augmented/train/images/instrument_box/train_aug_011838.jpg,Abandoned Toolbox.v2i.coco.zip,16572994610652777424
+img_d7b60cca0d8ed2b6,camera_shake,augmented/train/images/instrument_box/train_aug_011855.jpg,Toolbox.v1i.coco.zip,9077944160229228772
+img_d8153d34f1866985,camera_shake,augmented/train/images/instrument_box/train_aug_011872.jpg,Toolbox detection.v3i.coco.zip,379151859758737666
+img_d903d60ada8d65ca,camera_shake,augmented/train/images/instrument_box/train_aug_011946.jpg,Toolbox.v1i.coco.zip,1523601196150073802
+img_d96c83ce1850bbc5,camera_shake,augmented/train/images/instrument_box/train_aug_011973.jpg,Abandoned Toolbox.v2i.coco.zip,8781486715071743594
+img_d96c83ce1850bbc5,camera_shake,augmented/train/images/instrument_box/train_aug_011974.jpg,Abandoned Toolbox.v2i.coco.zip,9792312028030422663
+img_db0a02f2cc2c0a77,camera_shake,augmented/train/images/instrument_box/train_aug_012041.jpg,Toolbox detection.v3i.coco.zip,13541035853655135732
+img_dbe67e03b0fc5778,camera_shake,augmented/train/images/instrument_box/train_aug_012135.jpg,Toolbox.v1i.coco.zip,5369592755615194190
+img_de443b461be34669,camera_shake,augmented/train/images/instrument_box/train_aug_012246.jpg,Toolbox.v1i.coco.zip,1645452840710201927
+img_de635e539acb19e3,camera_shake,augmented/train/images/instrument_box/train_aug_012251.jpg,Toolbox detection.v3i.coco.zip,8425914723607250665
+img_dec4f9f0e5c2a912,camera_shake,augmented/train/images/instrument_box/train_aug_012291.jpg,Toolbox.v1i.coco.zip,13608920044794828147
+img_df0b9eef29c6b54e,camera_shake,augmented/train/images/instrument_box/train_aug_012295.jpg,Toolbox.v1i.coco.zip,11307772334441336271
+img_df9a6b0a99d16149,camera_shake,augmented/train/images/instrument_box/train_aug_012319.jpg,Toolbox detection.v3i.coco.zip,15734857093294658648
+img_dfe880603a5630ed,camera_shake,augmented/train/images/instrument_box/train_aug_012337.jpg,Toolbox.v1i.coco.zip,6450095900331680910
+img_dfe880603a5630ed,camera_shake,augmented/train/images/instrument_box/train_aug_012342.jpg,Toolbox.v1i.coco.zip,16241752674525087087
+img_e09e20e0524248b1,camera_shake,augmented/train/images/instrument_box/train_aug_012419.jpg,Toolbox.v1i.coco.zip,2117374881079936156
+img_e0d0c6a01f8c39f6,camera_shake,augmented/train/images/instrument_box/train_aug_012429.jpg,Toolbox detection.v3i.coco.zip,13070279626019844644
+img_e155cbcd5b5140ff,camera_shake,augmented/train/images/instrument_box/train_aug_012446.jpg,Toolbox detection.v3i.coco.zip,16685264673312370308
+img_e24ffb68f7f258df,camera_shake,augmented/train/images/instrument_box/train_aug_012485.jpg,Toolbox.v1i.coco.zip,12094406530965946529
+img_e2b92311d21b36b3,camera_shake,augmented/train/images/instrument_box/train_aug_012546.jpg,Toolbox.v1i.coco.zip,17536087186334150735
+img_e31956e44a3e4bf1,camera_shake,augmented/train/images/instrument_box/train_aug_012571.jpg,Abandoned Toolbox.v2i.coco.zip,2189625601797986341
+img_e38af41db49c6f03,camera_shake,augmented/train/images/instrument_box/train_aug_012603.jpg,Toolbox detection.v3i.coco.zip,17933721411182357505
+img_e38af41db49c6f03,camera_shake,augmented/train/images/instrument_box/train_aug_012605.jpg,Toolbox detection.v3i.coco.zip,4542252678831953340
+img_e4646c876cab974c,camera_shake,augmented/train/images/instrument_box/train_aug_012638.jpg,Toolbox detection.v3i.coco.zip,14336596824472490656
+img_e557c76f19f60f2e,camera_shake,augmented/train/images/instrument_box/train_aug_012689.jpg,Toolbox.v1i.coco.zip,10336759679996272070
+img_e8f8fb9204196dc5,camera_shake,augmented/train/images/instrument_box/train_aug_012866.jpg,Toolbox detection.v3i.coco.zip,12309856173134084556
+img_ea5c80cc634efa59,camera_shake,augmented/train/images/instrument_box/train_aug_012933.jpg,Toolbox.v1i.coco.zip,11478092347456159675
+img_ebb14501673f0202,camera_shake,augmented/train/images/instrument_box/train_aug_012991.jpg,Toolbox detection.v3i.coco.zip,3722943673901222970
+img_ebb14501673f0202,camera_shake,augmented/train/images/instrument_box/train_aug_012994.jpg,Toolbox detection.v3i.coco.zip,16269220505620133156
+img_ecb8eaf3a0486f9c,camera_shake,augmented/train/images/instrument_box/train_aug_013046.jpg,Abandoned Toolbox.v2i.coco.zip,8109091055080712708
+img_ecb8eaf3a0486f9c,camera_shake,augmented/train/images/instrument_box/train_aug_013048.jpg,Abandoned Toolbox.v2i.coco.zip,6459832463143446805
+img_ed10933416559ae5,camera_shake,augmented/train/images/instrument_box/train_aug_013080.jpg,Toolbox detection.v3i.coco.zip,10549088204996662971
+img_ed3577b5c2b28289,camera_shake,augmented/train/images/instrument_box/train_aug_013091.jpg,Toolbox.v1i.coco.zip,3833660575956757589
+img_edd1e6ac55c965c3,camera_shake,augmented/train/images/instrument_box/train_aug_013122.jpg,Toolbox detection.v3i.coco.zip,17723565775064325532
+img_ee1a9cf23dc65ac9,camera_shake,augmented/train/images/instrument_box/train_aug_013128.jpg,Toolbox.v1i.coco.zip,11909505044675168859
+img_ee4040a43ccd0609,camera_shake,augmented/train/images/instrument_box/train_aug_013144.jpg,Toolbox.v1i.coco.zip,3453610001285962638
+img_ee59e9e4180a9c74,camera_shake,augmented/train/images/instrument_box/train_aug_013158.jpg,Toolbox.v1i.coco.zip,1310345504806334744
+img_ee6a01a1b5e7694e,camera_shake,augmented/train/images/instrument_box/train_aug_013160.jpg,Toolbox.v1i.coco.zip,1538131990766090814
+img_ee6a01a1b5e7694e,camera_shake,augmented/train/images/instrument_box/train_aug_013162.jpg,Toolbox.v1i.coco.zip,16663880228504454921
+img_ee6a01a1b5e7694e,camera_shake,augmented/train/images/instrument_box/train_aug_013163.jpg,Toolbox.v1i.coco.zip,4763911944537291303
+img_ef1a3c82f46ef3f4,camera_shake,augmented/train/images/instrument_box/train_aug_013195.jpg,Toolbox detection.v3i.coco.zip,2037963791219398716
+img_ef1a3c82f46ef3f4,camera_shake,augmented/train/images/instrument_box/train_aug_013197.jpg,Toolbox detection.v3i.coco.zip,3559570636490563300
+img_ef3b1dcc051797f8,camera_shake,augmented/train/images/instrument_box/train_aug_013224.jpg,Toolbox detection.v3i.coco.zip,10873226464004427062
+img_f39cdfd54ed9f67b,camera_shake,augmented/train/images/instrument_box/train_aug_013414.jpg,Toolbox.v1i.coco.zip,11054680013365496691
+img_f7dac3e47160fd5c,camera_shake,augmented/train/images/instrument_box/train_aug_013642.jpg,Toolbox.v1i.coco.zip,17995511783747356947
+img_f830ea7f43840bbb,camera_shake,augmented/train/images/instrument_box/train_aug_013685.jpg,Toolbox.v1i.coco.zip,16376388556021426104
+img_f830ea7f43840bbb,camera_shake,augmented/train/images/instrument_box/train_aug_013686.jpg,Toolbox.v1i.coco.zip,7134481659281837349
+img_f9fa3d47210121e0,camera_shake,augmented/train/images/instrument_box/train_aug_013758.jpg,Toolbox detection.v3i.coco.zip,9588751348321831226
+img_fa9a8f4747442632,camera_shake,augmented/train/images/instrument_box/train_aug_013801.jpg,Toolbox detection.v3i.coco.zip,9801384716463622980
+img_fa9a8f4747442632,camera_shake,augmented/train/images/instrument_box/train_aug_013802.jpg,Toolbox detection.v3i.coco.zip,11178594599300444808
+img_fd2b59eb3cbc96af,camera_shake,augmented/train/images/instrument_box/train_aug_013915.jpg,Toolbox.v1i.coco.zip,816372475433797754
+img_fd2b59eb3cbc96af,camera_shake,augmented/train/images/instrument_box/train_aug_013916.jpg,Toolbox.v1i.coco.zip,14742535909609940272

@@ -1,5 +1,4 @@
 # Ardra datasets
 
-The four-class drone object detection dataset is in [drone-detection-v1](drone-detection-v1/README.md). Its GitHub Release contains the clean source images, distinct augmented images, COCO annotations, and checksum manifest. Each image binary appears once; class CSVs provide separate views without copying files.
-
-The existing `flags-augmented` and `tripod-composite` directories are retained as earlier project material.
+- [v1](v1/) contains the earlier `flags-augmented` and `tripod-composite` data.
+- [v2](v2/README.md) is the four-class drone object detection dataset. Its GitHub Release contains clean images, distinct augmented images, COCO annotations, and checksums. Images are physically divided by class and split, with one binary per image and CSV indexes for each class.
