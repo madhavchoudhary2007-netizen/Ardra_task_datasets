@@ -10,6 +10,8 @@ Four-class COCO object detection dataset: `marker_flag` (0), `instrument_box` (1
 - `metadata/image_index.csv`: one row per image file, SHA-256, parent source, split, and class membership.
 - `by_class/*.csv`: class and split views referencing those image paths. A multi-class image may appear in several CSVs, but its binary exists only once.
 
+**Browse every image online** on the [Hugging Face dataset](https://huggingface.co/datasets/ghmhhjvb/ardra-drone-detection-v2) (same layout as below, under `v2/`).
+
 Download all assets from the [drone-detection-v2 release](https://github.com/madhavchoudhary2007-netizen/Ardra_task_datasets/releases/tag/drone-detection-v2.0-20261014). Extract every ZIP into the **same** empty directory. Each archive contains paths under `v2/`. Run `python3 v2/scripts/verify_release.py /path/to/extraction/v2` to check all 24,245 image hashes and split separation.
 
 The archived images include original clean images and their distinct augmented variants. The dataset intentionally omits redundant training materializations, QA backup images, and old combined packages. The class CSVs are indexes, not copies of images.
