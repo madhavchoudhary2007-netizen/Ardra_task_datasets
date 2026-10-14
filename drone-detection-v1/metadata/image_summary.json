@@ -1,0 +1,34 @@
+{
+  "unique_image_files": 24245,
+  "canonical_images": 3360,
+  "augmented_images": 20885,
+  "exact_duplicate_content_files": 0,
+  "source_groups": 1898,
+  "class_partition_image_memberships": {
+    "_background": {
+      "train": 518,
+      "val": 28,
+      "test": 154
+    },
+    "hammer": {
+      "train": 4151,
+      "val": 248,
+      "test": 1736
+    },
+    "instrument_box": {
+      "train": 3150,
+      "val": 252,
+      "test": 1386
+    },
+    "marker_flag": {
+      "train": 7490,
+      "val": 490,
+      "test": 3066
+    },
+    "short_tripod": {
+      "train": 1078,
+      "val": 50,
+      "test": 448
+    }
+  }
+}

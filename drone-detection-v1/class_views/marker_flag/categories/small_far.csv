@@ -1,0 +1,338 @@
+parent_canonical_image_id,augmentation_category,file_name,source_dataset,seed
+img_01033a43057f29ea,small_far,augmented/train/images/train_aug_000049.jpg,Marking Flags.v6i.coco.zip,13728153393247227486
+img_01b0280393dc29b2,small_far,augmented/train/images/train_aug_000110.jpg,Marking Flags.v6i.coco.zip,5133629467191386749
+img_01b0280393dc29b2,small_far,augmented/train/images/train_aug_000112.jpg,Marking Flags.v6i.coco.zip,13353355088246145188
+img_040c7ca1db3e6774,small_far,augmented/train/images/train_aug_000235.jpg,ISDC.v1i.coco.zip,1141017350547752168
+img_040c7ca1db3e6774,small_far,augmented/train/images/train_aug_000239.jpg,ISDC.v1i.coco.zip,5006672435071562799
+img_040c7ca1db3e6774,small_far,augmented/train/images/train_aug_000240.jpg,ISDC.v1i.coco.zip,9657749263694871510
+img_04cfbdb0d23d6e56,small_far,augmented/train/images/train_aug_000259.jpg,Marking Flags.v6i.coco.zip,10984012407365154791
+img_04cfbdb0d23d6e56,small_far,augmented/train/images/train_aug_000262.jpg,Marking Flags.v6i.coco.zip,7155229824791029114
+img_057e2403d98570ff,small_far,augmented/train/images/train_aug_000296.jpg,Marking Flags.v6i.coco.zip,11173393428937343022
+img_057e2403d98570ff,small_far,augmented/train/images/train_aug_000298.jpg,Marking Flags.v6i.coco.zip,11632106719206487834
+img_057e2403d98570ff,small_far,augmented/train/images/train_aug_000300.jpg,Marking Flags.v6i.coco.zip,16485684773794065437
+img_079c0f86e93e7a4e,small_far,augmented/train/images/train_aug_000392.jpg,Marking Flags.v6i.coco.zip,9476046655813203983
+img_08689574c6f8f6d4,small_far,augmented/train/images/train_aug_000421.jpg,ISDC.v1i.coco.zip,8412350691647199011
+img_08689574c6f8f6d4,small_far,augmented/train/images/train_aug_000423.jpg,ISDC.v1i.coco.zip,3741777988992040742
+img_08689574c6f8f6d4,small_far,augmented/train/images/train_aug_000426.jpg,ISDC.v1i.coco.zip,15421845931754103194
+img_0b6f88e2322968c9,small_far,augmented/train/images/train_aug_000597.jpg,Marking Flags.v6i.coco.zip,8533343931004868841
+img_0b6f88e2322968c9,small_far,augmented/train/images/train_aug_000599.jpg,Marking Flags.v6i.coco.zip,14748183760462530483
+img_0f798093073e53fb,small_far,augmented/train/images/train_aug_000836.jpg,Marking Flags.v6i.coco.zip,5894482132016430385
+img_0f927a64278fd6f3,small_far,augmented/train/images/train_aug_000855.jpg,Marking Flags.v6i.coco.zip,5000865091566884206
+img_0f927a64278fd6f3,small_far,augmented/train/images/train_aug_000856.jpg,Marking Flags.v6i.coco.zip,11758689344167922434
+img_0f927a64278fd6f3,small_far,augmented/train/images/train_aug_000858.jpg,Marking Flags.v6i.coco.zip,5323410679602132977
+img_0f9989514de394b0,small_far,augmented/train/images/train_aug_000860.jpg,Marking Flags.v6i.coco.zip,10556995729141949075
+img_157a5b76fb594a9c,small_far,augmented/train/images/train_aug_001171.jpg,Marking Flags.v6i.coco.zip,13741420846317759919
+img_157a5b76fb594a9c,small_far,augmented/train/images/train_aug_001172.jpg,Marking Flags.v6i.coco.zip,3597982854465863947
+img_157a5b76fb594a9c,small_far,augmented/train/images/train_aug_001173.jpg,Marking Flags.v6i.coco.zip,15141170993111153038
+img_157a5b76fb594a9c,small_far,augmented/train/images/train_aug_001176.jpg,Marking Flags.v6i.coco.zip,13328330241840122711
+img_175bb6c8f207f017,small_far,augmented/train/images/train_aug_001310.jpg,Marking Flags.v6i.coco.zip,6059004223607993036
+img_177b221834dfefbd,small_far,augmented/train/images/train_aug_001316.jpg,Marking Flags.v6i.coco.zip,15370643044482663503
+img_177b221834dfefbd,small_far,augmented/train/images/train_aug_001320.jpg,Marking Flags.v6i.coco.zip,13707378583122739358
+img_1c456f672157e67b,small_far,augmented/train/images/train_aug_001592.jpg,Marking Flags.v6i.coco.zip,10450072760122802752
+img_1c456f672157e67b,small_far,augmented/train/images/train_aug_001593.jpg,Marking Flags.v6i.coco.zip,9043367905380271051
+img_1c456f672157e67b,small_far,augmented/train/images/train_aug_001596.jpg,Marking Flags.v6i.coco.zip,15456075810465118657
+img_1f527c8d6bcb67f0,small_far,augmented/train/images/train_aug_001780.jpg,Marking Flags.v6i.coco.zip,8725998254159733236
+img_2238ca3570f94832,small_far,augmented/train/images/train_aug_001961.jpg,Marking Flags.v6i.coco.zip,9043459914450863148
+img_232a33f720d3269d,small_far,augmented/train/images/train_aug_002023.jpg,ISDC.v1i.coco.zip,10109986923569367012
+img_24fb02506ca2c499,small_far,augmented/train/images/train_aug_002121.jpg,ISDC.v1i.coco.zip,15014238823094373797
+img_261e06ae2493af38,small_far,augmented/train/images/train_aug_002172.jpg,Marking Flags.v6i.coco.zip,16174873497178871192
+img_28632241d80a992b,small_far,augmented/train/images/train_aug_002272.jpg,Marking Flags.v6i.coco.zip,12589451706987473590
+img_2a7519fd4da1e421,small_far,augmented/train/images/train_aug_002397.jpg,ISDC.v1i.coco.zip,3792718196490027693
+img_2af31c853791cf49,small_far,augmented/train/images/train_aug_002427.jpg,Marking Flags.v6i.coco.zip,7069016924651471864
+img_2af31c853791cf49,small_far,augmented/train/images/train_aug_002429.jpg,Marking Flags.v6i.coco.zip,8252325402372787366
+img_2b233c738effb7a1,small_far,augmented/train/images/train_aug_002451.jpg,ISDC.v1i.coco.zip,12420672811740698885
+img_2b233c738effb7a1,small_far,augmented/train/images/train_aug_002452.jpg,ISDC.v1i.coco.zip,10366211875789252629
+img_2d7f70ba15deae1c,small_far,augmented/train/images/train_aug_002564.jpg,Marking Flags.v6i.coco.zip,16966921357639918297
+img_2e7079b9e7e1c420,small_far,augmented/train/images/train_aug_002617.jpg,Marking Flags.v6i.coco.zip,17104387200796806061
+img_2e7079b9e7e1c420,small_far,augmented/train/images/train_aug_002621.jpg,Marking Flags.v6i.coco.zip,17368762980893477674
+img_2f57dc84d0bfc653,small_far,augmented/train/images/train_aug_002656.jpg,Marking Flags.v6i.coco.zip,1668586889006586474
+img_312923678d2d58f0,small_far,augmented/train/images/train_aug_002740.jpg,Marking Flags.v6i.coco.zip,377983294493215953
+img_315c0f1a9550bc0a,small_far,augmented/train/images/train_aug_002744.jpg,Marking Flags.v6i.coco.zip,17837325202941641584
+img_315c0f1a9550bc0a,small_far,augmented/train/images/train_aug_002746.jpg,Marking Flags.v6i.coco.zip,18383331015537205440
+img_339ebbc655e84c77,small_far,augmented/train/images/train_aug_002867.jpg,ISDC.v1i.coco.zip,445937865256785302
+img_3427914a6ad110ea,small_far,augmented/train/images/train_aug_002901.jpg,Marking Flags.v6i.coco.zip,4128073474388094594
+img_3427914a6ad110ea,small_far,augmented/train/images/train_aug_002904.jpg,Marking Flags.v6i.coco.zip,14722565062548597562
+img_34333bb39d1eaa80,small_far,augmented/train/images/train_aug_002913.jpg,ISDC.v1i.coco.zip,5296136647071027945
+img_3733938309e69dcc,small_far,augmented/train/images/train_aug_003052.jpg,ISDC.v1i.coco.zip,10124928606413261073
+img_3733938309e69dcc,small_far,augmented/train/images/train_aug_003053.jpg,ISDC.v1i.coco.zip,13892211309528772059
+img_375bf14200ceee33,small_far,augmented/train/images/train_aug_003058.jpg,Marking Flags.v6i.coco.zip,4229637826934104320
+img_37d9e239c841aa8b,small_far,augmented/train/images/train_aug_003067.jpg,Marking Flags.v6i.coco.zip,10270357697696602337
+img_37d9e239c841aa8b,small_far,augmented/train/images/train_aug_003069.jpg,Marking Flags.v6i.coco.zip,752643868382206767
+img_37d9e239c841aa8b,small_far,augmented/train/images/train_aug_003072.jpg,Marking Flags.v6i.coco.zip,1534663133192465795
+img_398ee40bb0faa2da,small_far,augmented/train/images/train_aug_003161.jpg,Marking Flags.v6i.coco.zip,17900363621751245926
+img_398ee40bb0faa2da,small_far,augmented/train/images/train_aug_003162.jpg,Marking Flags.v6i.coco.zip,177181087879769906
+img_3b17eef7e913533f,small_far,augmented/train/images/train_aug_003256.jpg,Marking Flags.v6i.coco.zip,3641862307389581504
+img_3b17eef7e913533f,small_far,augmented/train/images/train_aug_003257.jpg,Marking Flags.v6i.coco.zip,10354746746233246973
+img_3c381e08adbaf38e,small_far,augmented/train/images/train_aug_003313.jpg,Marking Flags.v6i.coco.zip,15842654008909451289
+img_3c381e08adbaf38e,small_far,augmented/train/images/train_aug_003314.jpg,Marking Flags.v6i.coco.zip,3042054179271734765
+img_3c381e08adbaf38e,small_far,augmented/train/images/train_aug_003316.jpg,Marking Flags.v6i.coco.zip,6528523462163767834
+img_3d1e7ce8ed2bc2da,small_far,augmented/train/images/train_aug_003354.jpg,Marking Flags.v6i.coco.zip,153363391963729038
+img_3d5a77aaca76cfdb,small_far,augmented/train/images/train_aug_003379.jpg,Marking Flags.v6i.coco.zip,10419926424170057568
+img_3eb87021c0663b40,small_far,augmented/train/images/train_aug_003485.jpg,Marking Flags.v6i.coco.zip,2432739016667244258
+img_41fcfa5bd0ebb3ec,small_far,augmented/train/images/train_aug_003661.jpg,Marking Flags.v6i.coco.zip,7257340108876594892
+img_41fcfa5bd0ebb3ec,small_far,augmented/train/images/train_aug_003662.jpg,Marking Flags.v6i.coco.zip,4665883689416471642
+img_41fcfa5bd0ebb3ec,small_far,augmented/train/images/train_aug_003664.jpg,Marking Flags.v6i.coco.zip,59990287668640536
+img_41fcfa5bd0ebb3ec,small_far,augmented/train/images/train_aug_003665.jpg,Marking Flags.v6i.coco.zip,5914513519072918703
+img_44e7e07516d019f5,small_far,augmented/train/images/train_aug_003799.jpg,Marking Flags.v6i.coco.zip,16138871534688811971
+img_44e7e07516d019f5,small_far,augmented/train/images/train_aug_003803.jpg,Marking Flags.v6i.coco.zip,3388738542465499161
+img_47b166414f577632,small_far,augmented/train/images/train_aug_003981.jpg,Marking Flags.v6i.coco.zip,5193133150414421524
+img_48e0f4122bd7a668,small_far,augmented/train/images/train_aug_004052.jpg,Marking Flags.v6i.coco.zip,4554361524343014565
+img_48e0f4122bd7a668,small_far,augmented/train/images/train_aug_004053.jpg,Marking Flags.v6i.coco.zip,6026254493461931613
+img_48e0f4122bd7a668,small_far,augmented/train/images/train_aug_004056.jpg,Marking Flags.v6i.coco.zip,4979920054507870639
+img_4c3c5f29204c1a43,small_far,augmented/train/images/train_aug_004226.jpg,Marking Flags.v6i.coco.zip,17574265762931567313
+img_4c3c5f29204c1a43,small_far,augmented/train/images/train_aug_004229.jpg,Marking Flags.v6i.coco.zip,5833141752362710494
+img_4c93b513d52c4f8b,small_far,augmented/train/images/train_aug_004237.jpg,Marking Flags.v6i.coco.zip,13665681542017295657
+img_4c93b513d52c4f8b,small_far,augmented/train/images/train_aug_004238.jpg,Marking Flags.v6i.coco.zip,14553351021688442453
+img_4c93b513d52c4f8b,small_far,augmented/train/images/train_aug_004241.jpg,Marking Flags.v6i.coco.zip,5557324939520907961
+img_4ed54c00aa46d408,small_far,augmented/train/images/train_aug_004346.jpg,Marking Flags.v6i.coco.zip,14011240921610748851
+img_4ed54c00aa46d408,small_far,augmented/train/images/train_aug_004347.jpg,Marking Flags.v6i.coco.zip,1693129552732798039
+img_4ed54c00aa46d408,small_far,augmented/train/images/train_aug_004348.jpg,Marking Flags.v6i.coco.zip,16863242299184864803
+img_4ed54c00aa46d408,small_far,augmented/train/images/train_aug_004350.jpg,Marking Flags.v6i.coco.zip,3038999931277521683
+img_4f33c3a9865f2401,small_far,augmented/train/images/train_aug_004360.jpg,Marking Flags.v6i.coco.zip,17128187368574549822
+img_4f62e8ee39571512,small_far,augmented/train/images/train_aug_004370.jpg,Marking Flags.v6i.coco.zip,1850137170189663247
+img_4f62e8ee39571512,small_far,augmented/train/images/train_aug_004372.jpg,Marking Flags.v6i.coco.zip,9947915020825379101
+img_4f62e8ee39571512,small_far,augmented/train/images/train_aug_004374.jpg,Marking Flags.v6i.coco.zip,2879406089116088031
+img_4fa9ca1778e6d194,small_far,augmented/train/images/train_aug_004426.jpg,ISDC.v1i.coco.zip,6748436072144326893
+img_4fa9ca1778e6d194,small_far,augmented/train/images/train_aug_004428.jpg,ISDC.v1i.coco.zip,3686728827706954078
+img_5118bfd8ad5cf431,small_far,augmented/train/images/train_aug_004501.jpg,Marking Flags.v6i.coco.zip,9667990379422316285
+img_5118bfd8ad5cf431,small_far,augmented/train/images/train_aug_004505.jpg,Marking Flags.v6i.coco.zip,8348375235292422783
+img_5118bfd8ad5cf431,small_far,augmented/train/images/train_aug_004506.jpg,Marking Flags.v6i.coco.zip,12520794615678002846
+img_518d7460eea2e8a5,small_far,augmented/train/images/train_aug_004528.jpg,Marking Flags.v6i.coco.zip,18039894283374962969
+img_51957f414cfcfb8f,small_far,augmented/train/images/train_aug_004541.jpg,Marking Flags.v6i.coco.zip,18420198755616613471
+img_533f412e5d510a55,small_far,augmented/train/images/train_aug_004630.jpg,Marking Flags.v6i.coco.zip,2009598261701582041
+img_533f412e5d510a55,small_far,augmented/train/images/train_aug_004631.jpg,Marking Flags.v6i.coco.zip,1438196275683688105
+img_5479bb8f90b41ccc,small_far,augmented/train/images/train_aug_004725.jpg,Marking Flags.v6i.coco.zip,14927632089211685036
+img_5479bb8f90b41ccc,small_far,augmented/train/images/train_aug_004726.jpg,Marking Flags.v6i.coco.zip,1375862488602077237
+img_5479bb8f90b41ccc,small_far,augmented/train/images/train_aug_004728.jpg,Marking Flags.v6i.coco.zip,15412693620385444918
+img_571ab12fbb072788,small_far,augmented/train/images/train_aug_004838.jpg,Marking Flags.v6i.coco.zip,15731290045270647324
+img_571ab12fbb072788,small_far,augmented/train/images/train_aug_004840.jpg,Marking Flags.v6i.coco.zip,2716464160723951573
+img_5da0798d76b475ed,small_far,augmented/train/images/train_aug_005197.jpg,Marking Flags.v6i.coco.zip,128960738848295758
+img_5e365e4002b7189a,small_far,augmented/train/images/train_aug_005227.jpg,Marking Flags.v6i.coco.zip,10365183750461393140
+img_5e365e4002b7189a,small_far,augmented/train/images/train_aug_005231.jpg,Marking Flags.v6i.coco.zip,10968961802422370406
+img_613e9b8cf06c7d6c,small_far,augmented/train/images/train_aug_005331.jpg,ISDC.v1i.coco.zip,9408110491160712797
+img_613e9b8cf06c7d6c,small_far,augmented/train/images/train_aug_005332.jpg,ISDC.v1i.coco.zip,7456058720101401999
+img_613e9b8cf06c7d6c,small_far,augmented/train/images/train_aug_005334.jpg,ISDC.v1i.coco.zip,5545561428510214865
+img_62132cf1eae9a86e,small_far,augmented/train/images/train_aug_005378.jpg,Marking Flags.v6i.coco.zip,8812652429908426577
+img_62132cf1eae9a86e,small_far,augmented/train/images/train_aug_005380.jpg,Marking Flags.v6i.coco.zip,4774068847578343017
+img_62bb36ff3f3de644,small_far,augmented/train/images/train_aug_005437.jpg,Marking Flags.v6i.coco.zip,12132003169692559979
+img_62bb36ff3f3de644,small_far,augmented/train/images/train_aug_005439.jpg,Marking Flags.v6i.coco.zip,11257457314474454882
+img_62bb36ff3f3de644,small_far,augmented/train/images/train_aug_005442.jpg,Marking Flags.v6i.coco.zip,14029621642559929014
+img_63cd32ac1a626011,small_far,augmented/train/images/train_aug_005481.jpg,Marking Flags.v6i.coco.zip,9139113250171032099
+img_63cd32ac1a626011,small_far,augmented/train/images/train_aug_005483.jpg,Marking Flags.v6i.coco.zip,7281772422623288854
+img_63cd32ac1a626011,small_far,augmented/train/images/train_aug_005484.jpg,Marking Flags.v6i.coco.zip,6076527371288970603
+img_65c1cf3a9cc5ca1a,small_far,augmented/train/images/train_aug_005581.jpg,Marking Flags.v6i.coco.zip,18350844114270934819
+img_65c1cf3a9cc5ca1a,small_far,augmented/train/images/train_aug_005585.jpg,Marking Flags.v6i.coco.zip,6341867844108246291
+img_6630ac508f6a2603,small_far,augmented/train/images/train_aug_005593.jpg,Marking Flags.v6i.coco.zip,11661492207830835748
+img_66f6654b295575e2,small_far,augmented/train/images/train_aug_005660.jpg,Marking Flags.v6i.coco.zip,12728888480571981709
+img_66f6654b295575e2,small_far,augmented/train/images/train_aug_005661.jpg,Marking Flags.v6i.coco.zip,2330515718102385795
+img_6c28746fc1a5816a,small_far,augmented/train/images/train_aug_005917.jpg,ISDC.v1i.coco.zip,15907144535194409061
+img_6c28746fc1a5816a,small_far,augmented/train/images/train_aug_005920.jpg,ISDC.v1i.coco.zip,12779609709266480209
+img_6c28746fc1a5816a,small_far,augmented/train/images/train_aug_005922.jpg,ISDC.v1i.coco.zip,14508144949739100581
+img_6d06f92463a06faf,small_far,augmented/train/images/train_aug_005954.jpg,ISDC.v1i.coco.zip,9998066924182091567
+img_6e6be5ee901747e5,small_far,augmented/train/images/train_aug_006032.jpg,Marking Flags.v6i.coco.zip,16863241057730483799
+img_6e6be5ee901747e5,small_far,augmented/train/images/train_aug_006033.jpg,Marking Flags.v6i.coco.zip,1720148623291447516
+img_712ece9df237b309,small_far,augmented/train/images/train_aug_006166.jpg,Marking Flags.v6i.coco.zip,11785359731606915595
+img_71f67011b63b2bd6,small_far,augmented/train/images/train_aug_006193.jpg,Marking Flags.v6i.coco.zip,16415468416453118566
+img_71f67011b63b2bd6,small_far,augmented/train/images/train_aug_006194.jpg,Marking Flags.v6i.coco.zip,14384477012517618746
+img_71f67011b63b2bd6,small_far,augmented/train/images/train_aug_006195.jpg,Marking Flags.v6i.coco.zip,8249430257742300541
+img_71f67011b63b2bd6,small_far,augmented/train/images/train_aug_006196.jpg,Marking Flags.v6i.coco.zip,17413929812208706787
+img_7225df445d848d47,small_far,augmented/train/images/train_aug_006217.jpg,ISDC.v1i.coco.zip,5923067462253931844
+img_7225df445d848d47,small_far,augmented/train/images/train_aug_006219.jpg,ISDC.v1i.coco.zip,11936514285657561187
+img_7225df445d848d47,small_far,augmented/train/images/train_aug_006221.jpg,ISDC.v1i.coco.zip,11455521221411904468
+img_72368e8b14bb3de8,small_far,augmented/train/images/train_aug_006236.jpg,Marking Flags.v6i.coco.zip,4906430636595106326
+img_725d182674a5e52c,small_far,augmented/train/images/train_aug_006248.jpg,Marking Flags.v6i.coco.zip,1980953374774031977
+img_73d89097f563aacc,small_far,augmented/train/images/train_aug_006327.jpg,ISDC.v1i.coco.zip,12077359840333287881
+img_748e2138284ecf2f,small_far,augmented/train/images/train_aug_006356.jpg,Marking Flags.v6i.coco.zip,12074403184072348321
+img_748e2138284ecf2f,small_far,augmented/train/images/train_aug_006358.jpg,Marking Flags.v6i.coco.zip,15139433085968070012
+img_748e2138284ecf2f,small_far,augmented/train/images/train_aug_006359.jpg,Marking Flags.v6i.coco.zip,3815967026823961392
+img_748f89c9f5c284c3,small_far,augmented/train/images/train_aug_006361.jpg,Marking Flags.v6i.coco.zip,14724973229558193600
+img_748f89c9f5c284c3,small_far,augmented/train/images/train_aug_006363.jpg,Marking Flags.v6i.coco.zip,13727564807032564205
+img_748f89c9f5c284c3,small_far,augmented/train/images/train_aug_006364.jpg,Marking Flags.v6i.coco.zip,15877100563192782399
+img_74adde24330c6d11,small_far,augmented/train/images/train_aug_006380.jpg,ISDC.v1i.coco.zip,6185049247237868350
+img_74adde24330c6d11,small_far,augmented/train/images/train_aug_006382.jpg,ISDC.v1i.coco.zip,3165510682131429688
+img_74c6f784e7609039,small_far,augmented/train/images/train_aug_006391.jpg,Marking Flags.v6i.coco.zip,1299065171273609554
+img_7534c0f332b7548a,small_far,augmented/train/images/train_aug_006428.jpg,Marking Flags.v6i.coco.zip,18310981179912739586
+img_7534c0f332b7548a,small_far,augmented/train/images/train_aug_006430.jpg,Marking Flags.v6i.coco.zip,18391871095364716962
+img_78a915be9e92905c,small_far,augmented/train/images/train_aug_006583.jpg,Marking Flags.v6i.coco.zip,13456788134090135119
+img_78a915be9e92905c,small_far,augmented/train/images/train_aug_006584.jpg,Marking Flags.v6i.coco.zip,9205351461099929943
+img_78a915be9e92905c,small_far,augmented/train/images/train_aug_006587.jpg,Marking Flags.v6i.coco.zip,17457832793576279246
+img_78b04249b8aaef82,small_far,augmented/train/images/train_aug_006589.jpg,Marking Flags.v6i.coco.zip,4792959003075195520
+img_78b04249b8aaef82,small_far,augmented/train/images/train_aug_006593.jpg,Marking Flags.v6i.coco.zip,3635497712091702275
+img_791753cb61e8c306,small_far,augmented/train/images/train_aug_006626.jpg,Marking Flags.v6i.coco.zip,15206893228068912239
+img_793bbf3ea0739f16,small_far,augmented/train/images/train_aug_006633.jpg,Marking Flags.v6i.coco.zip,10889630106929536290
+img_793bbf3ea0739f16,small_far,augmented/train/images/train_aug_006634.jpg,Marking Flags.v6i.coco.zip,8604443154352814599
+img_7b952f0d6e034be4,small_far,augmented/train/images/train_aug_006811.jpg,Marking Flags.v6i.coco.zip,6650379087000546996
+img_7b952f0d6e034be4,small_far,augmented/train/images/train_aug_006813.jpg,Marking Flags.v6i.coco.zip,3192028944548866042
+img_7bac6c22966d29b2,small_far,augmented/train/images/train_aug_006822.jpg,Marking Flags.v6i.coco.zip,7317195184387456613
+img_7cfd44542c54032c,small_far,augmented/train/images/train_aug_006844.jpg,ISDC.v1i.coco.zip,16638436455718232305
+img_7ed4aeddf5822bda,small_far,augmented/train/images/train_aug_006965.jpg,ISDC.v1i.coco.zip,14857030634933765371
+img_80b6ae7e26a33349,small_far,augmented/train/images/train_aug_007071.jpg,ISDC.v1i.coco.zip,11054660178487156273
+img_80b6ae7e26a33349,small_far,augmented/train/images/train_aug_007073.jpg,ISDC.v1i.coco.zip,15180128449521899724
+img_80b6ae7e26a33349,small_far,augmented/train/images/train_aug_007074.jpg,ISDC.v1i.coco.zip,10980538105165579833
+img_80d25d1a1864d303,small_far,augmented/train/images/train_aug_007075.jpg,Marking Flags.v6i.coco.zip,10432660162971365853
+img_80d25d1a1864d303,small_far,augmented/train/images/train_aug_007076.jpg,Marking Flags.v6i.coco.zip,8335143728098073610
+img_815ed49c871052ff,small_far,augmented/train/images/train_aug_007113.jpg,Marking Flags.v6i.coco.zip,3002570563875433160
+img_81b56e155c47220b,small_far,augmented/train/images/train_aug_007137.jpg,Marking Flags.v6i.coco.zip,7590863721147297258
+img_81b56e155c47220b,small_far,augmented/train/images/train_aug_007139.jpg,Marking Flags.v6i.coco.zip,7452753766558183539
+img_81b56e155c47220b,small_far,augmented/train/images/train_aug_007140.jpg,Marking Flags.v6i.coco.zip,4849340477093244406
+img_82885cc1b1d82263,small_far,augmented/train/images/train_aug_007190.jpg,ISDC.v1i.coco.zip,950750128151004006
+img_8347bf78db0e33d1,small_far,augmented/train/images/train_aug_007228.jpg,Marking Flags.v6i.coco.zip,15414060513453078613
+img_8347bf78db0e33d1,small_far,augmented/train/images/train_aug_007229.jpg,Marking Flags.v6i.coco.zip,16095118628735850595
+img_834b851f865f8792,small_far,augmented/train/images/train_aug_007232.jpg,Marking Flags.v6i.coco.zip,14792480649332108177
+img_834b851f865f8792,small_far,augmented/train/images/train_aug_007235.jpg,Marking Flags.v6i.coco.zip,3521032039226218283
+img_83b5f90bb53b29ba,small_far,augmented/train/images/train_aug_007243.jpg,ISDC.v1i.coco.zip,2104140314576315376
+img_83b5f90bb53b29ba,small_far,augmented/train/images/train_aug_007247.jpg,ISDC.v1i.coco.zip,7475733361018716591
+img_83b82b62db1478e8,small_far,augmented/train/images/train_aug_007253.jpg,Marking Flags.v6i.coco.zip,15632053692968598783
+img_865406d8a451cde5,small_far,augmented/train/images/train_aug_007414.jpg,Marking Flags.v6i.coco.zip,6704330745082027707
+img_865406d8a451cde5,small_far,augmented/train/images/train_aug_007415.jpg,Marking Flags.v6i.coco.zip,12907266512424463274
+img_899a281c3b81413b,small_far,augmented/train/images/train_aug_007579.jpg,ISDC.v1i.coco.zip,10208916387208876867
+img_899a281c3b81413b,small_far,augmented/train/images/train_aug_007581.jpg,ISDC.v1i.coco.zip,17335186245533037570
+img_899a281c3b81413b,small_far,augmented/train/images/train_aug_007582.jpg,ISDC.v1i.coco.zip,8664696300748431439
+img_899a281c3b81413b,small_far,augmented/train/images/train_aug_007584.jpg,ISDC.v1i.coco.zip,17845859905974408179
+img_8a3599127b9364e4,small_far,augmented/train/images/train_aug_007624.jpg,Marking Flags.v6i.coco.zip,10056184718242170167
+img_8aa43e2c6e099586,small_far,augmented/train/images/train_aug_007664.jpg,Marking Flags.v6i.coco.zip,14657008970591876314
+img_8aa43e2c6e099586,small_far,augmented/train/images/train_aug_007667.jpg,Marking Flags.v6i.coco.zip,6276540115574523435
+img_8ad3915339795a59,small_far,augmented/train/images/train_aug_007675.jpg,Marking Flags.v6i.coco.zip,8684251769294891047
+img_8ad3915339795a59,small_far,augmented/train/images/train_aug_007676.jpg,Marking Flags.v6i.coco.zip,11538283880378888202
+img_8ad3915339795a59,small_far,augmented/train/images/train_aug_007677.jpg,Marking Flags.v6i.coco.zip,14496162712324277432
+img_8ad3915339795a59,small_far,augmented/train/images/train_aug_007678.jpg,Marking Flags.v6i.coco.zip,845790801715045619
+img_8de1321926460f8e,small_far,augmented/train/images/train_aug_007843.jpg,ISDC.v1i.coco.zip,17690139325321801281
+img_8de1321926460f8e,small_far,augmented/train/images/train_aug_007844.jpg,ISDC.v1i.coco.zip,4312573985167601177
+img_8de1321926460f8e,small_far,augmented/train/images/train_aug_007847.jpg,ISDC.v1i.coco.zip,15093430259006239892
+img_8e390bbaff020e1b,small_far,augmented/train/images/train_aug_007861.jpg,Marking Flags.v6i.coco.zip,15759928636512382116
+img_8e390bbaff020e1b,small_far,augmented/train/images/train_aug_007866.jpg,Marking Flags.v6i.coco.zip,17909188818479126776
+img_8e5b0518209713a4,small_far,augmented/train/images/train_aug_007867.jpg,Marking Flags.v6i.coco.zip,12379990296932548068
+img_8e5b0518209713a4,small_far,augmented/train/images/train_aug_007870.jpg,Marking Flags.v6i.coco.zip,13309206304472140055
+img_8e5b0518209713a4,small_far,augmented/train/images/train_aug_007872.jpg,Marking Flags.v6i.coco.zip,14255612618176991392
+img_939e293eb56ba8c8,small_far,augmented/train/images/train_aug_008182.jpg,ISDC.v1i.coco.zip,3938227727558227711
+img_943cab6f3608683f,small_far,augmented/train/images/train_aug_008203.jpg,ISDC.v1i.coco.zip,15775183452472760911
+img_943cab6f3608683f,small_far,augmented/train/images/train_aug_008205.jpg,ISDC.v1i.coco.zip,13153646148780951333
+img_94e32935ff601f67,small_far,augmented/train/images/train_aug_008239.jpg,ISDC.v1i.coco.zip,9055846468123120123
+img_94e32935ff601f67,small_far,augmented/train/images/train_aug_008240.jpg,ISDC.v1i.coco.zip,1526866833420138196
+img_9a6b2c9dc7b9c239,small_far,augmented/train/images/train_aug_008518.jpg,Marking Flags.v6i.coco.zip,2236037637957379558
+img_9bb64dccc4e5d805,small_far,augmented/train/images/train_aug_008595.jpg,Marking Flags.v6i.coco.zip,3659409105339752248
+img_9bb64dccc4e5d805,small_far,augmented/train/images/train_aug_008596.jpg,Marking Flags.v6i.coco.zip,16479729354710243569
+img_9bb64dccc4e5d805,small_far,augmented/train/images/train_aug_008598.jpg,Marking Flags.v6i.coco.zip,5023779628004853057
+img_a09cedc25ff8df31,small_far,augmented/train/images/train_aug_008797.jpg,ISDC.v1i.coco.zip,3808608987926114316
+img_a09cedc25ff8df31,small_far,augmented/train/images/train_aug_008799.jpg,ISDC.v1i.coco.zip,1967612813501205185
+img_a09cedc25ff8df31,small_far,augmented/train/images/train_aug_008800.jpg,ISDC.v1i.coco.zip,4938097882467551807
+img_a0cee273863d15fa,small_far,augmented/train/images/train_aug_008812.jpg,Marking Flags.v6i.coco.zip,13123034116818862355
+img_a11f17abced87123,small_far,augmented/train/images/train_aug_008845.jpg,Marking Flags.v6i.coco.zip,17130766199577530619
+img_a1a9c84f5e3a70de,small_far,augmented/train/images/train_aug_008871.jpg,ISDC.v1i.coco.zip,7233463845181356486
+img_a853fb070a759834,small_far,augmented/train/images/train_aug_009195.jpg,Marking Flags.v6i.coco.zip,12321858128674661449
+img_a853fb070a759834,small_far,augmented/train/images/train_aug_009197.jpg,Marking Flags.v6i.coco.zip,1034141891324969155
+img_a8d5e4d0d4993948,small_far,augmented/train/images/train_aug_009235.jpg,ISDC.v1i.coco.zip,6648315625850092212
+img_a8d5e4d0d4993948,small_far,augmented/train/images/train_aug_009236.jpg,ISDC.v1i.coco.zip,12303617441743086263
+img_a8d5e4d0d4993948,small_far,augmented/train/images/train_aug_009239.jpg,ISDC.v1i.coco.zip,9349370507846330430
+img_ab224b787bd5a57b,small_far,augmented/train/images/train_aug_009343.jpg,Marking Flags.v6i.coco.zip,17005294649995140407
+img_ab2faac26c494f38,small_far,augmented/train/images/train_aug_009349.jpg,Marking Flags.v6i.coco.zip,9798368239386252269
+img_ae899297377a59d7,small_far,augmented/train/images/train_aug_009517.jpg,Marking Flags.v6i.coco.zip,6897952246685374432
+img_ae899297377a59d7,small_far,augmented/train/images/train_aug_009520.jpg,Marking Flags.v6i.coco.zip,3097776436546318626
+img_ae899297377a59d7,small_far,augmented/train/images/train_aug_009522.jpg,Marking Flags.v6i.coco.zip,12724104991811046595
+img_b0c19f146c483dc2,small_far,augmented/train/images/train_aug_009673.jpg,ISDC.v1i.coco.zip,16803712314651446225
+img_b0c19f146c483dc2,small_far,augmented/train/images/train_aug_009676.jpg,ISDC.v1i.coco.zip,9921216767860121765
+img_b0c19f146c483dc2,small_far,augmented/train/images/train_aug_009678.jpg,ISDC.v1i.coco.zip,12831872512384800035
+img_b3528c503dcf958d,small_far,augmented/train/images/train_aug_009825.jpg,Marking Flags.v6i.coco.zip,17337517534212119968
+img_b3528c503dcf958d,small_far,augmented/train/images/train_aug_009827.jpg,Marking Flags.v6i.coco.zip,8943017212614877154
+img_b3ba47244eced8d2,small_far,augmented/train/images/train_aug_009864.jpg,Marking Flags.v6i.coco.zip,8268852940746308403
+img_b5ef0558771e80c8,small_far,augmented/train/images/train_aug_009964.jpg,Marking Flags.v6i.coco.zip,4194012781933887791
+img_b5ef0558771e80c8,small_far,augmented/train/images/train_aug_009966.jpg,Marking Flags.v6i.coco.zip,14167353153065433456
+img_b922fd1df2ad3a7f,small_far,augmented/train/images/train_aug_010176.jpg,Marking Flags.v6i.coco.zip,12702694675321143829
+img_b9d3f4a52f7b7bab,small_far,augmented/train/images/train_aug_010216.jpg,Marking Flags.v6i.coco.zip,12827356492287098508
+img_ba404115b33ad87f,small_far,augmented/train/images/train_aug_010238.jpg,ISDC.v1i.coco.zip,3322756128204674343
+img_ba404115b33ad87f,small_far,augmented/train/images/train_aug_010239.jpg,ISDC.v1i.coco.zip,3290566102032147492
+img_baa78b0ce4f51ac7,small_far,augmented/train/images/train_aug_010281.jpg,Marking Flags.v6i.coco.zip,15717146523961957389
+img_baa78b0ce4f51ac7,small_far,augmented/train/images/train_aug_010282.jpg,Marking Flags.v6i.coco.zip,7564821336279453341
+img_baa78b0ce4f51ac7,small_far,augmented/train/images/train_aug_010284.jpg,Marking Flags.v6i.coco.zip,16817650183290889752
+img_bb45ac6363512b55,small_far,augmented/train/images/train_aug_010309.jpg,ISDC.v1i.coco.zip,7599193966308948698
+img_bb45ac6363512b55,small_far,augmented/train/images/train_aug_010312.jpg,ISDC.v1i.coco.zip,11652324379153793720
+img_bb45ac6363512b55,small_far,augmented/train/images/train_aug_010314.jpg,ISDC.v1i.coco.zip,14697558063308470045
+img_bb4a3f1b7fc5d65d,small_far,augmented/train/images/train_aug_010316.jpg,ISDC.v1i.coco.zip,14599293947117209923
+img_bb55766768b75d5a,small_far,augmented/train/images/train_aug_010324.jpg,Marking Flags.v6i.coco.zip,11811441887346388954
+img_bb55766768b75d5a,small_far,augmented/train/images/train_aug_010325.jpg,Marking Flags.v6i.coco.zip,16158136648119684540
+img_bc1259b0cc27f08e,small_far,augmented/train/images/train_aug_010354.jpg,ISDC.v1i.coco.zip,16363203143068824313
+img_bc1259b0cc27f08e,small_far,augmented/train/images/train_aug_010355.jpg,ISDC.v1i.coco.zip,1018068806750839467
+img_bdb57d6b846d8107,small_far,augmented/train/images/train_aug_010447.jpg,ISDC.v1i.coco.zip,17463491041857924215
+img_c07071287139b224,small_far,augmented/train/images/train_aug_010597.jpg,Marking Flags.v6i.coco.zip,6486186849560677897
+img_c07071287139b224,small_far,augmented/train/images/train_aug_010602.jpg,Marking Flags.v6i.coco.zip,5896020124345941853
+img_c1707ebbcf8d79b6,small_far,augmented/train/images/train_aug_010639.jpg,ISDC.v1i.coco.zip,3733976819446225467
+img_c1707ebbcf8d79b6,small_far,augmented/train/images/train_aug_010641.jpg,ISDC.v1i.coco.zip,6391770936568982163
+img_c1707ebbcf8d79b6,small_far,augmented/train/images/train_aug_010644.jpg,ISDC.v1i.coco.zip,1439209158685801639
+img_c2464e940c161049,small_far,augmented/train/images/train_aug_010702.jpg,Marking Flags.v6i.coco.zip,258725668100047999
+img_c4397a6712147a84,small_far,augmented/train/images/train_aug_010783.jpg,Marking Flags.v6i.coco.zip,13016238803967319891
+img_c4397a6712147a84,small_far,augmented/train/images/train_aug_010784.jpg,Marking Flags.v6i.coco.zip,14057066149063854867
+img_c4397a6712147a84,small_far,augmented/train/images/train_aug_010785.jpg,Marking Flags.v6i.coco.zip,10996110449997518242
+img_c4397a6712147a84,small_far,augmented/train/images/train_aug_010786.jpg,Marking Flags.v6i.coco.zip,10560597227361396860
+img_c6cc25e24daead4f,small_far,augmented/train/images/train_aug_010969.jpg,ISDC.v1i.coco.zip,10046748337914958936
+img_c6cc25e24daead4f,small_far,augmented/train/images/train_aug_010971.jpg,ISDC.v1i.coco.zip,15627602010126928471
+img_c6cc25e24daead4f,small_far,augmented/train/images/train_aug_010974.jpg,ISDC.v1i.coco.zip,1975779992372503671
+img_c6d5be844b499cc9,small_far,augmented/train/images/train_aug_010982.jpg,Marking Flags.v6i.coco.zip,6899110242717859923
+img_cb87a3ce942f75b8,small_far,augmented/train/images/train_aug_011197.jpg,ISDC.v1i.coco.zip,5218290838439865871
+img_cb87a3ce942f75b8,small_far,augmented/train/images/train_aug_011202.jpg,ISDC.v1i.coco.zip,16907207033225856286
+img_cc14be6d1e4e998c,small_far,augmented/train/images/train_aug_011252.jpg,Marking Flags.v6i.coco.zip,3511528474230267199
+img_cc14be6d1e4e998c,small_far,augmented/train/images/train_aug_011253.jpg,Marking Flags.v6i.coco.zip,12406215955848149659
+img_cc14be6d1e4e998c,small_far,augmented/train/images/train_aug_011256.jpg,Marking Flags.v6i.coco.zip,4762818644235678590
+img_d2408841b63d6d71,small_far,augmented/train/images/train_aug_011568.jpg,Marking Flags.v6i.coco.zip,14237531482572281119
+img_d52e074e4ee13bd6,small_far,augmented/train/images/train_aug_011715.jpg,Marking Flags.v6i.coco.zip,18386540690654383564
+img_d52e074e4ee13bd6,small_far,augmented/train/images/train_aug_011716.jpg,Marking Flags.v6i.coco.zip,6295603871678699547
+img_d52e074e4ee13bd6,small_far,augmented/train/images/train_aug_011717.jpg,Marking Flags.v6i.coco.zip,1964772411007936361
+img_d626a0f0a0c7092d,small_far,augmented/train/images/train_aug_011774.jpg,Marking Flags.v6i.coco.zip,11932382791594026671
+img_d626a0f0a0c7092d,small_far,augmented/train/images/train_aug_011775.jpg,Marking Flags.v6i.coco.zip,15727625140504930230
+img_d626a0f0a0c7092d,small_far,augmented/train/images/train_aug_011777.jpg,Marking Flags.v6i.coco.zip,2897045432350743433
+img_d87d06e7ff1cc9a3,small_far,augmented/train/images/train_aug_011919.jpg,Marking Flags.v6i.coco.zip,9413381789360101539
+img_d953ad042ad1f7f3,small_far,augmented/train/images/train_aug_011970.jpg,ISDC.v1i.coco.zip,12218631492605838979
+img_da01d2bfae80e0ca,small_far,augmented/train/images/train_aug_011996.jpg,Marking Flags.v6i.coco.zip,456924724232140728
+img_da01d2bfae80e0ca,small_far,augmented/train/images/train_aug_011999.jpg,Marking Flags.v6i.coco.zip,13834703103179638329
+img_da01d2bfae80e0ca,small_far,augmented/train/images/train_aug_012000.jpg,Marking Flags.v6i.coco.zip,6071031853421803126
+img_da1df210a8e1f7fc,small_far,augmented/train/images/train_aug_012006.jpg,ISDC.v1i.coco.zip,2015331396675152588
+img_db60c08fda133d85,small_far,augmented/train/images/train_aug_012086.jpg,Marking Flags.v6i.coco.zip,16089584749634593691
+img_db60c08fda133d85,small_far,augmented/train/images/train_aug_012090.jpg,Marking Flags.v6i.coco.zip,2286358696695984895
+img_dc133ea904160678,small_far,augmented/train/images/train_aug_012155.jpg,Marking Flags.v6i.coco.zip,4110316794199765404
+img_dc133ea904160678,small_far,augmented/train/images/train_aug_012156.jpg,Marking Flags.v6i.coco.zip,12063474574469954609
+img_de7c34d29c1c1eb6,small_far,augmented/train/images/train_aug_012262.jpg,Marking Flags.v6i.coco.zip,11244372965407648761
+img_de7c34d29c1c1eb6,small_far,augmented/train/images/train_aug_012264.jpg,Marking Flags.v6i.coco.zip,911624796957073944
+img_dfeee0748398069e,small_far,augmented/train/images/train_aug_012344.jpg,Marking Flags.v6i.coco.zip,57697793721272315
+img_dfeee0748398069e,small_far,augmented/train/images/train_aug_012346.jpg,Marking Flags.v6i.coco.zip,13779373954346684852
+img_dfeee0748398069e,small_far,augmented/train/images/train_aug_012347.jpg,Marking Flags.v6i.coco.zip,10508446664952097379
+img_dfeee0748398069e,small_far,augmented/train/images/train_aug_012348.jpg,Marking Flags.v6i.coco.zip,13106526178201560377
+img_e23ffea24ef78771,small_far,augmented/train/images/train_aug_012469.jpg,Marking Flags.v6i.coco.zip,8838614662801545834
+img_e23ffea24ef78771,small_far,augmented/train/images/train_aug_012470.jpg,Marking Flags.v6i.coco.zip,12803915679158140343
+img_e2f3d11bc13dd23c,small_far,augmented/train/images/train_aug_012555.jpg,Marking Flags.v6i.coco.zip,12747236686362712613
+img_e308e2d5a158a41b,small_far,augmented/train/images/train_aug_012565.jpg,Marking Flags.v6i.coco.zip,18076522777084559113
+img_e308e2d5a158a41b,small_far,augmented/train/images/train_aug_012570.jpg,Marking Flags.v6i.coco.zip,1932119476351316576
+img_e35462fb7b1cc5e3,small_far,augmented/train/images/train_aug_012589.jpg,Marking Flags.v6i.coco.zip,17308254046362110271
+img_e46c9f755089f176,small_far,augmented/train/images/train_aug_012651.jpg,Marking Flags.v6i.coco.zip,6035628260270961063
+img_e5af490ee6397b28,small_far,augmented/train/images/train_aug_012706.jpg,Marking Flags.v6i.coco.zip,3478099066377524429
+img_e5af490ee6397b28,small_far,augmented/train/images/train_aug_012708.jpg,Marking Flags.v6i.coco.zip,12704800838171024360
+img_ed45a0c3f166baff,small_far,augmented/train/images/train_aug_013100.jpg,Marking Flags.v6i.coco.zip,9389842747039306282
+img_eeb953dfe149006e,small_far,augmented/train/images/train_aug_013173.jpg,Marking Flags.v6i.coco.zip,4083684665245414619
+img_eeb953dfe149006e,small_far,augmented/train/images/train_aug_013176.jpg,Marking Flags.v6i.coco.zip,17544804761350897708
+img_f0342636e3457f16,small_far,augmented/train/images/train_aug_013250.jpg,Marking Flags.v6i.coco.zip,3369131535196494617
+img_f15bb92abd051e98,small_far,augmented/train/images/train_aug_013345.jpg,ISDC.v1i.coco.zip,4719231747269816017
+img_f15bb92abd051e98,small_far,augmented/train/images/train_aug_013346.jpg,ISDC.v1i.coco.zip,6791723582442416275
+img_f15bb92abd051e98,small_far,augmented/train/images/train_aug_013347.jpg,ISDC.v1i.coco.zip,4083212283781658179
+img_f15bb92abd051e98,small_far,augmented/train/images/train_aug_013349.jpg,ISDC.v1i.coco.zip,17696881946525259558
+img_f48305ead4d5a345,small_far,augmented/train/images/train_aug_013472.jpg,Marking Flags.v6i.coco.zip,10720019727829681077
+img_f48305ead4d5a345,small_far,augmented/train/images/train_aug_013473.jpg,Marking Flags.v6i.coco.zip,5697967335315129258
+img_f5ffdd2d4cc59687,small_far,augmented/train/images/train_aug_013561.jpg,Marking Flags.v6i.coco.zip,2393858699525557988
+img_f5ffdd2d4cc59687,small_far,augmented/train/images/train_aug_013562.jpg,Marking Flags.v6i.coco.zip,11623588584513074498
+img_f5ffdd2d4cc59687,small_far,augmented/train/images/train_aug_013563.jpg,Marking Flags.v6i.coco.zip,10648423405690036235
+img_f5ffdd2d4cc59687,small_far,augmented/train/images/train_aug_013565.jpg,Marking Flags.v6i.coco.zip,6113300424597540973
+img_f6a17ed279f664ee,small_far,augmented/train/images/train_aug_013604.jpg,Marking Flags.v6i.coco.zip,4122935563563619979
+img_f6a17ed279f664ee,small_far,augmented/train/images/train_aug_013606.jpg,Marking Flags.v6i.coco.zip,13134575648387754720
+img_f6a17ed279f664ee,small_far,augmented/train/images/train_aug_013607.jpg,Marking Flags.v6i.coco.zip,25294202844698607
+img_f6f0a2fa6654b1dd,small_far,augmented/train/images/train_aug_013622.jpg,Marking Flags.v6i.coco.zip,3548194914568800704
+img_f6f0a2fa6654b1dd,small_far,augmented/train/images/train_aug_013623.jpg,Marking Flags.v6i.coco.zip,15902990502895502290
+img_f6f0a2fa6654b1dd,small_far,augmented/train/images/train_aug_013624.jpg,Marking Flags.v6i.coco.zip,4976744621131745979
+img_fa55b604bf7026b2,small_far,augmented/train/images/train_aug_013777.jpg,ISDC.v1i.coco.zip,2821888751852680411
+img_fa55b604bf7026b2,small_far,augmented/train/images/train_aug_013780.jpg,ISDC.v1i.coco.zip,8135773800339227942
+img_fa9bd1d4304ce356,small_far,augmented/train/images/train_aug_013808.jpg,Marking Flags.v6i.coco.zip,7189217029574024136
+img_fd2cfa7a91610cb3,small_far,augmented/train/images/train_aug_013923.jpg,Marking Flags.v6i.coco.zip,13487140302873156910
+img_fd2cfa7a91610cb3,small_far,augmented/train/images/train_aug_013924.jpg,Marking Flags.v6i.coco.zip,15394663641622523457
+img_fd6d5ca934a5ce84,small_far,augmented/train/images/train_aug_013941.jpg,Marking Flags.v6i.coco.zip,3428648795806439041
+img_fd6d5ca934a5ce84,small_far,augmented/train/images/train_aug_013943.jpg,Marking Flags.v6i.coco.zip,9024884785074143181
+img_ff77e88d675b7ab2,small_far,augmented/train/images/train_aug_014017.jpg,Marking Flags.v6i.coco.zip,6829029426319436582
+img_ff77e88d675b7ab2,small_far,augmented/train/images/train_aug_014021.jpg,Marking Flags.v6i.coco.zip,14080371897247232314
+img_ff77e88d675b7ab2,small_far,augmented/train/images/train_aug_014022.jpg,Marking Flags.v6i.coco.zip,3182025550237940236
+img_ff9712f12fd60a24,small_far,augmented/train/images/train_aug_014037.jpg,Marking Flags.v6i.coco.zip,8198172200197504121
+img_ff9712f12fd60a24,small_far,augmented/train/images/train_aug_014039.jpg,Marking Flags.v6i.coco.zip,9418875431544551027

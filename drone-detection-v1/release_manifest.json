@@ -1,0 +1,38 @@
+{
+  "version": "drone-detection-v1.0-20261014",
+  "unique_images": 24245,
+  "canonical_images": 3360,
+  "augmented_images": 20885,
+  "assets": [
+    {
+      "name": "drone-detection-v1-images-01.zip",
+      "size_bytes": 1601615356,
+      "sha256": "aebc3bbd1d083de62bfaf1658cf227f515e2f7f054b56b56826a26361e4c37d1",
+      "entries": 8698
+    },
+    {
+      "name": "drone-detection-v1-images-02.zip",
+      "size_bytes": 1601017792,
+      "sha256": "3a1cbf29ced0c0db259650176232e4545d5c1c69ad590c44a08738e9438ce01b",
+      "entries": 6179
+    },
+    {
+      "name": "drone-detection-v1-images-03.zip",
+      "size_bytes": 1601214440,
+      "sha256": "3931f6ba1ea02341a0ddf0d6845fb890f56a96cd39f8027db21e7fef5da6ee7a",
+      "entries": 6167
+    },
+    {
+      "name": "drone-detection-v1-images-04.zip",
+      "size_bytes": 896539717,
+      "sha256": "42caa54e4d277c80c86c099566464cbf68fac6e2808452349487cc6773580425",
+      "entries": 3201
+    },
+    {
+      "name": "drone-detection-v1-metadata.zip",
+      "size_bytes": 93230081,
+      "sha256": "158a07e4e1a8bba9a6ff6dae933fd949c7257b7018436ed788b1adc98adec544",
+      "entries": 75
+    }
+  ]
+}

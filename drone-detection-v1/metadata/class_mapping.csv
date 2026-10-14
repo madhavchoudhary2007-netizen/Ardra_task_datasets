@@ -1,0 +1,84 @@
+source_dataset,source_category_id,source_category,canonical_class,decision
+Abandoned Toolbox.v2i.coco.zip,0,Toolbox,instrument_box,provisional mapping; semantic review pending
+Abandoned Toolbox.v2i.coco.zip,1,Toolbox,instrument_box,provisional mapping; semantic review pending
+Abandoned Toolbox.v2i.coco.zip,2,tool,EXCLUDED,excluded by mapping rule
+Abandoned Toolbox.v2i.coco.zip,0,Toolbox,instrument_box,provisional mapping; semantic review pending
+Abandoned Toolbox.v2i.coco.zip,1,Toolbox,instrument_box,provisional mapping; semantic review pending
+Abandoned Toolbox.v2i.coco.zip,2,tool,EXCLUDED,excluded by mapping rule
+Abandoned Toolbox.v2i.coco.zip,0,Toolbox,instrument_box,provisional mapping; semantic review pending
+Abandoned Toolbox.v2i.coco.zip,1,Toolbox,instrument_box,provisional mapping; semantic review pending
+Abandoned Toolbox.v2i.coco.zip,2,tool,EXCLUDED,excluded by mapping rule
+Hammer.v4-rutzz_2.coco.zip,0,hammer,hammer,provisional mapping; semantic review pending
+Hammer.v4-rutzz_2.coco.zip,1,hammer,hammer,provisional mapping; semantic review pending
+Hammer.v4-rutzz_2.coco.zip,0,hammer,hammer,provisional mapping; semantic review pending
+Hammer.v4-rutzz_2.coco.zip,1,hammer,hammer,provisional mapping; semantic review pending
+Hammer.v4-rutzz_2.coco.zip,0,hammer,hammer,provisional mapping; semantic review pending
+Hammer.v4-rutzz_2.coco.zip,1,hammer,hammer,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,0,objects,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,1,0,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,2,Tripod,short_tripod,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,3,cubos,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,4,flag,marker_flag,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,5,hammer,hammer,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,6,pliers,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,7,screwdriver,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,8,wrench,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,0,objects,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,1,0,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,2,Tripod,short_tripod,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,3,cubos,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,4,flag,marker_flag,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,5,hammer,hammer,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,6,pliers,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,7,screwdriver,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,8,wrench,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,0,objects,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,1,0,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,2,Tripod,short_tripod,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,3,cubos,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,4,flag,marker_flag,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,5,hammer,hammer,provisional mapping; semantic review pending
+ISDC.v1i.coco.zip,6,pliers,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,7,screwdriver,EXCLUDED,excluded by mapping rule
+ISDC.v1i.coco.zip,8,wrench,EXCLUDED,excluded by mapping rule
+Marking Flags.v6i.coco.zip,0,Flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,1,blue-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,2,green-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,3,orange-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,4,pink-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,5,purple-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,6,red-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,7,white-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,8,yellow-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,0,Flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,1,blue-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,2,green-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,3,orange-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,4,pink-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,5,purple-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,6,red-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,7,white-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,8,yellow-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,0,Flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,1,blue-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,2,green-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,3,orange-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,4,pink-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,5,purple-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,6,red-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,7,white-flag,marker_flag,provisional mapping; semantic review pending
+Marking Flags.v6i.coco.zip,8,yellow-flag,marker_flag,provisional mapping; semantic review pending
+Toolbox detection.v3i.coco.zip,0,toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox detection.v3i.coco.zip,1,toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox detection.v3i.coco.zip,0,toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox detection.v3i.coco.zip,1,toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox detection.v3i.coco.zip,0,toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox detection.v3i.coco.zip,1,toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox.v1i.coco.zip,0,Toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox.v1i.coco.zip,1,Toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox.v1i.coco.zip,0,Toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox.v1i.coco.zip,1,Toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox.v1i.coco.zip,0,Toolbox,instrument_box,provisional mapping; semantic review pending
+Toolbox.v1i.coco.zip,1,Toolbox,instrument_box,provisional mapping; semantic review pending
+Tripod.v1i.coco.zip,0,Tripod,short_tripod,provisional mapping; semantic review pending
+Tripod.v1i.coco.zip,1,Tripod,short_tripod,provisional mapping; semantic review pending

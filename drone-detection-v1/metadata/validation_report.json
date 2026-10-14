@@ -1,0 +1,247 @@
+{
+  "status": "PASS",
+  "splits": {
+    "canonical/test_original/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "canonical/train/annotations/instances.json": {
+      "images": 2341,
+      "annotations": 11833,
+      "instances_by_class": {
+        "instrument_box": 505,
+        "hammer": 688,
+        "marker_flag": 10486,
+        "short_tripod": 154
+      }
+    },
+    "canonical/val_original/annotations/instances.json": {
+      "images": 534,
+      "annotations": 2661,
+      "instances_by_class": {
+        "instrument_box": 129,
+        "short_tripod": 25,
+        "hammer": 145,
+        "marker_flag": 2362
+      }
+    },
+    "augmented/test_drone/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/train/annotations/instances.json": {
+      "images": 14046,
+      "annotations": 70997,
+      "instances_by_class": {
+        "instrument_box": 3030,
+        "hammer": 4128,
+        "marker_flag": 62915,
+        "short_tripod": 924
+      }
+    },
+    "augmented/val_drone/annotations/instances.json": {
+      "images": 534,
+      "annotations": 2661,
+      "instances_by_class": {
+        "instrument_box": 129,
+        "short_tripod": 25,
+        "hammer": 145,
+        "marker_flag": 2362
+      }
+    },
+    "augmented/test_stress/camera_shake/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/combined_hard/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/combined_normal/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/compression/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/compression_noise/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/lighting_shadow/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/low_contrast/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/motion_blur/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/near_clean/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/occlusion/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/perspective/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "augmented/test_stress/small_far/annotations/instances.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "rfdetr/test/_annotations.coco.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "rfdetr/train/_annotations.coco.json": {
+      "images": 2341,
+      "annotations": 11833,
+      "instances_by_class": {
+        "instrument_box": 505,
+        "hammer": 688,
+        "marker_flag": 10486,
+        "short_tripod": 154
+      }
+    },
+    "rfdetr/valid/_annotations.coco.json": {
+      "images": 534,
+      "annotations": 2661,
+      "instances_by_class": {
+        "instrument_box": 129,
+        "short_tripod": 25,
+        "hammer": 145,
+        "marker_flag": 2362
+      }
+    },
+    "rfdetr_materialized/test/_annotations.coco.json": {
+      "images": 485,
+      "annotations": 2517,
+      "instances_by_class": {
+        "marker_flag": 2239,
+        "instrument_box": 109,
+        "hammer": 137,
+        "short_tripod": 32
+      }
+    },
+    "rfdetr_materialized/train/_annotations.coco.json": {
+      "images": 16387,
+      "annotations": 82830,
+      "instances_by_class": {
+        "instrument_box": 3535,
+        "hammer": 4816,
+        "marker_flag": 73401,
+        "short_tripod": 1078
+      }
+    },
+    "rfdetr_materialized/valid/_annotations.coco.json": {
+      "images": 534,
+      "annotations": 2661,
+      "instances_by_class": {
+        "instrument_box": 129,
+        "short_tripod": 25,
+        "hammer": 145,
+        "marker_flag": 2362
+      }
+    }
+  },
+  "leakage_groups": 1898,
+  "source_families": 2030
+}

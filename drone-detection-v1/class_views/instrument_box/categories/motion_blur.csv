@@ -1,0 +1,273 @@
+parent_canonical_image_id,augmentation_category,file_name,source_dataset,seed
+img_009f939a9785ca3a,motion_blur,augmented/train/images/train_aug_000027.jpg,Toolbox.v1i.coco.zip,18002968900329622797
+img_009f939a9785ca3a,motion_blur,augmented/train/images/train_aug_000029.jpg,Toolbox.v1i.coco.zip,8527442896678949725
+img_01031ae7fed7d513,motion_blur,augmented/train/images/train_aug_000044.jpg,Abandoned Toolbox.v2i.coco.zip,13561144309287361658
+img_01031ae7fed7d513,motion_blur,augmented/train/images/train_aug_000045.jpg,Abandoned Toolbox.v2i.coco.zip,9391753689941721943
+img_01b29099637d2a02,motion_blur,augmented/train/images/train_aug_000117.jpg,Toolbox.v1i.coco.zip,12769967668041063532
+img_036ff0ecfbc263d5,motion_blur,augmented/train/images/train_aug_000210.jpg,Toolbox.v1i.coco.zip,15233192983078907112
+img_03e0fb96f70ee062,motion_blur,augmented/train/images/train_aug_000230.jpg,Toolbox.v1i.coco.zip,9518043980549598239
+img_04d7827ee0433c0c,motion_blur,augmented/train/images/train_aug_000277.jpg,Toolbox detection.v3i.coco.zip,7324650163334390358
+img_06c6f790995fb2b9,motion_blur,augmented/train/images/train_aug_000339.jpg,Toolbox detection.v3i.coco.zip,8436489092175438873
+img_06cb19fe047c146f,motion_blur,augmented/train/images/train_aug_000347.jpg,Abandoned Toolbox.v2i.coco.zip,4199496943019382267
+img_07045c847ab48858,motion_blur,augmented/train/images/train_aug_000357.jpg,Toolbox detection.v3i.coco.zip,13251800160927444824
+img_072f134e6c137405,motion_blur,augmented/train/images/train_aug_000375.jpg,Toolbox.v1i.coco.zip,13688046593244931148
+img_08eb02f4c7b0a6d0,motion_blur,augmented/train/images/train_aug_000472.jpg,Toolbox detection.v3i.coco.zip,12102040413344010040
+img_090ca2cf226ffdd6,motion_blur,augmented/train/images/train_aug_000490.jpg,Toolbox.v1i.coco.zip,1077056993081063386
+img_0b9179c1eb15bb87,motion_blur,augmented/train/images/train_aug_000614.jpg,Toolbox detection.v3i.coco.zip,13414064331187274587
+img_0bb6b22bff943242,motion_blur,augmented/train/images/train_aug_000630.jpg,Toolbox detection.v3i.coco.zip,11217857305695031305
+img_0eda9327c45a5f05,motion_blur,augmented/train/images/train_aug_000799.jpg,Toolbox detection.v3i.coco.zip,17930101420681424327
+img_0ef563a973edc90f,motion_blur,augmented/train/images/train_aug_000819.jpg,Abandoned Toolbox.v2i.coco.zip,1519695349613985954
+img_0fee199f5ccfcd1f,motion_blur,augmented/train/images/train_aug_000894.jpg,Toolbox detection.v3i.coco.zip,13943477489738206980
+img_11a3d92170007f64,motion_blur,augmented/train/images/train_aug_001007.jpg,Toolbox.v1i.coco.zip,13498189273965931338
+img_129cafbfcf1e6633,motion_blur,augmented/train/images/train_aug_001034.jpg,Toolbox.v1i.coco.zip,6963740044795246779
+img_13fb3e4fb9943854,motion_blur,augmented/train/images/train_aug_001123.jpg,Toolbox.v1i.coco.zip,8778551042844688190
+img_13fb3e4fb9943854,motion_blur,augmented/train/images/train_aug_001128.jpg,Toolbox.v1i.coco.zip,4886267111291367308
+img_14902b711dddb441,motion_blur,augmented/train/images/train_aug_001152.jpg,Toolbox detection.v3i.coco.zip,14086547898071894081
+img_162ede3158b9a384,motion_blur,augmented/train/images/train_aug_001210.jpg,Abandoned Toolbox.v2i.coco.zip,12863320299344191146
+img_162ede3158b9a384,motion_blur,augmented/train/images/train_aug_001212.jpg,Abandoned Toolbox.v2i.coco.zip,1862380092320356937
+img_170c0478bc77e511,motion_blur,augmented/train/images/train_aug_001291.jpg,Toolbox.v1i.coco.zip,13538638509469839699
+img_180759bf5289b339,motion_blur,augmented/train/images/train_aug_001347.jpg,Toolbox.v1i.coco.zip,1629738343697861474
+img_18504b16f455e3e9,motion_blur,augmented/train/images/train_aug_001380.jpg,Abandoned Toolbox.v2i.coco.zip,7367829657043035144
+img_190583f6c45c31be,motion_blur,augmented/train/images/train_aug_001397.jpg,Toolbox.v1i.coco.zip,8358541957994886503
+img_19c0d1c1626c959a,motion_blur,augmented/train/images/train_aug_001441.jpg,Toolbox detection.v3i.coco.zip,1926312827038725071
+img_19c0d1c1626c959a,motion_blur,augmented/train/images/train_aug_001446.jpg,Toolbox detection.v3i.coco.zip,12635900896935623641
+img_1b9996570aedcd44,motion_blur,augmented/train/images/train_aug_001548.jpg,Toolbox.v1i.coco.zip,742488639133397119
+img_1e4c1f4bdbc215c2,motion_blur,augmented/train/images/train_aug_001705.jpg,Toolbox detection.v3i.coco.zip,17334331789709050429
+img_1e4c1f4bdbc215c2,motion_blur,augmented/train/images/train_aug_001706.jpg,Toolbox detection.v3i.coco.zip,8034713587121137206
+img_1eff06f308ff2116,motion_blur,augmented/train/images/train_aug_001752.jpg,Toolbox detection.v3i.coco.zip,1932587965186849542
+img_1f1f07c88be3eca5,motion_blur,augmented/train/images/train_aug_001772.jpg,Toolbox detection.v3i.coco.zip,18396994785762044866
+img_1ff97de4ce1fabb5,motion_blur,augmented/train/images/train_aug_001832.jpg,Toolbox.v1i.coco.zip,17919256467900097215
+img_1ff97de4ce1fabb5,motion_blur,augmented/train/images/train_aug_001833.jpg,Toolbox.v1i.coco.zip,8781734812995865407
+img_1ff97de4ce1fabb5,motion_blur,augmented/train/images/train_aug_001834.jpg,Toolbox.v1i.coco.zip,17329601380486575022
+img_223a3420ed20637f,motion_blur,augmented/train/images/train_aug_001967.jpg,Toolbox.v1i.coco.zip,12619938294359281906
+img_227f2229b1e74761,motion_blur,augmented/train/images/train_aug_001987.jpg,Abandoned Toolbox.v2i.coco.zip,15091041337075000032
+img_2331efd747275ec7,motion_blur,augmented/train/images/train_aug_002040.jpg,Abandoned Toolbox.v2i.coco.zip,3337390002482172019
+img_2573a0565cf16c58,motion_blur,augmented/train/images/train_aug_002144.jpg,Abandoned Toolbox.v2i.coco.zip,10240712822163301527
+img_2573a0565cf16c58,motion_blur,augmented/train/images/train_aug_002148.jpg,Abandoned Toolbox.v2i.coco.zip,10119024003380235919
+img_2652bc1ce1affe63,motion_blur,augmented/train/images/train_aug_002186.jpg,Toolbox.v1i.coco.zip,11417833167638705752
+img_2652bc1ce1affe63,motion_blur,augmented/train/images/train_aug_002190.jpg,Toolbox.v1i.coco.zip,9700131468543518226
+img_27eb65bd805db9b2,motion_blur,augmented/train/images/train_aug_002243.jpg,Toolbox detection.v3i.coco.zip,16021669881651395707
+img_28d2750a86d94cd7,motion_blur,augmented/train/images/train_aug_002295.jpg,Toolbox.v1i.coco.zip,3231870481974795512
+img_291a04f366bce331,motion_blur,augmented/train/images/train_aug_002308.jpg,Toolbox detection.v3i.coco.zip,8979248490352845419
+img_291a04f366bce331,motion_blur,augmented/train/images/train_aug_002309.jpg,Toolbox detection.v3i.coco.zip,16928205169979674663
+img_2a7d485ec9395dac,motion_blur,augmented/train/images/train_aug_002401.jpg,Toolbox.v1i.coco.zip,6128644650179869994
+img_2bd840c057c85dc3,motion_blur,augmented/train/images/train_aug_002472.jpg,Toolbox.v1i.coco.zip,1438065359686549370
+img_2d6ff328c3c38079,motion_blur,augmented/train/images/train_aug_002553.jpg,Toolbox detection.v3i.coco.zip,15194980178175078248
+img_2d6ff328c3c38079,motion_blur,augmented/train/images/train_aug_002556.jpg,Toolbox detection.v3i.coco.zip,10262019632662516238
+img_2f069e6f6fc1c9cc,motion_blur,augmented/train/images/train_aug_002629.jpg,Toolbox detection.v3i.coco.zip,6132777987929159811
+img_2f1e004e0065b53f,motion_blur,augmented/train/images/train_aug_002640.jpg,Abandoned Toolbox.v2i.coco.zip,16702430877863202890
+img_2f719c3497c0f9d9,motion_blur,augmented/train/images/train_aug_002665.jpg,Toolbox.v1i.coco.zip,13135924397450009772
+img_2f719c3497c0f9d9,motion_blur,augmented/train/images/train_aug_002670.jpg,Toolbox.v1i.coco.zip,17447532984261597230
+img_3049135d1b928f73,motion_blur,augmented/train/images/train_aug_002709.jpg,Toolbox detection.v3i.coco.zip,8773136478320240391
+img_33bc6eee0ca1ba4f,motion_blur,augmented/train/images/train_aug_002876.jpg,Toolbox.v1i.coco.zip,15169760534698668079
+img_33d43d007d6e4506,motion_blur,augmented/train/images/train_aug_002892.jpg,Abandoned Toolbox.v2i.coco.zip,6474022880047331363
+img_361c42befcc330f0,motion_blur,augmented/train/images/train_aug_003027.jpg,Toolbox detection.v3i.coco.zip,4354204612955866434
+img_3812baf0d3338cdf,motion_blur,augmented/train/images/train_aug_003085.jpg,Abandoned Toolbox.v2i.coco.zip,8106011194170698310
+img_3812baf0d3338cdf,motion_blur,augmented/train/images/train_aug_003086.jpg,Abandoned Toolbox.v2i.coco.zip,11716807314512641595
+img_3a665386255594b9,motion_blur,augmented/train/images/train_aug_003208.jpg,Toolbox.v1i.coco.zip,15893234842100435877
+img_3a665386255594b9,motion_blur,augmented/train/images/train_aug_003210.jpg,Toolbox.v1i.coco.zip,4277127695803214481
+img_3b6747c769524a53,motion_blur,augmented/train/images/train_aug_003274.jpg,Toolbox.v1i.coco.zip,3178413189003469306
+img_3d1f74b22cee0607,motion_blur,augmented/train/images/train_aug_003360.jpg,Toolbox detection.v3i.coco.zip,12594796699708372940
+img_3d6333407bc10bf3,motion_blur,augmented/train/images/train_aug_003388.jpg,Abandoned Toolbox.v2i.coco.zip,7065033389185094509
+img_3d6333407bc10bf3,motion_blur,augmented/train/images/train_aug_003390.jpg,Abandoned Toolbox.v2i.coco.zip,11079368904194020846
+img_3dbcf5893638892b,motion_blur,augmented/train/images/train_aug_003422.jpg,Toolbox detection.v3i.coco.zip,8044397247531720531
+img_3de1554e74b2ffca,motion_blur,augmented/train/images/train_aug_003434.jpg,Toolbox.v1i.coco.zip,8219742517239897560
+img_401b689ca5b46062,motion_blur,augmented/train/images/train_aug_003543.jpg,Abandoned Toolbox.v2i.coco.zip,6972616878723593654
+img_42ff20b349a16770,motion_blur,augmented/train/images/train_aug_003723.jpg,Toolbox.v1i.coco.zip,15396592761469675308
+img_44ea4553b3d283b5,motion_blur,augmented/train/images/train_aug_003814.jpg,Toolbox detection.v3i.coco.zip,18391422308737549385
+img_46e959d535ffc895,motion_blur,augmented/train/images/train_aug_003907.jpg,Toolbox detection.v3i.coco.zip,18097475735489883774
+img_4707108627dc48e0,motion_blur,augmented/train/images/train_aug_003919.jpg,Toolbox.v1i.coco.zip,13602966757535847369
+img_4707108627dc48e0,motion_blur,augmented/train/images/train_aug_003921.jpg,Toolbox.v1i.coco.zip,3392078648541046178
+img_4939d26c70755729,motion_blur,augmented/train/images/train_aug_004071.jpg,Toolbox.v1i.coco.zip,9534048699581357711
+img_4939d26c70755729,motion_blur,augmented/train/images/train_aug_004073.jpg,Toolbox.v1i.coco.zip,18320557356620099831
+img_4939d26c70755729,motion_blur,augmented/train/images/train_aug_004074.jpg,Toolbox.v1i.coco.zip,11253136350792438987
+img_49a3d29c0bb6a46f,motion_blur,augmented/train/images/train_aug_004081.jpg,Abandoned Toolbox.v2i.coco.zip,16975225469645861034
+img_49a3d29c0bb6a46f,motion_blur,augmented/train/images/train_aug_004084.jpg,Abandoned Toolbox.v2i.coco.zip,15623530010271593753
+img_4a0603552204a62e,motion_blur,augmented/train/images/train_aug_004100.jpg,Abandoned Toolbox.v2i.coco.zip,2154125834401709079
+img_4d563e301eccd28d,motion_blur,augmented/train/images/train_aug_004274.jpg,Abandoned Toolbox.v2i.coco.zip,10415929276939160796
+img_4e322bdf165f991b,motion_blur,augmented/train/images/train_aug_004321.jpg,Toolbox.v1i.coco.zip,10303609924906648299
+img_4efd87c931261299,motion_blur,augmented/train/images/train_aug_004356.jpg,Toolbox.v1i.coco.zip,2539362780528024786
+img_4f3f04bca9d4eb45,motion_blur,augmented/train/images/train_aug_004366.jpg,Toolbox detection.v3i.coco.zip,13669622040551551580
+img_4f3f04bca9d4eb45,motion_blur,augmented/train/images/train_aug_004368.jpg,Toolbox detection.v3i.coco.zip,2443116827180198201
+img_4f7e065e64f1a929,motion_blur,augmented/train/images/train_aug_004401.jpg,Toolbox.v1i.coco.zip,8359807364084281930
+img_4fa7f6af6a3d40b4,motion_blur,augmented/train/images/train_aug_004420.jpg,Toolbox detection.v3i.coco.zip,15818317722640130112
+img_50d031416cdb2693,motion_blur,augmented/train/images/train_aug_004479.jpg,Toolbox detection.v3i.coco.zip,17725446134087688409
+img_51b514f783b77a14,motion_blur,augmented/train/images/train_aug_004556.jpg,Toolbox detection.v3i.coco.zip,17868173147008457965
+img_546a29ba8d1c8f7b,motion_blur,augmented/train/images/train_aug_004721.jpg,Toolbox detection.v3i.coco.zip,5535102565150558656
+img_54c5e28f1ad255e2,motion_blur,augmented/train/images/train_aug_004733.jpg,Toolbox detection.v3i.coco.zip,994866022084582797
+img_57e205e88b8b7b20,motion_blur,augmented/train/images/train_aug_004877.jpg,Toolbox.v1i.coco.zip,15042649691166891945
+img_590ce9b48c42110c,motion_blur,augmented/train/images/train_aug_004934.jpg,Toolbox detection.v3i.coco.zip,308204594117912002
+img_5949a1a63eb2a1ab,motion_blur,augmented/train/images/train_aug_004952.jpg,Toolbox detection.v3i.coco.zip,4885654395466644434
+img_5957456fdd2db9b6,motion_blur,augmented/train/images/train_aug_004965.jpg,Abandoned Toolbox.v2i.coco.zip,17686340144850754462
+img_5ae4e0078c5d54b8,motion_blur,augmented/train/images/train_aug_005068.jpg,Toolbox.v1i.coco.zip,16232384403329119883
+img_5d42c7b1d939a680,motion_blur,augmented/train/images/train_aug_005181.jpg,Toolbox detection.v3i.coco.zip,101097893917584654
+img_625e02ebb3e5c6f3,motion_blur,augmented/train/images/train_aug_005400.jpg,Toolbox detection.v3i.coco.zip,12206433108166617133
+img_650da9cb49f7a198,motion_blur,augmented/train/images/train_aug_005540.jpg,Toolbox.v1i.coco.zip,14404463174773455359
+img_650da9cb49f7a198,motion_blur,augmented/train/images/train_aug_005543.jpg,Toolbox.v1i.coco.zip,14470745924610284036
+img_653833c58c863909,motion_blur,augmented/train/images/train_aug_005560.jpg,Toolbox.v1i.coco.zip,17568436966196907629
+img_66ddd7317fc0a609,motion_blur,augmented/train/images/train_aug_005645.jpg,Abandoned Toolbox.v2i.coco.zip,12567179849447125861
+img_67430d06bdf98209,motion_blur,augmented/train/images/train_aug_005702.jpg,Abandoned Toolbox.v2i.coco.zip,4598329693405430410
+img_67430d06bdf98209,motion_blur,augmented/train/images/train_aug_005703.jpg,Abandoned Toolbox.v2i.coco.zip,17208680624602898140
+img_694a686130fbb5c7,motion_blur,augmented/train/images/train_aug_005786.jpg,Abandoned Toolbox.v2i.coco.zip,11568122118290162165
+img_6e4e2ccc596d109d,motion_blur,augmented/train/images/train_aug_006025.jpg,Toolbox detection.v3i.coco.zip,768184962099382500
+img_6e4e2ccc596d109d,motion_blur,augmented/train/images/train_aug_006027.jpg,Toolbox detection.v3i.coco.zip,15856261655571275004
+img_6fddba79a2e1944a,motion_blur,augmented/train/images/train_aug_006118.jpg,Abandoned Toolbox.v2i.coco.zip,2650900154697519780
+img_71142ef726f6e9a8,motion_blur,augmented/train/images/train_aug_006152.jpg,Toolbox detection.v3i.coco.zip,6895362576251332353
+img_7220644b5c751cfc,motion_blur,augmented/train/images/train_aug_006207.jpg,Toolbox detection.v3i.coco.zip,3406691286346802579
+img_74a18282ab7a430c,motion_blur,augmented/train/images/train_aug_006378.jpg,Abandoned Toolbox.v2i.coco.zip,15133496856085760142
+img_74ee14a3e976713b,motion_blur,augmented/train/images/train_aug_006408.jpg,Toolbox.v1i.coco.zip,7057997595041085727
+img_75f86522607c2020,motion_blur,augmented/train/images/train_aug_006468.jpg,Abandoned Toolbox.v2i.coco.zip,10148305415812596663
+img_78457284f7cee52f,motion_blur,augmented/train/images/train_aug_006564.jpg,Abandoned Toolbox.v2i.coco.zip,4644421573564803473
+img_787ef2a816b0ab7e,motion_blur,augmented/train/images/train_aug_006570.jpg,Abandoned Toolbox.v2i.coco.zip,8273144589690793919
+img_7a008f6cad9f7d6c,motion_blur,augmented/train/images/train_aug_006686.jpg,Toolbox.v1i.coco.zip,7262958919752992346
+img_7a008f6cad9f7d6c,motion_blur,augmented/train/images/train_aug_006687.jpg,Toolbox.v1i.coco.zip,2496819884644508630
+img_7aab3be6def2cce0,motion_blur,augmented/train/images/train_aug_006734.jpg,Toolbox detection.v3i.coco.zip,5663084122169588893
+img_7aab3be6def2cce0,motion_blur,augmented/train/images/train_aug_006736.jpg,Toolbox detection.v3i.coco.zip,2535565901107024934
+img_7ab01558cd2855c8,motion_blur,augmented/train/images/train_aug_006744.jpg,Toolbox.v1i.coco.zip,1213343311337301602
+img_7b42fcf02a6e99a6,motion_blur,augmented/train/images/train_aug_006785.jpg,Abandoned Toolbox.v2i.coco.zip,12565727380370684556
+img_7b6e99252785500f,motion_blur,augmented/train/images/train_aug_006801.jpg,Abandoned Toolbox.v2i.coco.zip,3014968798154240245
+img_7ca87435a9d0117b,motion_blur,augmented/train/images/train_aug_006829.jpg,Toolbox detection.v3i.coco.zip,5981741497242689801
+img_7ca87435a9d0117b,motion_blur,augmented/train/images/train_aug_006833.jpg,Toolbox detection.v3i.coco.zip,1037964722379022846
+img_7d3ae39ecadcd003,motion_blur,augmented/train/images/train_aug_006862.jpg,Toolbox.v1i.coco.zip,11605849492265181885
+img_7e154d556155cf14,motion_blur,augmented/train/images/train_aug_006910.jpg,Toolbox detection.v3i.coco.zip,15972030886625023193
+img_80e40d93d5bc4694,motion_blur,augmented/train/images/train_aug_007081.jpg,Abandoned Toolbox.v2i.coco.zip,9386780012494023526
+img_8183bb8dbe04fe68,motion_blur,augmented/train/images/train_aug_007123.jpg,Toolbox detection.v3i.coco.zip,4577917349376909563
+img_81c5ef5ffeb73d48,motion_blur,augmented/train/images/train_aug_007143.jpg,Toolbox detection.v3i.coco.zip,17568493377884807388
+img_84a78dceb3d8b9e8,motion_blur,augmented/train/images/train_aug_007304.jpg,Toolbox detection.v3i.coco.zip,2958183156255087656
+img_85ab14e0f0e41599,motion_blur,augmented/train/images/train_aug_007381.jpg,Abandoned Toolbox.v2i.coco.zip,3890062393670759765
+img_85ab14e0f0e41599,motion_blur,augmented/train/images/train_aug_007384.jpg,Abandoned Toolbox.v2i.coco.zip,7963004543173529490
+img_86604d14833110f0,motion_blur,augmented/train/images/train_aug_007417.jpg,Toolbox detection.v3i.coco.zip,12513201453176274161
+img_867ff26ffd21e2f0,motion_blur,augmented/train/images/train_aug_007430.jpg,Toolbox.v1i.coco.zip,15147209487181232586
+img_870a90df4323c1a4,motion_blur,augmented/train/images/train_aug_007459.jpg,Abandoned Toolbox.v2i.coco.zip,4720107292208295491
+img_870a90df4323c1a4,motion_blur,augmented/train/images/train_aug_007464.jpg,Abandoned Toolbox.v2i.coco.zip,4138578504581392780
+img_8991e01da0650351,motion_blur,augmented/train/images/train_aug_007576.jpg,Abandoned Toolbox.v2i.coco.zip,14830991244137960504
+img_8a40d7e1f5b99dd5,motion_blur,augmented/train/images/train_aug_007627.jpg,Toolbox.v1i.coco.zip,4099848313084485829
+img_8a4f6a5ab1e634e6,motion_blur,augmented/train/images/train_aug_007638.jpg,Abandoned Toolbox.v2i.coco.zip,5000386539965225285
+img_8a7a54f75f166bc0,motion_blur,augmented/train/images/train_aug_007646.jpg,Abandoned Toolbox.v2i.coco.zip,8604360445936339233
+img_8b1c3884b6f27466,motion_blur,augmented/train/images/train_aug_007683.jpg,Abandoned Toolbox.v2i.coco.zip,4244883761982990616
+img_8cc5dd4dcf53b62f,motion_blur,augmented/train/images/train_aug_007773.jpg,Abandoned Toolbox.v2i.coco.zip,1776606863669403258
+img_8cc5dd4dcf53b62f,motion_blur,augmented/train/images/train_aug_007775.jpg,Abandoned Toolbox.v2i.coco.zip,3766781084647413960
+img_914a8f85ac09aa5b,motion_blur,augmented/train/images/train_aug_008018.jpg,Abandoned Toolbox.v2i.coco.zip,5677755980387605457
+img_91db85a8a5a3362c,motion_blur,augmented/train/images/train_aug_008051.jpg,Toolbox.v1i.coco.zip,11643599216922278221
+img_91f11f743fbdeb9f,motion_blur,augmented/train/images/train_aug_008070.jpg,Toolbox.v1i.coco.zip,10120279830884867037
+img_944e48e65a6bf8cc,motion_blur,augmented/train/images/train_aug_008211.jpg,Toolbox.v1i.coco.zip,14606246215314485771
+img_9595f90b4e6ffe6c,motion_blur,augmented/train/images/train_aug_008261.jpg,Toolbox.v1i.coco.zip,14435171536038299013
+img_9730094e62170012,motion_blur,augmented/train/images/train_aug_008339.jpg,Abandoned Toolbox.v2i.coco.zip,3943717650140451026
+img_984f66054102c956,motion_blur,augmented/train/images/train_aug_008385.jpg,Toolbox detection.v3i.coco.zip,11589325308777858226
+img_984f66054102c956,motion_blur,augmented/train/images/train_aug_008386.jpg,Toolbox detection.v3i.coco.zip,18388160032863244953
+img_984f66054102c956,motion_blur,augmented/train/images/train_aug_008388.jpg,Toolbox detection.v3i.coco.zip,15922554439094705870
+img_98510ab2f493b34d,motion_blur,augmented/train/images/train_aug_008391.jpg,Toolbox.v1i.coco.zip,5101339702135818709
+img_98830386f39a7424,motion_blur,augmented/train/images/train_aug_008410.jpg,Toolbox detection.v3i.coco.zip,9707265776939863453
+img_99780553e79f5130,motion_blur,augmented/train/images/train_aug_008445.jpg,Toolbox.v1i.coco.zip,16605413143394058912
+img_99780553e79f5130,motion_blur,augmented/train/images/train_aug_008446.jpg,Toolbox.v1i.coco.zip,12235755756257271914
+img_9a88aa8717190d25,motion_blur,augmented/train/images/train_aug_008528.jpg,Toolbox detection.v3i.coco.zip,2160279166824123704
+img_9a88aa8717190d25,motion_blur,augmented/train/images/train_aug_008530.jpg,Toolbox detection.v3i.coco.zip,3620490824484058692
+img_9a88aa8717190d25,motion_blur,augmented/train/images/train_aug_008531.jpg,Toolbox detection.v3i.coco.zip,17026102949650679729
+img_9af3a9293dba3825,motion_blur,augmented/train/images/train_aug_008548.jpg,Abandoned Toolbox.v2i.coco.zip,251094398980846229
+img_9d1cbbdaa06d1a21,motion_blur,augmented/train/images/train_aug_008663.jpg,Toolbox.v1i.coco.zip,3945073550870361548
+img_9d1cbbdaa06d1a21,motion_blur,augmented/train/images/train_aug_008664.jpg,Toolbox.v1i.coco.zip,18409167238217269522
+img_9d9bf0c729493c74,motion_blur,augmented/train/images/train_aug_008678.jpg,Toolbox detection.v3i.coco.zip,14614612624571225617
+img_9f35eaaf8d6e4b01,motion_blur,augmented/train/images/train_aug_008738.jpg,Toolbox detection.v3i.coco.zip,5586006496569095677
+img_9f35eaaf8d6e4b01,motion_blur,augmented/train/images/train_aug_008741.jpg,Toolbox detection.v3i.coco.zip,7236487056155583089
+img_9f5dde28b96f3af4,motion_blur,augmented/train/images/train_aug_008746.jpg,Toolbox.v1i.coco.zip,10542909561100650069
+img_9f5dde28b96f3af4,motion_blur,augmented/train/images/train_aug_008747.jpg,Toolbox.v1i.coco.zip,12943118401327512055
+img_9f5dde28b96f3af4,motion_blur,augmented/train/images/train_aug_008748.jpg,Toolbox.v1i.coco.zip,8089014064488434061
+img_a1439b2dba3cc0c6,motion_blur,augmented/train/images/train_aug_008860.jpg,Abandoned Toolbox.v2i.coco.zip,10955023467245021271
+img_a4c63407a2f3c54d,motion_blur,augmented/train/images/train_aug_009029.jpg,Toolbox.v1i.coco.zip,9677800338510714343
+img_a9ff4eab454c9d74,motion_blur,augmented/train/images/train_aug_009287.jpg,Abandoned Toolbox.v2i.coco.zip,5139775144438229579
+img_aac438fd911bb424,motion_blur,augmented/train/images/train_aug_009335.jpg,Abandoned Toolbox.v2i.coco.zip,15176888466165370326
+img_aad9eb10cd02e7f2,motion_blur,augmented/train/images/train_aug_009338.jpg,Abandoned Toolbox.v2i.coco.zip,794736627820658727
+img_aba5821db296b526,motion_blur,augmented/train/images/train_aug_009385.jpg,Toolbox.v1i.coco.zip,4049579681391677755
+img_ac692921b252aa66,motion_blur,augmented/train/images/train_aug_009431.jpg,Toolbox.v1i.coco.zip,7391041629287989505
+img_af03759b61baf59b,motion_blur,augmented/train/images/train_aug_009540.jpg,Toolbox detection.v3i.coco.zip,10328694343759108863
+img_afce347d57db67d3,motion_blur,augmented/train/images/train_aug_009594.jpg,Toolbox detection.v3i.coco.zip,8860398253540944632
+img_b13a141f8694a840,motion_blur,augmented/train/images/train_aug_009682.jpg,Toolbox detection.v3i.coco.zip,1479686358284691181
+img_b2447a228c5c722f,motion_blur,augmented/train/images/train_aug_009757.jpg,Abandoned Toolbox.v2i.coco.zip,17903086363362733304
+img_b2447a228c5c722f,motion_blur,augmented/train/images/train_aug_009758.jpg,Abandoned Toolbox.v2i.coco.zip,7085824883405585839
+img_b32e774c10494d19,motion_blur,augmented/train/images/train_aug_009818.jpg,Toolbox detection.v3i.coco.zip,7421358138624338441
+img_b32e774c10494d19,motion_blur,augmented/train/images/train_aug_009819.jpg,Toolbox detection.v3i.coco.zip,2310538590441747540
+img_b39a85d97a9c9fe5,motion_blur,augmented/train/images/train_aug_009848.jpg,Toolbox detection.v3i.coco.zip,14859072190789223419
+img_b39a85d97a9c9fe5,motion_blur,augmented/train/images/train_aug_009850.jpg,Toolbox detection.v3i.coco.zip,12502262247421884347
+img_b3ff23224307d5ce,motion_blur,augmented/train/images/train_aug_009884.jpg,Toolbox.v1i.coco.zip,12351139249360388697
+img_b465f7ff0a243bb2,motion_blur,augmented/train/images/train_aug_009903.jpg,Abandoned Toolbox.v2i.coco.zip,15936405425248673078
+img_b7cef0f2c4c7077a,motion_blur,augmented/train/images/train_aug_010096.jpg,Toolbox detection.v3i.coco.zip,8742615777544201229
+img_b7cef0f2c4c7077a,motion_blur,augmented/train/images/train_aug_010097.jpg,Toolbox detection.v3i.coco.zip,15888269683065136378
+img_b88aadf7c0f07d35,motion_blur,augmented/train/images/train_aug_010130.jpg,Toolbox.v1i.coco.zip,13027267898452712378
+img_b88aadf7c0f07d35,motion_blur,augmented/train/images/train_aug_010131.jpg,Toolbox.v1i.coco.zip,7096698751576579440
+img_b88aadf7c0f07d35,motion_blur,augmented/train/images/train_aug_010134.jpg,Toolbox.v1i.coco.zip,3706024675342687974
+img_bb67108b17c38d85,motion_blur,augmented/train/images/train_aug_010329.jpg,Toolbox detection.v3i.coco.zip,15895710030500678163
+img_bb67108b17c38d85,motion_blur,augmented/train/images/train_aug_010331.jpg,Toolbox detection.v3i.coco.zip,16981840199285639648
+img_bf864e71eb6f1170,motion_blur,augmented/train/images/train_aug_010542.jpg,Toolbox detection.v3i.coco.zip,2264515587128575629
+img_bfa2b9fd5d09e539,motion_blur,augmented/train/images/train_aug_010551.jpg,Abandoned Toolbox.v2i.coco.zip,10662577387239684745
+img_bff9abb05c4398e0,motion_blur,augmented/train/images/train_aug_010582.jpg,Abandoned Toolbox.v2i.coco.zip,2066675689875467865
+img_c0dbfdc499dc8400,motion_blur,augmented/train/images/train_aug_010614.jpg,Toolbox.v1i.coco.zip,12568692398901107926
+img_c2d25526aae39740,motion_blur,augmented/train/images/train_aug_010718.jpg,Abandoned Toolbox.v2i.coco.zip,10377422841866524493
+img_c2d25526aae39740,motion_blur,augmented/train/images/train_aug_010720.jpg,Abandoned Toolbox.v2i.coco.zip,14912332972482480341
+img_c2d25526aae39740,motion_blur,augmented/train/images/train_aug_010721.jpg,Abandoned Toolbox.v2i.coco.zip,16073463743505971453
+img_c48da4b3e979a5c9,motion_blur,augmented/train/images/train_aug_010810.jpg,Toolbox.v1i.coco.zip,5674199363512170249
+img_c606fc88579ddd9d,motion_blur,augmented/train/images/train_aug_010907.jpg,Toolbox detection.v3i.coco.zip,14361689172602572067
+img_c618bdf535eb7a1a,motion_blur,augmented/train/images/train_aug_010918.jpg,Toolbox.v1i.coco.zip,1076264789645826233
+img_c6a7218170b76bf2,motion_blur,augmented/train/images/train_aug_010954.jpg,Toolbox detection.v3i.coco.zip,726183875661634599
+img_c6a7218170b76bf2,motion_blur,augmented/train/images/train_aug_010956.jpg,Toolbox detection.v3i.coco.zip,8230093888714444459
+img_c81d696e0d956d87,motion_blur,augmented/train/images/train_aug_011031.jpg,Toolbox.v1i.coco.zip,9431204101321627506
+img_c978a1dd416d0300,motion_blur,augmented/train/images/train_aug_011095.jpg,Toolbox detection.v3i.coco.zip,13126069034763212313
+img_c978a1dd416d0300,motion_blur,augmented/train/images/train_aug_011097.jpg,Toolbox detection.v3i.coco.zip,3990022952434231680
+img_cae6f9a601f5af46,motion_blur,augmented/train/images/train_aug_011174.jpg,Toolbox detection.v3i.coco.zip,18346676716009576787
+img_cae6f9a601f5af46,motion_blur,augmented/train/images/train_aug_011176.jpg,Toolbox detection.v3i.coco.zip,13762913843527675293
+img_cb2a286fe2080c10,motion_blur,augmented/train/images/train_aug_011181.jpg,Abandoned Toolbox.v2i.coco.zip,9196263058662884672
+img_cb3f582871bce1cf,motion_blur,augmented/train/images/train_aug_011188.jpg,Abandoned Toolbox.v2i.coco.zip,14697013906129371792
+img_cecb6b232f85f596,motion_blur,augmented/train/images/train_aug_011359.jpg,Toolbox detection.v3i.coco.zip,13599841639007301039
+img_cecb6b232f85f596,motion_blur,augmented/train/images/train_aug_011363.jpg,Toolbox detection.v3i.coco.zip,11757860259886404274
+img_cf6e4d37a8f89eba,motion_blur,augmented/train/images/train_aug_011410.jpg,Toolbox.v1i.coco.zip,12883285646658558057
+img_d00e65394365f1c9,motion_blur,augmented/train/images/train_aug_011439.jpg,Toolbox.v1i.coco.zip,4074983520510560058
+img_d00e65394365f1c9,motion_blur,augmented/train/images/train_aug_011442.jpg,Toolbox.v1i.coco.zip,13818709913631036196
+img_d0427f1900a6dc3c,motion_blur,augmented/train/images/train_aug_011450.jpg,Toolbox.v1i.coco.zip,3620860379752950056
+img_d14e5bf46a77ac34,motion_blur,augmented/train/images/train_aug_011522.jpg,Toolbox detection.v3i.coco.zip,452865887313611416
+img_d14e5bf46a77ac34,motion_blur,augmented/train/images/train_aug_011523.jpg,Toolbox detection.v3i.coco.zip,16880829081302047158
+img_d1a81f66ea8ba04f,motion_blur,augmented/train/images/train_aug_011535.jpg,Toolbox.v1i.coco.zip,8066412976836950071
+img_d22c5ffbca7a4c03,motion_blur,augmented/train/images/train_aug_011558.jpg,Toolbox detection.v3i.coco.zip,15443669875328713974
+img_d2ae8e4b7cc8e8cf,motion_blur,augmented/train/images/train_aug_011581.jpg,Toolbox detection.v3i.coco.zip,2265120046290026239
+img_d2ae8e4b7cc8e8cf,motion_blur,augmented/train/images/train_aug_011584.jpg,Toolbox detection.v3i.coco.zip,10587731126017828520
+img_d57870ef038b4310,motion_blur,augmented/train/images/train_aug_011747.jpg,Toolbox.v1i.coco.zip,9910166696415988777
+img_d6fa3f17ccd679fc,motion_blur,augmented/train/images/train_aug_011820.jpg,Toolbox.v1i.coco.zip,3022031391458131117
+img_d7095ffee95f967a,motion_blur,augmented/train/images/train_aug_011826.jpg,Abandoned Toolbox.v2i.coco.zip,6691628610391397925
+img_d71406309c33e34d,motion_blur,augmented/train/images/train_aug_011834.jpg,Abandoned Toolbox.v2i.coco.zip,18395393769028629763
+img_d71406309c33e34d,motion_blur,augmented/train/images/train_aug_011835.jpg,Abandoned Toolbox.v2i.coco.zip,4834437894555774717
+img_d7b60cca0d8ed2b6,motion_blur,augmented/train/images/train_aug_011852.jpg,Toolbox.v1i.coco.zip,17542145057177876945
+img_d7e248cadb917508,motion_blur,augmented/train/images/train_aug_011860.jpg,Abandoned Toolbox.v2i.coco.zip,12348987181338224823
+img_d90ee6b33db9db4e,motion_blur,augmented/train/images/train_aug_011947.jpg,Toolbox detection.v3i.coco.zip,18302515774327229254
+img_db0a02f2cc2c0a77,motion_blur,augmented/train/images/train_aug_012040.jpg,Toolbox detection.v3i.coco.zip,8998512369454474154
+img_db2e0beffc56e672,motion_blur,augmented/train/images/train_aug_012064.jpg,Toolbox detection.v3i.coco.zip,2914310585141110443
+img_dbe67e03b0fc5778,motion_blur,augmented/train/images/train_aug_012137.jpg,Toolbox.v1i.coco.zip,9390054859105222373
+img_dd3320794d3eb0e6,motion_blur,augmented/train/images/train_aug_012201.jpg,Toolbox detection.v3i.coco.zip,2755135858176743966
+img_de635e539acb19e3,motion_blur,augmented/train/images/train_aug_012249.jpg,Toolbox detection.v3i.coco.zip,17359497427749165105
+img_df9a6b0a99d16149,motion_blur,augmented/train/images/train_aug_012323.jpg,Toolbox detection.v3i.coco.zip,5487454636685955678
+img_e155cbcd5b5140ff,motion_blur,augmented/train/images/train_aug_012449.jpg,Toolbox detection.v3i.coco.zip,11808075185246669943
+img_e24ffb68f7f258df,motion_blur,augmented/train/images/train_aug_012482.jpg,Toolbox.v1i.coco.zip,1455350829120893403
+img_e31956e44a3e4bf1,motion_blur,augmented/train/images/train_aug_012576.jpg,Abandoned Toolbox.v2i.coco.zip,7752484232032615846
+img_e5be4ae0d7f52bcb,motion_blur,augmented/train/images/train_aug_012726.jpg,Toolbox detection.v3i.coco.zip,13903952919326181561
+img_e5db8d4f7761e471,motion_blur,augmented/train/images/train_aug_012729.jpg,Toolbox detection.v3i.coco.zip,7756011217652303515
+img_ea34af4a6ecfaf23,motion_blur,augmented/train/images/train_aug_012927.jpg,Toolbox detection.v3i.coco.zip,9044127252699237277
+img_ea70734f8fa67320,motion_blur,augmented/train/images/train_aug_012948.jpg,Toolbox detection.v3i.coco.zip,17848708698965943826
+img_ec81145e51ec8432,motion_blur,augmented/train/images/train_aug_013033.jpg,Toolbox.v1i.coco.zip,5447069942692616050
+img_ec81145e51ec8432,motion_blur,augmented/train/images/train_aug_013038.jpg,Toolbox.v1i.coco.zip,7849190508469410228
+img_ed10933416559ae5,motion_blur,augmented/train/images/train_aug_013076.jpg,Toolbox detection.v3i.coco.zip,10695115531328879045
+img_ed3577b5c2b28289,motion_blur,augmented/train/images/train_aug_013087.jpg,Toolbox.v1i.coco.zip,17623420666575833302
+img_ee1a9cf23dc65ac9,motion_blur,augmented/train/images/train_aug_013126.jpg,Toolbox.v1i.coco.zip,18242188363153242005
+img_ee6a01a1b5e7694e,motion_blur,augmented/train/images/train_aug_013159.jpg,Toolbox.v1i.coco.zip,15018280429266574751
+img_ef09a43b85fe0ee0,motion_blur,augmented/train/images/train_aug_013194.jpg,Toolbox detection.v3i.coco.zip,6529735639845437753
+img_ef1a3c82f46ef3f4,motion_blur,augmented/train/images/train_aug_013198.jpg,Toolbox detection.v3i.coco.zip,3157896917191140022
+img_ef2e5a0f1c59bfe3,motion_blur,augmented/train/images/train_aug_013213.jpg,Toolbox.v1i.coco.zip,9362292354055916637
+img_ef2e5a0f1c59bfe3,motion_blur,augmented/train/images/train_aug_013216.jpg,Toolbox.v1i.coco.zip,4521551772800126843
+img_ef3b1dcc051797f8,motion_blur,augmented/train/images/train_aug_013223.jpg,Toolbox detection.v3i.coco.zip,89093827838956349
+img_f2cfae8c35f0fe2a,motion_blur,augmented/train/images/train_aug_013381.jpg,Toolbox detection.v3i.coco.zip,16007971284952145544
+img_f2cfae8c35f0fe2a,motion_blur,augmented/train/images/train_aug_013383.jpg,Toolbox detection.v3i.coco.zip,3525758946797246154
+img_f2cfae8c35f0fe2a,motion_blur,augmented/train/images/train_aug_013385.jpg,Toolbox detection.v3i.coco.zip,13047097647002476962
+img_f39cdfd54ed9f67b,motion_blur,augmented/train/images/train_aug_013411.jpg,Toolbox.v1i.coco.zip,18031662428197774637
+img_f39cdfd54ed9f67b,motion_blur,augmented/train/images/train_aug_013415.jpg,Toolbox.v1i.coco.zip,10101248962997981589
+img_f3ba62b72a9d7ee6,motion_blur,augmented/train/images/train_aug_013428.jpg,Abandoned Toolbox.v2i.coco.zip,12602462109184532652
+img_f9b1471f61827e6c,motion_blur,augmented/train/images/train_aug_013738.jpg,Abandoned Toolbox.v2i.coco.zip,4137829206158702561
+img_f9fa3d47210121e0,motion_blur,augmented/train/images/train_aug_013757.jpg,Toolbox detection.v3i.coco.zip,12177411481789491687
+img_fe30dcde68940ba4,motion_blur,augmented/train/images/train_aug_013952.jpg,Toolbox detection.v3i.coco.zip,1875999800621034783
+img_fe30dcde68940ba4,motion_blur,augmented/train/images/train_aug_013956.jpg,Toolbox detection.v3i.coco.zip,14712787891028824011
+img_fe93085f5b150c5b,motion_blur,augmented/train/images/train_aug_013971.jpg,Toolbox.v1i.coco.zip,16729054788787862021
